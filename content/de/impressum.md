@@ -10,10 +10,9 @@ Diese Seite ist kein offizielles Medium der Feuerwehr Hamburg / This site is an 
 ## Verantwortlich im Sinne des Digitale-Dienste-Gesetzes (DDG):
 
 Förderverein der Freiwilligen Feuerwehr Hamburg-Eppendorf e.V.
- 
-c/o Meister  
-Semperstraße 8  
-D-22303 Hamburg  
+
+Sportallee 72
+22335 Hamburg  
 Handelsregister: VR 25116  
 Registergericht: Amtsgericht Hamburg  
 
