@@ -24,7 +24,7 @@ content_blocks:
     sort: date
     nested: true
   limit: 9
-  hide-empty: true
+  hide_empty: true
   more:
     title: Weitere Einsätze
     link: einsaetze/page/2/
@@ -39,7 +39,7 @@ content_blocks:
     sort: date
     nested: true
   limit: 9
-  hide-empty: true
+  hide_empty: true
   more:
     title: Weiteres Aktuelles 
     link: aktuelles/page/2/

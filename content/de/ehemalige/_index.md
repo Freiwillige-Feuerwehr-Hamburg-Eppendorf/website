@@ -9,7 +9,7 @@ content_blocks:
     sort: date
     nested: true
   limit: 9
-  hide-empty: true
+  hide_empty: true
   paginate: true
   class: shadow border-0 card-zoom card-body-margin
 ---

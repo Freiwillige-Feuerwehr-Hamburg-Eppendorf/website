@@ -8,7 +8,7 @@ content_blocks:
     section: einsaetze/2020/
     sort: date
   limit: 9
-  hide-empty: true
+  hide_empty: true
   paginate: true
   class: shadow border-0 card-zoom card-body-margin
 ---
