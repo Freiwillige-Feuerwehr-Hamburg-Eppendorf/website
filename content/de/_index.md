@@ -11,9 +11,9 @@ content_blocks:
     backdrop: /assets/img/hero.jpg
   illustration:
     image: /assets/img/logo.png
-    width: 20
+    width: 25
   orientation: horizontal
-  #cover: true
+  cover: false
 
 - _bookshop_name: articles
   heading:
