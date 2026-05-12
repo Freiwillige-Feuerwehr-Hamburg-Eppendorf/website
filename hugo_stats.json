@@ -96,6 +96,7 @@
       "container",
       "container-fluid",
       "container-xxl",
+      "d-block",
       "d-flex",
       "d-inline",
       "d-lg-block",
@@ -267,6 +268,7 @@
       "top-bar",
       "w-100",
       "w-25",
+      "w-5",
       "width-100",
       "width-md-auto"
     ],
