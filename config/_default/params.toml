@@ -5,6 +5,7 @@
     endorse = false
     [main.build]
         transpiler = "dartsass"
+        silenceDeprecations = true
     [main.colorMode]
         enabled = true
         toggle = true

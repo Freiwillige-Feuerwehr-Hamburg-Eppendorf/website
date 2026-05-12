@@ -14,7 +14,7 @@
         <div class="row">
             <div class="col-md-4 small">
                 <a href="{{ site.Home.RelPermalink }}">
-                    {{- partial "assets/image.html" (dict "src" "/assets/img/logo.png" "mode" false "wrapper" "w-25" "title" .Params.title) -}}
+                    {{- partial "assets/image.html" (dict "src" "/assets/img/logo_footer.png" "mode" false "wrapper" "w-25" "title" .Params.title "image-width" 100) -}}
                 </a>
                 <div class="pt-3">Freiwillige Feuerwehr<br>Hamburg-Eppendorf<br>Technischer Zug<br>F1951</div>
             </div>
@@ -24,7 +24,7 @@
                     <div class="fs-md-5 fs-6 fw-bold footer-muted">{{ .Name }}</div>
                     {{- range .Children -}}
                         <div class="py-1">
-                            {{- partial "assets/helpers/navbar-item.html" (dict "menu" . "page" $page "class" "link-bg-footer") -}}
+                            {{- partial "assets/helpers/navbar-item.html" (dict "menu-entry" . "page" $page "class" "link-bg-footer") -}}
                         </div>
                     {{- end -}}
                 </div>
@@ -32,3 +32,4 @@
         </div>
     </div>
 </footer>
+
