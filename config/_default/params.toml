@@ -29,7 +29,7 @@
 [navigation]
     enabled = true
     anchor = true
-    logo = "/assets/img/logo_resized.png"
+    logo = "/assets/img/logo_footer.png"
     color = "body"
     fixed = true
     offset = "3.8em"
@@ -83,7 +83,7 @@
     clipboard = true
 
 [favicon]
-    logo = "/img/logo.png"
+    logo = "/img/logo_resized.png"
     sizes = [16, 32, 48]
 
 [style]
