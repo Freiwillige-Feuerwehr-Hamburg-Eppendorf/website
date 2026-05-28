@@ -17,7 +17,7 @@ _INDEX_TEMPLATE: str = '''\
 ---
 title:
 date: {date}
-description:
+description: " "
 thumbnail: {thumbnail}
 tag: {tag}
 resources:{resources}
