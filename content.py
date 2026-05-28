@@ -2,6 +2,7 @@
 
 import argparse
 import os
+import re
 import shutil
 from datetime import datetime
 from pathlib import Path
@@ -298,6 +299,8 @@ def find_markdown_content(input_path: Path) -> str:
             print(f'Use markdown file: {file_path}')
             with open(file_path, 'r') as md_file:
                 content = md_file.read()
+                # Add newline after sentences: period followed by space and uppercase letter
+                content = re.sub(r'\. (?=[A-ZÄÖÜ])', '.\n', content)
                 return content
 
     print('No markdown file found.')
