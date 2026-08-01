@@ -11,7 +11,7 @@ content_blocks:
     backdrop: /assets/img/hero.jpg
   illustration:
     image: /assets/img/logo_ff.png
-    width: 25
+    width: 12
   orientation: horizontal
   cover: false
 

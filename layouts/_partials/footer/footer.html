@@ -14,7 +14,7 @@
         <div class="row">
             <div class="col-md-4 small">
                 <a href="{{ site.Home.RelPermalink }}">
-                    {{- partial "assets/image.html" (dict "src" "/assets/img/logo_footer.png" "mode" false "wrapper" "w-25" "title" .Params.title "image-width" 100) -}}
+                    {{- partial "assets/image.html" (dict "page" $page "src" "/assets/img/logo_footer.png" "mode" false "wrapper" "w-25" "title" .Params.title "image-width" 100) -}}
                 </a>
                 <div class="pt-3">Freiwillige Feuerwehr<br>Hamburg-Eppendorf<br>Technischer Zug<br>F1951</div>
             </div>
