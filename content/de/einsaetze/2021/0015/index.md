@@ -3,15 +3,6 @@ title: Lenz- und Sicherungsmaßnahmen
 date: 2021-10-06 16:18:43
 description: " "
 thumbnail: img/einsaetze/2021/0015.jpg
-resources:
-- name: img-00
-  src: img/2021-0015-00.jpg
-- name: img-01
-  src: img/2021-0015-01.jpg
-- name: img-02
-  src: img/2021-0015-02.jpg
-- name: img-03
-  src: img/2021-0015-03.jpg
 ---
 
 Am Freitag, den 10.09.21 wurde die FF Eppendorf mit dem gesamten Technischen Zug zu insgesamt 3 Einsätzen alarmiert.
@@ -33,7 +24,9 @@ Insgesamt waren wir inkl. Wiederherstellung der Einsatzbereitschaft erneut mehr 
 
 Bilder: Michael Arning, FPH.
 
-{{< image src="img-00" >}}  
-{{< image src="img-01" >}}  
-{{< image src="img-02" >}}  
-{{< image src="img-03" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2021-0015-00.jpg" >}}
+  {{< img src="img/2021-0015-01.jpg" >}}
+  {{< img src="img/2021-0015-02.jpg" >}}
+  {{< img src="img/2021-0015-03.jpg" >}}
+{{< /carousel >}}

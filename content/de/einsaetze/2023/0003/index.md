@@ -3,15 +3,6 @@ title: Großfeuer in der Billstraße
 date: 2023-04-30
 description: " "
 thumbnail: img/einsaetze/2023/0003.jpg
-resources:
-- name: img1
-  src: img/2023-0003-1.jpg
-- name: img2
-  src: img/2023-0003-2.jpg
-- name: img3
-  src: img/2023-0003-3.jpg
-- name: img4
-  src: img/2023-0003-4.jpg
 ---
 
 Am späten Nachmittag des Ostermontags am 10.04.2023 wurde der gesamte Technische Zug der FF Eppendorf zur Unterstützung bei einem Großbrand in den Stadtteil Rothenburgsort angefordert. In der Billstraße brannte es bereits seit Ostersonntagfrüh gegen kurz vor 5:00 Uhr morgens. Es wurde vor Ort aufgrund des Brandverlaufes nach mehreren Erhöhungen der 6. Alarm ausgelöst!
@@ -26,10 +17,12 @@ https://www.presseportal.de/blaulicht/pm/82522/5482538
 https://www.presseportal.de/blaulicht/pm/82522/5483693  
 https://www.presseportal.de/blaulicht/pm/82522/5487545  
 
-{{< image src="img1" >}}  
-{{< image src="img2" >}}  
-{{< image src="img3" >}}  
-{{< image src="img4" >}}   
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2023-0003-1.jpg" >}}
+  {{< img src="img/2023-0003-2.jpg" >}}
+  {{< img src="img/2023-0003-3.jpg" >}}
+  {{< img src="img/2023-0003-4.jpg" >}}
+{{< /carousel >}}
 
 Foto 3: Jonas Walzberg/DPA  
 Foto 4: Blaulicht-News.de  

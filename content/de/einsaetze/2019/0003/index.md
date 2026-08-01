@@ -3,9 +3,6 @@ title: Hallenwand drohte umzustürzen
 date: 2019-03-18 00:00:00
 description: " "
 thumbnail: img/einsaetze/2019/0003.jpg
-resources:
-- name: img-00
-  src: img/2019-0003-00.jpg
 ---
 
 Hamburg Lurup, Hallenwand droht umzustürzen, 15.03.2019
@@ -19,4 +16,6 @@ Die Dauer des Einsatzes betrug mehr als drei Stunden.
 Bild mit freundlicher Genehmigung von HamburgNews  
 Quelle: https://www.mopo.de/hamburg/polizei/sturm--heinz--in-hamburg-fischmarkt-unter-wasser---bahnstrecke-nach-luebeck-gesperrt-32227620
 
-{{< image src="img-00" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2019-0003-00.jpg" >}}
+{{< /carousel >}}

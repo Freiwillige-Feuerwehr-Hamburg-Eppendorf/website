@@ -3,13 +3,6 @@ title: Einsätze durch Sturmtief Eugen
 date: 2021-05-23 15:10:26
 description: " "
 thumbnail: img/einsaetze/2021/0003.jpg
-resources:
-- name: img-00
-  src: img/2021-0003-00.jpg
-- name: img-01
-  src: img/2021-0003-01.jpg
-- name: img-02
-  src: img/2021-0003-02.jpg
 ---
 
 Am Dienstagnachmittag des 04.05.2021 erreichte Sturmtief „Eugen“ die Hansestadt.
@@ -46,6 +39,8 @@ und allen 3 Einsatzfahrzeugen zur Hilfeleistung für die Bürgerinnen und Bürge
 
 Bilder mit freundlicher Genehmigung von FPH.
 
-{{< image src="img-00" >}}  
-{{< image src="img-01" >}}  
-{{< image src="img-02" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2021-0003-00.jpg" >}}
+  {{< img src="img/2021-0003-01.jpg" >}}
+  {{< img src="img/2021-0003-02.jpg" >}}
+{{< /carousel >}}

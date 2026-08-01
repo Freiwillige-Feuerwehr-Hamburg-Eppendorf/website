@@ -4,31 +4,6 @@ date: 2025-08-25 17:24:00
 description: " "
 thumbnail: img/einsaetze/2025/0018.jpg
 tag: FEU5MANV10
-resources:
-- name: img01
-  src: img/2025-0018-01.jpg
-- name: img02
-  src: img/2025-0018-02.jpg
-- name: img03
-  src: img/2025-0018-03.jpg
-- name: img04
-  src: img/2025-0018-04.jpg
-- name: img05
-  src: img/2025-0018-05.jpg
-- name: img06
-  src: img/2025-0018-06.jpg
-- name: img07
-  src: img/2025-0018-07.jpg
-- name: img08
-  src: img/2025-0018-08.jpg
-- name: img09
-  src: img/2025-0018-09.jpg
-- name: img10
-  src: img/2025-0018-10.jpg
-- name: img11
-  src: img/2025-0018-11.jpg
-- name: img12
-  src: img/2025-0018-12.jpg
 ---
 
 Am Montagnachmittag des 25.08.2025 brach ein Großfeuer im Stadtteil Veddel aus.
@@ -54,15 +29,17 @@ www.presseportal.de/blaulicht/pm/82522/6103999
 www.presseportal.de/blaulicht/pm/82522/6106550
 
 
-{{< image src="img01" >}}  
-{{< image src="img02" >}}  
-{{< image src="img03" >}}  
-{{< image src="img04" >}}  
-{{< image src="img05" >}}  
-{{< image src="img06" >}}  
-{{< image src="img07" >}}  
-{{< image src="img08" >}}  
-{{< image src="img09" >}}  
-{{< image src="img10" >}}  
-{{< image src="img11" >}}  
-{{< image src="img12" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2025-0018-01.jpg" >}}
+  {{< img src="img/2025-0018-02.jpg" >}}
+  {{< img src="img/2025-0018-03.jpg" >}}
+  {{< img src="img/2025-0018-04.jpg" >}}
+  {{< img src="img/2025-0018-05.jpg" >}}
+  {{< img src="img/2025-0018-06.jpg" >}}
+  {{< img src="img/2025-0018-07.jpg" >}}
+  {{< img src="img/2025-0018-08.jpg" >}}
+  {{< img src="img/2025-0018-09.jpg" >}}
+  {{< img src="img/2025-0018-10.jpg" >}}
+  {{< img src="img/2025-0018-11.jpg" >}}
+  {{< img src="img/2025-0018-12.jpg" >}}
+{{< /carousel >}}

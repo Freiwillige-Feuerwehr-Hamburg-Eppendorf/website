@@ -3,13 +3,6 @@ title: Unterstützung bei Großbrand in Bootshaus
 date: 2021-01-31 20:17:25
 description: " "
 thumbnail: img/einsaetze/2021/0000.jpg
-resources:
-- name: img-00
-  src: img/2021-0000-00.jpg
-- name: img-01
-  src: img/2021-0000-01.jpg
-- name: img-02
-  src: img/2021-0000-02.jpg
 ---
 
 Am Freitag, den 29.01.2021 war die FF Eppendorf zeitintensiv beim Vollbrand eines Bootshauses (Feuer 2. Alarm) im Stadtteil Fuhlsbüttel eingesetzt.
@@ -26,6 +19,8 @@ Gegen 07:30 Uhr morgens nach über 6 Std. Einsatzdauer waren sämtliche Einsatzg
 
 Bilder mit freundlicher Genehmigung von Hendrik Lang, D. Waldeck.
 
-{{< image src="img-00" >}}  
-{{< image src="img-01" >}}  
-{{< image src="img-02" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2021-0000-00.jpg" >}}
+  {{< img src="img/2021-0000-01.jpg" >}}
+  {{< img src="img/2021-0000-02.jpg" >}}
+{{< /carousel >}}

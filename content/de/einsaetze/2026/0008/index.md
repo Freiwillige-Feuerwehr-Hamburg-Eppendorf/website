@@ -4,9 +4,6 @@ date: 2026-06-07 13:28:00
 description: " "
 thumbnail: img/einsaetze/2026/0008.jpg
 tag: WASSER
-resources:
-- name: img01
-  src: img/2026-0008-01.jpg
 ---
 Am Sonntagmittag, den 07.06.2026, gegen 13:30 Uhr wurde der gesamte Technische Zug der FF Eppendorf in den Stadtteil Rahlstedt mit dem Spannungswarner und leistungsstarken E-Tauchpumpen nachgefordert.
 Hier stand der Keller eines leerstehenden Einfamilienhauses vollständig unter Wasser.
@@ -22,4 +19,6 @@ Nach Abschluss der entsprechenden Reinigungsarbeiten unserer Gerätschaften ware
 
 Foto: FPH
 
-{{< image src="img01" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2026-0008-01.jpg" >}}
+{{< /carousel >}}

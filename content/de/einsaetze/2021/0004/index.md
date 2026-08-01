@@ -3,15 +3,6 @@ title: Dachstuhlbrand 5. Alarm fordert die FF Eppendorf
 date: 2021-05-26 16:14:48
 description: " "
 thumbnail: img/einsaetze/2021/0004.jpg
-resources:
-- name: img-00
-  src: img/2021-0004-00.jpg
-- name: img-01
-  src: img/2021-0004-01.jpg
-- name: img-02
-  src: img/2021-0004-02.jpg
-- name: img-03
-  src: img/2021-0004-03.jpg
 ---
 
 Am Mittwoch, den 12.05.2021 war der gesamte Technische Zug der FF Eppendorf bei einem ausgedehntenDachstuhlbrand (Feuer 5. Alarm) im Stadtteil Eimsbüttel gebunden.
@@ -35,7 +26,9 @@ Kurz vor zehn abends waren sämtliche Einsatzgeräte wieder uneingeschränkt ein
 
 Bilder mit freundlicher Genehmigung von Waldeck Fotografie
 
-{{< image src="img-00" >}}  
-{{< image src="img-01" >}}  
-{{< image src="img-02" >}}  
-{{< image src="img-03" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2021-0004-00.jpg" >}}
+  {{< img src="img/2021-0004-01.jpg" >}}
+  {{< img src="img/2021-0004-02.jpg" >}}
+  {{< img src="img/2021-0004-03.jpg" >}}
+{{< /carousel >}}

@@ -4,13 +4,6 @@ date: 2025-11-14 07:22:00
 description: " "
 thumbnail: img/einsaetze/2025/0025.jpg
 tag: FEUTU2
-resources:
-- name: img01
-  src: img/2025-0025-01.jpg
-- name: img02
-  src: img/2025-0025-02.jpg
-- name: img03
-  src: img/2025-0025-03.jpg
 ---
 
 Am Dienstagmorgen, den 18.11.2025 gegen 07:22 Uhr wurde der gesamte TZ der FF Eppendorf mit diversen weiteren Einsatzkräften der TuUW32 mit dem Modul Cobra in den Stadtteil Othmarschen zum FEUTU2 alarmiert.
@@ -33,6 +26,8 @@ Nach Rückkehr am FWH mussten wir umfangreiche Einsatzhygienemaßnahmen durchfü
 
 Fotos: NDR Hamburg Journal, FPH
 
-{{< image src="img01" >}}  
-{{< image src="img02" >}}  
-{{< image src="img03" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2025-0025-01.jpg" >}}
+  {{< img src="img/2025-0025-02.jpg" >}}
+  {{< img src="img/2025-0025-03.jpg" >}}
+{{< /carousel >}}

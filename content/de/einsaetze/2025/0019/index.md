@@ -4,11 +4,6 @@ date: 2025-09-08 23:46:00
 description: " "
 thumbnail: img/einsaetze/2025/0019.jpg
 tag: FEUWA2
-resources:
-- name: img01
-  src: img/2025-0019-01.jpg
-- name: img02
-  src: img/2025-0019-02.jpg
 ---
 Am späten Montagabend, den 08.09.2025 gegen 23:45 Uhr wurde der gesamte Technische Zug der FF Eppendorf gemeinsam mit dem WLF samt AB Hafen und dem Einsatzmodul Cobra zu einem gemeldeten Feuer auf einem Restaurantschiff an die Binnenalster in die Hamburger City alarmiert.
 
@@ -22,5 +17,7 @@ Des Weiteren wurde der LIMA/GA zur großflächigen Ausleuchtung eingesetzt.
 Unser ex-geschütztes Be- und Entlüftungsgerät vom GWR3 mit antistatischen Saug- und Drucklutten geeignet zur gezielten Entrauchung speziell für gefangene Räume war an der Einsatzstelle lagebedingt nicht mehr erforderlich und konnte aus dem Einsatz entlassen werden.  
 Nach kurzer Einsatzzeit war der betroffene Bereich rauchfrei und die Einheit gegen 02:00 Uhr nachts waren die Einsatzhygiene wieder hergestellt und die FF Eppendorf uneingeschränkt einsatzbereit.  
 
-{{< image src="img01" >}}  
-{{< image src="img02" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2025-0019-01.jpg" >}}
+  {{< img src="img/2025-0019-02.jpg" >}}
+{{< /carousel >}}

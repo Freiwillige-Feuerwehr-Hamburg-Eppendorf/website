@@ -4,27 +4,6 @@ date: 2025-08-06 17:21:00
 description: " "
 thumbnail: img/einsaetze/2025/0015.jpg
 tag: DRZF
-resources:
-- name: img01
-  src: img/2025-0015-01.jpg
-- name: img02
-  src: img/2025-0015-02.jpg
-- name: img03
-  src: img/2025-0015-03.jpg
-- name: img04
-  src: img/2025-0015-04.jpg
-- name: img05
-  src: img/2025-0015-05.jpg
-- name: img06
-  src: img/2025-0015-06.jpg
-- name: img07
-  src: img/2025-0015-07.jpg
-- name: img08
-  src: img/2025-0015-08.jpg
-- name: img09
-  src: img/2025-0015-09.jpg
-- name: img10
-  src: img/2025-0015-10.jpg
 ---
 Am Mittwochnachmittag, den 06.08.25 gegen 17:20 Uhr wurde der gesamte Technische Zug der FF Eppendorf in den Stadtteil Eppendorf alarmiert.
 13 HLF1 (Rotherbaum) und 32 ZF waren bereits vor Ort und hatten uns mit speziell ausgebildeten Sägeführern und leistungsstarken Kettensägen nachgefordert.
@@ -48,13 +27,15 @@ Umfangreiche Reinigungs- & Instandsetzungsmaßnahmen konnten vor Ort eingeleitet
 Insgesamt waren wir inkl. interner Ablösung & Personalaustausch ca. 8 Std. im Einsatz.
 Die Einsatzstelle wurde an die HHA übergeben.
 
-{{< image src="img01" >}}  
-{{< image src="img02" >}}  
-{{< image src="img03" >}}  
-{{< image src="img04" >}}  
-{{< image src="img05" >}}  
-{{< image src="img06" >}}  
-{{< image src="img07" >}}  
-{{< image src="img08" >}}  
-{{< image src="img09" >}}  
-{{< image src="img10" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2025-0015-01.jpg" >}}
+  {{< img src="img/2025-0015-02.jpg" >}}
+  {{< img src="img/2025-0015-03.jpg" >}}
+  {{< img src="img/2025-0015-04.jpg" >}}
+  {{< img src="img/2025-0015-05.jpg" >}}
+  {{< img src="img/2025-0015-06.jpg" >}}
+  {{< img src="img/2025-0015-07.jpg" >}}
+  {{< img src="img/2025-0015-08.jpg" >}}
+  {{< img src="img/2025-0015-09.jpg" >}}
+  {{< img src="img/2025-0015-10.jpg" >}}
+{{< /carousel >}}

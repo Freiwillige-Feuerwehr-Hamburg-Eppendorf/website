@@ -4,17 +4,6 @@ date: 2025-05-15 21:57:00
 description: " "
 thumbnail: img/einsaetze/2025/0007.jpg
 tag: DRZF
-resources:
-- name: img01
-  src: img/2025-0007-01.jpg
-- name: img02
-  src: img/2025-0007-02.jpg
-- name: img03
-  src: img/2025-0007-03.jpg
-- name: img04
-  src: img/2025-0007-04.jpg
-- name: img05
-  src: img/2025-0007-05.jpg
 ---
 Große gespaltene Buche drohte umzustürzen
 
@@ -34,8 +23,10 @@ Reinigungs- und Instandsetzungsmaßnahmen der Sägen und eingesetzten Geräte ko
 
 Bilder mit freundlicher Genehmigung: FPH
 
-{{< image src="img01" >}}  
-{{< image src="img02" >}}  
-{{< image src="img03" >}}  
-{{< image src="img04" >}}  
-{{< image src="img05" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2025-0007-01.jpg" >}}
+  {{< img src="img/2025-0007-02.jpg" >}}
+  {{< img src="img/2025-0007-03.jpg" >}}
+  {{< img src="img/2025-0007-04.jpg" >}}
+  {{< img src="img/2025-0007-05.jpg" >}}
+{{< /carousel >}}

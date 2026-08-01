@@ -4,13 +4,6 @@ date: 2024-10-11 18:19:00
 description: " "
 thumbnail: img/einsaetze/2024/0008.jpg
 tag: FEU2
-resources:
-- name: img01
-  src: img/2024-0008-01.jpg
-- name: img02
-  src: img/2024-0008-02.jpg
-- name: img03
-  src: img/2024-0008-03.jpg
 ---
 Am Freitagabend, den 11.10.2024 gegen 18:20 Uhr wurde das "Einsatzmodul Cobra" zu einem Dachstuhlbrand eines Einzelhauses in den Stadtteil Niendorf alarmiert.
 Wir wurden mit GKW und LF-TH zugeordnet.
@@ -34,6 +27,8 @@ Die Wehr war kurz vor 22:00 Uhr wieder einsatzbereit.
 
 Bilder mit freundlicher Genehmigung: FPH
 
-{{< image src="img01" >}}  
-{{< image src="img02" >}}  
-{{< image src="img03" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2024-0008-01.jpg" >}}
+  {{< img src="img/2024-0008-02.jpg" >}}
+  {{< img src="img/2024-0008-03.jpg" >}}
+{{< /carousel >}}

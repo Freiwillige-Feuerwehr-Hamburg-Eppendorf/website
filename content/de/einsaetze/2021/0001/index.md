@@ -3,15 +3,6 @@ title: Sicherungsmaßnahmen für herunterfallende Fassadenteile
 date: 2021-03-28 16:07:09
 description: " "
 thumbnail: img/einsaetze/2021/0001.jpg
-resources:
-- name: img-00
-  src: img/2021-0001-00.jpg
-- name: img-01
-  src: img/2021-0001-01.jpg
-- name: img-02
-  src: img/2021-0001-02.jpg
-- name: img-03
-  src: img/2021-0001-03.jpg
 ---
 
 Am Samstagnachmittag (27.03.2021) wurde die FF Eppendorf mit dem gesamten Technischen Zug zusammen mit Kräften der FuRW Alsterdorf in den StadtteilEppendorf alarmiert.
@@ -29,7 +20,9 @@ Bilder mit freundlicher Genehmigung von:
 - Marius Röer (Hamburger Morgenpost)
 - FPH
 
-{{< image src="img-00" >}}  
-{{< image src="img-01" >}}  
-{{< image src="img-02" >}}  
-{{< image src="img-03" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2021-0001-00.jpg" >}}
+  {{< img src="img/2021-0001-01.jpg" >}}
+  {{< img src="img/2021-0001-02.jpg" >}}
+  {{< img src="img/2021-0001-03.jpg" >}}
+{{< /carousel >}}

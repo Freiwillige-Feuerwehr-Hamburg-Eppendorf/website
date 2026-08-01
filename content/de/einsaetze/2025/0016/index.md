@@ -4,15 +4,6 @@ date: 2025-08-11 21:02:00
 description: " "
 thumbnail: img/einsaetze/2025/0016.jpg
 tag: THK
-resources:
-- name: img01
-  src: img/2025-0016-01.jpg
-- name: img02
-  src: img/2025-0016-02.jpg
-- name: img03
-  src: img/2025-0016-03.jpg
-- name: img04
-  src: img/2025-0016-04.jpg
 ---
 
 Am Montagabend, den 11.08.2025 gegen 21:00 Uhr wurde der GKW mit LIMA zwecks Anforderung zur Fachberatung und Ausleuchtung in den Stadtteil Barmbek-Süd alarmiert.
@@ -31,7 +22,9 @@ Die Gefahr wurde beseitigt.
 Die Einsatzstelle wurde abschließend an die Baufirma übergeben.
 Um kurz nach Mitternacht waren wir zurück am FWH uneingeschränkt einsatzbereit.  
 
-{{< image src="img01" >}}  
-{{< image src="img02" >}}  
-{{< image src="img03" >}}  
-{{< image src="img04" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2025-0016-01.jpg" >}}
+  {{< img src="img/2025-0016-02.jpg" >}}
+  {{< img src="img/2025-0016-03.jpg" >}}
+  {{< img src="img/2025-0016-04.jpg" >}}
+{{< /carousel >}}

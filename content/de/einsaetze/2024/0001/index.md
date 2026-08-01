@@ -3,13 +3,6 @@ title: Lenzen einer überlaufenden Sickergrube
 date: 2024-01-28 00:00:00
 description: " "
 thumbnail: img/einsaetze/2024/0001.jpg
-resources:
-- name: img1
-  src: img/2024-0001-01.jpg
-- name: img2
-  src: img/2024-0001-02.jpg
-- name: img3
-  src: img/2024-0001-03.jpg
 ---
 
 In der Nachwirkung des Unwettertiefs Annelie musste die FF Eppendorf am Mittwochmittag, den 03.01.2024 um kurz nach 13:00 Uhr mit dem gesamten Technischen Zug ausrücken.
@@ -35,6 +28,8 @@ Das 13 GW1 wurde aus dem Einsatz herausausgelöst.
 Die EST wurde an die Haustechnik übergeben.
 
 
-{{< image src="img1" >}}  
-{{< image src="img2" >}}  
-{{< image src="img3" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2024-0001-01.jpg" >}}
+  {{< img src="img/2024-0001-02.jpg" >}}
+  {{< img src="img/2024-0001-03.jpg" >}}
+{{< /carousel >}}

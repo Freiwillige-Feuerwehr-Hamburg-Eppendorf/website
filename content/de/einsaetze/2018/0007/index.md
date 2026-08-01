@@ -3,9 +3,6 @@ title: Starke Rauchausbreitung erschwert Löschmaßnahmen
 date: 2018-09-11 00:00:00
 description: " "
 thumbnail: img/einsaetze/2018/0007.jpg
-resources:
-- name: img-00
-  src: img/2018-0007-00.jpg
 ---
 
 Hamburg Altona-Altstadt, Feuer, 09.09.2018, 18.56 Uhr
@@ -19,4 +16,6 @@ Diese Maßnahmen dauerten längere Zeit an.
 Bild mit freundlicher Genehmigung von JOTO  
 Quelle: https://www.presseportal.de/blaulicht/d/feuerwehr/l/hamburg/108
 
-{{< image src="img-00" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2018-0007-00.jpg" >}}
+{{< /carousel >}}

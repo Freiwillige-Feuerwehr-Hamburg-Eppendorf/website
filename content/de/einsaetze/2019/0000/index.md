@@ -3,9 +3,6 @@ title: Baugerüst in der Hafencity gesichert
 date: 2019-01-04 00:00:00
 description: " "
 thumbnail: img/einsaetze/2019/0000.jpg
-resources:
-- name: img-00
-  src: img/2019-0000-00.jpg
 ---
 
 Hamburg Hafencity, Gerüst droht zu fallen, 01.01.2019, 19:21 Uhr
@@ -20,4 +17,6 @@ Im Anschluss der erfolgten Sicherungsmaßnahmen wurde die Bauplane über sämtli
 Bild mit freundlicher Genehmigung von www.tag24.de  
 Quelle: https://www.ndr.de/nachrichten/hamburg/Mehr-als-30-Sturmeinsaetze-fuer-Feuerwehr-Hamburg,wetter4226.html
 
-{{< image src="img-00" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2019-0000-00.jpg" >}}
+{{< /carousel >}}

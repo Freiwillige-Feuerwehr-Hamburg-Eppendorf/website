@@ -3,11 +3,6 @@ title: Unfälle mit Transportmitteln
 date: 2021-06-27 16:29:17
 description: " "
 thumbnail: img/einsaetze/2021/0010.jpg
-resources:
-- name: img-00
-  src: img/2021-0010-00.jpg
-- name: img-01
-  src: img/2021-0010-01.jpg
 ---
 
 Am Donnerstagvormittag, den 17.06.2021 wurde der Technische Zug der FF Eppendorf zu einer technischen Hilfeleistung mit einem Luftfahrzeug in Hamburg-Fuhlsbüttel alarmiert.
@@ -29,5 +24,7 @@ Die FF Eppendorf war mit dem Technischen Zug zeitnah wieder einsatzbereit.
 
 Bildquelle: Elias Bartel, Blaulicht-News
 
-{{< image src="img-00" >}}  
-{{< image src="img-01" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2021-0010-00.jpg" >}}
+  {{< img src="img/2021-0010-01.jpg" >}}
+{{< /carousel >}}

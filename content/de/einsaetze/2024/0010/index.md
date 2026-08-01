@@ -4,11 +4,6 @@ date: 2024-11-06 13:40:00
 description: " "
 thumbnail: img/einsaetze/2024/0010.jpg
 tag: FEU
-resources:
-- name: img01
-  src: img/2024-0010-01.jpg
-- name: img02
-  src: img/2024-0010-02.jpg
 ---
 
 Am Mittwochmittag, den 06.11.2024 gegen 13:40 Uhr wurde das „Einsatzmodul Cobra“ zu einem gemeldeten Dachstuhlbrand eines Einzelhauses in den Stadtteil Hummelsbüttel alarmiert.
@@ -26,6 +21,10 @@ Hierbei wurden mehrere AGT eingesetzt.
 Mit der Wärmebildkamera konnten zudem im weiteren Verlauf Hot Spots erfolgreich lokalisiert, geöffnet und abgelöscht werden.
 Die vollständige Brandausbreitung ins Dach konnte gestoppt werden.
 
-{{< image src="img01" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2024-0010-01.jpg" >}}
+{{< /carousel >}}
 
-{{< image src="img02" >}}  
+{{< carousel id="carousel-2" class="col-12 mx-auto" >}}
+  {{< img src="img/2024-0010-02.jpg" >}}
+{{< /carousel >}}

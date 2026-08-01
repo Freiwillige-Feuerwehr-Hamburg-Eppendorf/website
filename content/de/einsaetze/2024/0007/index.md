@@ -4,15 +4,6 @@ date: 2024-10-01 13:27:00
 description: " "
 thumbnail: img/einsaetze/2024/0007.jpg
 tag: FEU2
-resources:
-- name: img01
-  src: img/2024-0007-01.jpg
-- name: img02
-  src: img/2024-0007-02.jpg
-- name: img03
-  src: img/2024-0007-03.jpg
-- name: img04
-  src: img/2024-0007-04.jpg
 ---
 
 Am Dienstagmittag, den 01.10.2024 ab ca. 13:30 Uhr war die FF Eppendorf mit dem gesamten Technischen Zug bei einem Wohnungsbrand im Dachgeschoss eines Zweifamilienhauses (Feuer 2. Alarm) im Stadtteil Bramfeld eingesetzt.
@@ -31,7 +22,9 @@ Die gesamte Einheit war gegen kurz nach 18:30 Uhr wieder einsatzbereit.
 
 [Offizieller Pressebericht](https://www.presseportal.de/blaulicht/pm/82522/5877457)
 
-{{< image src="img01" >}}  
-{{< image src="img02" >}}  
-{{< image src="img03" >}}  
-{{< image src="img04" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2024-0007-01.jpg" >}}
+  {{< img src="img/2024-0007-02.jpg" >}}
+  {{< img src="img/2024-0007-03.jpg" >}}
+  {{< img src="img/2024-0007-04.jpg" >}}
+{{< /carousel >}}

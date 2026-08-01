@@ -4,13 +4,6 @@ date: 2025-09-18 13:42:00
 description: " "
 thumbnail: img/einsaetze/2025/0020.jpg
 tag: TH
-resources:
-- name: img01
-  src: img/2025-0020-01.jpg
-- name: img02
-  src: img/2025-0020-02.jpg
-- name: img03
-  src: img/2025-0020-03.jpg
 ---
 Am frühen Donnerstagnachmittag, den 18.09.2025 gegen 13:40 Uhr wurde der gesamte Technische Zug in die Geschwister-Scholl-Straße mit dem Meldebild „Haus droht einzustürzen“ in den Stadtteil Eppendorf alarmiert.
 
@@ -30,6 +23,8 @@ Um kurz nach 16:00 Uhr war dann auch der GKW zurück am FWH uneingeschränkt ein
 
 [Bildquelle NEWS5](https://youtu.be/vfKSO_cl6FM?si=bmzNgB0ULrDLQ65Q)
 
-{{< image src="img01" >}}  
-{{< image src="img02" >}}  
-{{< image src="img03" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2025-0020-01.jpg" >}}
+  {{< img src="img/2025-0020-02.jpg" >}}
+  {{< img src="img/2025-0020-03.jpg" >}}
+{{< /carousel >}}

@@ -3,9 +3,6 @@ title: Baum droht auf Bahngleise zu fallen
 date: 2020-02-23 17:00:17
 description: " "
 thumbnail: img/einsaetze/2020/0003.jpg
-resources:
-- name: img-00
-  src: img/2020-0003-00.jpg
 ---
 
 Hamburg-Eppendorf, Baum droht zu fallen, 21.02.2020
@@ -26,4 +23,6 @@ Insgesamt waren wir ehrenamtlich über 4 Std. im Einsatz.
 
 Bild mit freundlicher Genehmigung von FFH.
 
-{{< image src="img-00" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2020-0003-00.jpg" >}}
+{{< /carousel >}}

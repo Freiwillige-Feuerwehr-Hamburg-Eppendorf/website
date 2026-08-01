@@ -4,15 +4,6 @@ date: 2025-11-09 21:08:00
 description: " "
 thumbnail: img/einsaetze/2025/0024.jpg
 tag: FEU3MANV5
-resources:
-- name: img01
-  src: img/2025-0024-01.jpg
-- name: img02
-  src: img/2025-0024-02.jpg
-- name: img03
-  src: img/2025-0024-03.jpg
-- name: img04
-  src: img/2025-0024-04.jpg
 ---
 Am Sonntagabend, den 09.11.2025, wurden wir gegen 21:10 Uhr mit dem gesamten Technischen Zug zu einem FEU3 (Feuer 3. Alarm) in den Stadtteil St. Pauli alarmiert.
 Hierbei war neben dem alarmierten Einsatzmodul des Hochdruckschneidlöschgerätes Cobra auch eine Nachforderung aller unserer Einsatzressourcen zur Aufnahme des Daches eines Restaurants angefordert.
@@ -36,7 +27,9 @@ Die Wehr konnte kurz nach Mitternacht die Einsatzstelle verlassen und war nach w
 
 Bilder: LHPhoto
 
-{{< image src="img01" >}}  
-{{< image src="img02" >}}  
-{{< image src="img03" >}}  
-{{< image src="img04" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2025-0024-01.jpg" >}}
+  {{< img src="img/2025-0024-02.jpg" >}}
+  {{< img src="img/2025-0024-03.jpg" >}}
+  {{< img src="img/2025-0024-04.jpg" >}}
+{{< /carousel >}}

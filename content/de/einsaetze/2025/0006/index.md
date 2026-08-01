@@ -4,15 +4,6 @@ date: 2025-05-03 06:04:00
 description: " "
 thumbnail: img/einsaetze/2025/0006.jpg
 tag: FEU2
-resources:
-- name: img01
-  src: img/2025-0006-01.jpg
-- name: img02
-  src: img/2025-0006-02.jpg
-- name: img03
-  src: img/2025-0006-03.jpg
-- name: img04
-  src: img/2025-0006-04.jpg
 ---
 Brennt Schulgebäude in Farmsen 
 
@@ -36,7 +27,9 @@ Die Wehr war gegen 10:30 Uhr wieder komplett einsatzbereit.
 
 Bilder mit freundlicher Genehmigung: C. Leimig
 
-{{< image src="img01" >}}  
-{{< image src="img02" >}}  
-{{< image src="img03" >}}  
-{{< image src="img04" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2025-0006-01.jpg" >}}
+  {{< img src="img/2025-0006-02.jpg" >}}
+  {{< img src="img/2025-0006-03.jpg" >}}
+  {{< img src="img/2025-0006-04.jpg" >}}
+{{< /carousel >}}

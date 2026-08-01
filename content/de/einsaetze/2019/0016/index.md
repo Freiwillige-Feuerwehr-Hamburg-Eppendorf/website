@@ -3,13 +3,6 @@ title: Ausleuchtung für Kampfmittelräumdienst
 date: 2019-10-19 14:44:18
 description: " "
 thumbnail: img/einsaetze/2019/0016.jpg
-resources:
-- name: img-00
-  src: img/2019-0016-00.jpg
-- name: img-01
-  src: img/2019-0016-01.jpg
-- name: img-02
-  src: img/2019-0016-02.jpg
 ---
 
 Hamburg-Schnelsen, Kampfmittelfund, 16.10.2019
@@ -22,6 +15,8 @@ Einsatzdauer ca. sieben Stunden.
 
 Bildmaterial mit freundlicher Genehmigung von Bodo Marks und Werner Pfeifer.
 
-{{< image src="img-00" >}}  
-{{< image src="img-01" >}}  
-{{< image src="img-02" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2019-0016-00.jpg" >}}
+  {{< img src="img/2019-0016-01.jpg" >}}
+  {{< img src="img/2019-0016-02.jpg" >}}
+{{< /carousel >}}

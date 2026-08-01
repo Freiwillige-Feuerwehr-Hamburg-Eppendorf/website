@@ -3,9 +3,6 @@ title: Stammhälfte auf Gebäude gefallen
 date: 2021-10-31 16:23:41
 description: " "
 thumbnail: img/einsaetze/2021/0018.jpg
-resources:
-- name: img-00
-  src: img/2021-0018-00.jpg
 ---
 
 In den Abendstunden am Freitag den 22.10.21 wurde der gesamte Technische Zug der FF Eppendorf nach einzelnen Sturmböen in den Stadtteil Rahlstedt alarmiert.
@@ -25,4 +22,6 @@ Insgesamt waren wir ehrenamtlich über 5,5 Std. im Einsatz.
 
 Bild mit freundlicher Genehmigung von FPH.
 
-{{< image src="img-00" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2021-0018-00.jpg" >}}
+{{< /carousel >}}

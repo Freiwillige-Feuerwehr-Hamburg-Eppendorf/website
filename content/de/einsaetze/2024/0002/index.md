@@ -3,13 +3,6 @@ title: Taktische Ventilation bei Villenbrand
 date: 2024-02-02 00:00:00
 description: " "
 thumbnail: img/einsaetze/2024/0002.jpg
-resources:
-- name: img1
-  src: img/2024-0002-01.jpg
-- name: img2
-  src: img/2024-0002-02.jpg
-- name: img3
-  src: img/2024-0002-03.jpg
 ---
 
 
@@ -37,6 +30,8 @@ Bereits an der Einsatzstelle wurden erste Hygienemaßnahmen für unsere Einsatzk
 Die Einheit war gegen kurz nach 04:30 Uhr morgens wieder einsatzbereit.
 Hier der offizielle [Pressebericht](https://www.presseportal.de/blaulicht/pm/82522/5694419) der FW Hamburg.
 
-{{< image src="img1" >}}  
-{{< image src="img2" >}}  
-{{< image src="img3" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2024-0002-01.jpg" >}}
+  {{< img src="img/2024-0002-02.jpg" >}}
+  {{< img src="img/2024-0002-03.jpg" >}}
+{{< /carousel >}}

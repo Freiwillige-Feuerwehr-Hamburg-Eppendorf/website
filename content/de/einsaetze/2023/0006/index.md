@@ -3,11 +3,6 @@ title: Drei Zugeinsätze in 12 Stunden am Werktag
 date: 2023-07-09
 description: " "
 thumbnail: img/einsaetze/2023/0006.jpg
-resources:
-- name: img1
-  src: img/2023-0006-1.jpg
-- name: img2
-  src: img/2023-0006-2.jpg
 ---
 
 In der Nachwirkung des Unwettertiefs Lambert am 22./23.06.2023 musste die FF Eppendorf gleich dreimal mit dem gesamten Technischen Zug ausrücken.  
@@ -21,5 +16,7 @@ Hier waren zwei je ca. 80cm starke Äste eines im Stammdurchmesser ca. 1,60m gro
 Vier Stunden später, gegen ca. 18:15h gab es erneut Alarm für die gesamte Einheit. Erneut im Stadtteil Stellingen. Vor Ort war die DLK der FuRW 15. Ein Baum hing in voller Länge kompliziert in einer Stromleitung und musste in der Folge am Stamm zeitintensiv abgetragen werden.
 Gegen 21:15h waren alle Fahrzeuge und 15 Einsatzkräfte zurück und wieder einsatzbereit. Insgesamt waren wir diesen Werktag knapp 11 Stunden im Einsatz.
 
-{{< image src="img1" >}}  
-{{< image src="img2" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2023-0006-1.jpg" >}}
+  {{< img src="img/2023-0006-2.jpg" >}}
+{{< /carousel >}}

@@ -4,19 +4,6 @@ date: 2024-12-20 14:25:00
 description: " "
 thumbnail: img/einsaetze/2024/11.jpg
 tag: THMANV10
-resources:
-- name: img01
-  src: img/2024-11-01.jpg
-- name: img02
-  src: img/2024-11-02.jpg
-- name: img03
-  src: img/2024-11-03.jpg
-- name: img04
-  src: img/2024-11-04.jpg
-- name: img05
-  src: img/2024-11-05.jpg
-- name: img06
-  src: img/2024-11-06.jpg
 ---
 Baukran stürzt auf Einfamilienhaus
 
@@ -39,9 +26,11 @@ Eine interne Ablösung wurde durchgeführt.
 Bilder: FPH
 [Offizieller Pressebericht](https://www.presseportal.de/blaulicht/pm/82522/5936251)
 
-{{< image src="img01" >}}  
-{{< image src="img02" >}}  
-{{< image src="img03" >}}  
-{{< image src="img04" >}}  
-{{< image src="img05" >}}  
-{{< image src="img06" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2024-11-01.jpg" >}}
+  {{< img src="img/2024-11-02.jpg" >}}
+  {{< img src="img/2024-11-03.jpg" >}}
+  {{< img src="img/2024-11-04.jpg" >}}
+  {{< img src="img/2024-11-05.jpg" >}}
+  {{< img src="img/2024-11-06.jpg" >}}
+{{< /carousel >}}

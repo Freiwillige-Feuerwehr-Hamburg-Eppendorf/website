@@ -4,15 +4,6 @@ date: 2025-03-19 06:27:00
 description: " "
 thumbnail: img/einsaetze/2025/0004.jpg
 tag: THLKWMANV5
-resources:
-- name: img01
-  src: img/2025-0004-01.jpg
-- name: img02
-  src: img/2025-0004-02.jpg
-- name: img03
-  src: img/2025-0004-03.jpg
-- name: img04
-  src: img/2025-0004-04.jpg
 ---
 Gemeinsame Bergung eines Linienbusses
 
@@ -33,7 +24,9 @@ Danach wurde dieser durch eine Fachfirma abtransportiert. Wir waren mit GKW, GWR
 
 Bilder mit freundlicher Genehmigung: Michael Arning
 
-{{< image src="img01" >}}  
-{{< image src="img02" >}}  
-{{< image src="img03" >}}  
-{{< image src="img04" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2025-0004-01.jpg" >}}
+  {{< img src="img/2025-0004-02.jpg" >}}
+  {{< img src="img/2025-0004-03.jpg" >}}
+  {{< img src="img/2025-0004-04.jpg" >}}
+{{< /carousel >}}

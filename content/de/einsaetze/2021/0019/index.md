@@ -3,17 +3,6 @@ title: Explosion mit partiellem Gebäudeeinsturz
 date: 2021-12-12 15:36:45
 description: " "
 thumbnail: img/einsaetze/2021/0019.jpg
-resources:
-- name: img-00
-  src: img/2021-0019-00.jpg
-- name: img-01
-  src: img/2021-0019-01.jpg
-- name: img-02
-  src: img/2021-0019-02.jpg
-- name: img-03
-  src: img/2021-0019-03.jpg
-- name: img-04
-  src: img/2021-0019-04.jpg
 ---
 
 Am Donnerstag, den 02.12.2021 um kurz vor 10 Uhr wurden mehrere Einheiten und Sonderfahrzeuge in den Stadtteil Ottensen alarmiert.
@@ -37,8 +26,10 @@ Am frühen Freitagmorgen waren wir zurück am FWH.
 Pressebericht: www.presseportal.de/blaulicht/pm/82522/5089709  
 Bilder mit freundlicher Genehmigung von FPH.
 
-{{< image src="img-00" >}}  
-{{< image src="img-01" >}}  
-{{< image src="img-02" >}}  
-{{< image src="img-03" >}}  
-{{< image src="img-04" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2021-0019-00.jpg" >}}
+  {{< img src="img/2021-0019-01.jpg" >}}
+  {{< img src="img/2021-0019-02.jpg" >}}
+  {{< img src="img/2021-0019-03.jpg" >}}
+  {{< img src="img/2021-0019-04.jpg" >}}
+{{< /carousel >}}

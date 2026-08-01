@@ -3,13 +3,6 @@ title: Baum auf Haus, Sicherungsmaßnahmen erforderlich
 date: 2021-04-11 20:03:12
 description: " "
 thumbnail: img/einsaetze/2021/0002.jpg
-resources:
-- name: img-00
-  src: img/2021-0002-00.jpg
-- name: img-01
-  src: img/2021-0002-01.jpg
-- name: img-02
-  src: img/2021-0002-02.jpg
 ---
 
 Am Ostermontag, den 05.04.2021 war nach aufkommenden Windböen eines Sturmfeldes mit einer Stärke von bis zu 80km/h im Stadtteil Groß Borstel eine große Birke mit einem Stammdurchmesser von ca.
@@ -31,6 +24,8 @@ Dieser wurde jedoch lagebedingt entgegen der ersten Meldung zügig durch die Ein
 
 Bilder mit freundlicher Genehmigung von T. Knoop.
 
-{{< image src="img-00" >}}  
-{{< image src="img-01" >}}  
-{{< image src="img-02" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2021-0002-00.jpg" >}}
+  {{< img src="img/2021-0002-01.jpg" >}}
+  {{< img src="img/2021-0002-02.jpg" >}}
+{{< /carousel >}}

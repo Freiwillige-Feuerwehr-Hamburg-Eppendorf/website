@@ -3,13 +3,6 @@ title: Tonnenschwerer Ast auf Gebäude gefallen
 date: 2021-06-10 15:52:15
 description: " "
 thumbnail: img/einsaetze/2021/0007.jpg
-resources:
-- name: img-00
-  src: img/2021-0007-00.jpg
-- name: img-01
-  src: img/2021-0007-01.jpg
-- name: img-02
-  src: img/2021-0007-02.jpg
 ---
 
 In den Mittagstunden am Samstag des 22.05.21 wurde der gesamte Technische Zug der FF Eppendorf nach einzelnen Sturmböen in den Stadtteil Uhlenhorst alarmiert.
@@ -33,6 +26,8 @@ im Einsatz.
 
 Bilder mit freundlicher Genehmigung von Thomas Knoop.
 
-{{< image src="img-00" >}}  
-{{< image src="img-01" >}}  
-{{< image src="img-02" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2021-0007-00.jpg" >}}
+  {{< img src="img/2021-0007-01.jpg" >}}
+  {{< img src="img/2021-0007-02.jpg" >}}
+{{< /carousel >}}

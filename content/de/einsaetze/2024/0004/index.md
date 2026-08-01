@@ -4,21 +4,6 @@ date: 2024-07-29 12:31:00
 description: " "
 thumbnail: img/einsaetze/2024/0004.jpg
 tag: FEU3MANV5
-resources:
-- name: img1
-  src: img/2024-0004-01.jpg
-- name: img2
-  src: img/2024-0004-02.jpg
-- name: img3
-  src: img/2024-0004-03.jpg
-- name: img4
-  src: img/2024-0004-04.jpg
-- name: img5
-  src: img/2024-0004-05.jpg
-- name: img6
-  src: img/2024-0004-06.jpg
-- name: img7
-  src: img/2024-0004-07.jpg
 ---
 
 Am Montagmittag, den 29.07.2024 war die FF Eppendorf umfangreich bei einem Dachstuhlbrand eines viergeschossigen Mehrfamilienhauses (Feuer 3. Alarm) im Stadtteil Hummelsbüttel eingesetzt.
@@ -38,10 +23,12 @@ Intensive Nachlösch- und Aufräumarbeiten dauerten bis in die frühen Abendstun
 
 [Offizieller Pressebericht](https://www.presseportal.de/blaulicht/pm/82522/5833229) & [Auszug Spiegel TV](https://youtu.be/2r6JdNMxk18?si=HXNqIxn-CUMJjm2L&t=677) 
 
-{{< image src="img1" >}}  
-{{< image src="img2" >}}  
-{{< image src="img3" >}}  
-{{< image src="img4" >}}  
-{{< image src="img5" >}}  
-{{< image src="img6" >}}  
-{{< image src="img7" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2024-0004-01.jpg" >}}
+  {{< img src="img/2024-0004-02.jpg" >}}
+  {{< img src="img/2024-0004-03.jpg" >}}
+  {{< img src="img/2024-0004-04.jpg" >}}
+  {{< img src="img/2024-0004-05.jpg" >}}
+  {{< img src="img/2024-0004-06.jpg" >}}
+  {{< img src="img/2024-0004-07.jpg" >}}
+{{< /carousel >}}

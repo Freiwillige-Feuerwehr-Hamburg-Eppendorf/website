@@ -4,13 +4,6 @@ date: 2025-07-28 22:54:00
 description: " "
 thumbnail: img/einsaetze/2025/0014.jpg
 tag: FEU2
-resources:
-- name: img01
-  src: img/2025-0014-01.jpg
-- name: img02
-  src: img/2025-0014-02.jpg
-- name: img03
-  src: img/2025-0014-03.jpg
 ---
 Am Montag, den 28.07.2025 wurden wir gegen 12:45 Uhr mit dem kompletten TZ zu einer umgestürzten Giebelwand in den Stadtteil Ottensen disponiert, unter der 1 Person eingeklemmt war.
 Kurz nach unserem Eintreffen konnte diese über die 12-DLK gerettet und mit RTW und NA-Begleitung ins KH transportiert werden.
@@ -37,6 +30,8 @@ Bereits an der Einsatzstelle wurden erste Hygienemaßnahmen an Gerät & PSA am G
 Bilder: Sebastian Peters NEWS5
 
 
-{{< image src="img01" >}}  
-{{< image src="img02" >}}  
-{{< image src="img03" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2025-0014-01.jpg" >}}
+  {{< img src="img/2025-0014-02.jpg" >}}
+  {{< img src="img/2025-0014-03.jpg" >}}
+{{< /carousel >}}

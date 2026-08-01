@@ -4,19 +4,6 @@ date: 2026-06-27 00:00:00
 description: " "
 thumbnail: img/einsaetze/2026/0010.jpg
 tag: DRZF-Lage
-resources:
-- name: img01
-  src: img/2026-0010-01.jpg
-- name: img02
-  src: img/2026-0010-02.jpg
-- name: img03
-  src: img/2026-0010-03.jpg
-- name: img04
-  src: img/2026-0010-04.jpg
-- name: img05
-  src: img/2026-0010-05.jpg
-- name: img06
-  src: img/2026-0010-06.jpg
 ---
 Ab Ende Juni 2026 mussten wir vermehrt zu wetterbedingten Einsätzen ausrücken.
 Ein Sturm bis 9 Bft. in Böen in Kombination mit der vorherigen Trockenheit waren ursächlich.
@@ -52,9 +39,11 @@ Bilder mit freundlicher Genehmigung: FPH
 
 
 
-{{< image src="img01" >}}  
-{{< image src="img02" >}}  
-{{< image src="img03" >}}  
-{{< image src="img04" >}}  
-{{< image src="img05" >}}  
-{{< image src="img06" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2026-0010-01.jpg" >}}
+  {{< img src="img/2026-0010-02.jpg" >}}
+  {{< img src="img/2026-0010-03.jpg" >}}
+  {{< img src="img/2026-0010-04.jpg" >}}
+  {{< img src="img/2026-0010-05.jpg" >}}
+  {{< img src="img/2026-0010-06.jpg" >}}
+{{< /carousel >}}

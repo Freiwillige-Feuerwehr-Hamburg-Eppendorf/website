@@ -3,9 +3,6 @@ title: 39 Kräfte über 13 Stunden im Einsatzmarathon
 date: 2019-08-09 16:46:51
 description: " "
 thumbnail: img/einsaetze/2019/0010.jpg
-resources:
-- name: img-00
-  src: img/2019-0010-00.jpg
 ---
 
 Hamburg Volkspark, Eidelstedt, Wilhelmsburg, LKW-Unfall, Dachstuhlbrand, Kampfmittelfund, 08.08.2019
@@ -22,4 +19,6 @@ Eine detaillierte Berichterstattung zur Dachhautöffnung beim Dachstuhlbrand fol
 
 Fotos: Pressestelle der Feuerwehr Hamburg  
 
-{{< image src="img-00" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2019-0010-00.jpg" >}}
+{{< /carousel >}}

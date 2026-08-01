@@ -4,9 +4,6 @@ date: 2025-01-06 19:27:00
 description: " "
 thumbnail: img/einsaetze/2025/0002.jpg
 tag: FEU3MANV5
-resources:
-- name: img01
-  src: img/2025-0002-01.jpg
 ---
 Wohnungsbrand nach Verpuffung, Feuer ins Dach gelaufen - 3. Alarm
 
@@ -27,4 +24,6 @@ Bilder: FPH
 
 [Offizieller Pressebericht](https://www.presseportal.de/blaulicht/pm/82522/5943761)
 
-{{< image src="img01" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2025-0002-01.jpg" >}}
+{{< /carousel >}}

@@ -3,13 +3,6 @@ title: Unwetter über dem Hamburger Osten
 date: 2018-05-13 00:00:00
 description: " "
 thumbnail: img/einsaetze/2018/0003.jpg
-resources:
-- name: img-00
-  src: img/2018-0003-00.jpg
-- name: img-01
-  src: img/2018-0003-01.jpg
-- name: img-02
-  src: img/2018-0003-02.jpg
 ---
 
 Hamburg, 10.05.2018, Wasser in Keller, Baum droht zu fallen, ab 15.00 Uhr
@@ -28,6 +21,8 @@ Der Einsatz der Hilfskräfte im Einsatzgebiet wird sich über die gesamte Nacht 
 Fotos: Feuerwehr  
 Quelle: https://www.presseportal.de/pm/82522/3940316
 
-{{< image src="img-00" >}}  
-{{< image src="img-01" >}}  
-{{< image src="img-02" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2018-0003-00.jpg" >}}
+  {{< img src="img/2018-0003-01.jpg" >}}
+  {{< img src="img/2018-0003-02.jpg" >}}
+{{< /carousel >}}

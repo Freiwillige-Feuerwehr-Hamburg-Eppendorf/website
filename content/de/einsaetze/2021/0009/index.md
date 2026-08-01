@@ -3,9 +3,6 @@ title: Entrauchung über lange Wegstrecke
 date: 2021-06-20 16:14:02
 description: " "
 thumbnail: img/einsaetze/2021/0009.jpg
-resources:
-- name: img-00
-  src: img/2021-0009-00.jpg
 ---
 
 Am Donnerstag, den 17.06.2021 war der Technische Zug der FF Eppendorf über mehrere Stunden nach einem Feuer in einer Umkleide zur Entrauchung eines gefangenen Raumes über lange Wegstrecke in der City-Nord im Stadtteil Alsterdorf im Einsatz.
@@ -22,4 +19,6 @@ Nach kurzer Einsatzzeit war der betroffene Bereich rauchfrei und gegen kurz nach
 
 Bild: Symbolbild
 
-{{< image src="img-00" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2021-0009-00.jpg" >}}
+{{< /carousel >}}

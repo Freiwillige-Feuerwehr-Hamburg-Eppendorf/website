@@ -4,11 +4,6 @@ date: 2024-08-07 17:32:00
 description: " "
 thumbnail: img/einsaetze/2024/0005.jpg
 tag: AUSN
-resources:
-- name: img01
-  src: img/2024-0005-01.jpg
-- name: img02
-  src: img/2024-0005-02.jpg
 ---
 
 In den späten Nachmittagsstunden am Mittwoch, den 07.08.2024 erreichte ein Starkregenfeld östliche-südöstliche Stadtteile der Hansestadt.
@@ -26,5 +21,7 @@ Dabei waren wir im Schwerpunkt mit anderen FF im Einsatz. Danke allen Einheiten 
 
 Insgesamt war das Team der FF Eppendorf mit allen Fahrzeugen und insgesamt 16 Einsatzkräften ehrenamtlich für Hamburg im Einsatz!
 
-{{< image src="img01" >}}  
-{{< image src="img02" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2024-0005-01.jpg" >}}
+  {{< img src="img/2024-0005-02.jpg" >}}
+{{< /carousel >}}

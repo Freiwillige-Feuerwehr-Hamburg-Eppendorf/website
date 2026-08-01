@@ -4,15 +4,6 @@ date: 2025-06-06 03:22:00
 description: " "
 thumbnail: img/einsaetze/2025/0009.jpg
 tag: FEUZUG
-resources:
-- name: img01
-  src: img/2025-0009-01.jpg
-- name: img02
-  src: img/2025-0009-02.jpg
-- name: img03
-  src: img/2025-0009-03.jpg
-- name: img04
-  src: img/2025-0009-04.jpg
 ---
 Brennende E-Lok mittels Cobra Schneidlöschsystem gelöscht
 
@@ -34,7 +25,9 @@ Es hat sich gezeigt, dass insbesondere bei größeren Batteriebränden wie bei d
 Die FF Eppendorf war mit 12 Einsatzkräften vor Ort.
 Reinigungs- und Hygienemaßnahmen konnten noch an der Einsatzstelle durchgeführt und am Feuerwehrhaus abgeschlossen werden. ␍
 
-{{< image src="img01" >}}  
-{{< image src="img02" >}}  
-{{< image src="img03" >}}  
-{{< image src="img04" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2025-0009-01.jpg" >}}
+  {{< img src="img/2025-0009-02.jpg" >}}
+  {{< img src="img/2025-0009-03.jpg" >}}
+  {{< img src="img/2025-0009-04.jpg" >}}
+{{< /carousel >}}

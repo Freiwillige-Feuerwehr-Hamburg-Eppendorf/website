@@ -3,23 +3,12 @@ title: Mehrere Verschüttete nach schwerem Arbeitsunfall
 date: 2023-10-30
 description: " "
 thumbnail: img/einsaetze/2023/0009.jpg
-resources:
-- name: img1
-  src: img/2023-0009-1.jpg
-- name: img2
-  src: img/2023-0009-2.jpg
-- name: img3
-  src: img/2023-0009-3.jpg
-- name: img4
-  src: img/2023-0009-4.jpg
 ---
 
 Am Montagmorgen des 30.10.2023 wurden wir als komplette Einheit gemeinsam mit diversen Einheiten der TuUW32 als schwerer Rüstzug mit dem Einsatzstichwort THVMANV10 um kurz nach 0900 Uhr morgens in die HafenCity alarmiert.
 Dort war auf einer Großbaustelle für ein Einkaufszentrum in einem innenliegenden Fahrstuhlschacht über 9 Geschosse ein Baugerüst eingestürzt.
 Dabei wurden insgesamt 5 Arbeiter z.T. schwer verschüttet. Bereits auf Anfahrt wurde die Alarmartauf 2. Alarm THV2MANV10 erhöht.
 In der Folge sollte es eine sehr komplexe, fordernde und taktisch-technisch anspruchsvolle Sondereinsatzlage werden.  
-
-{{< image src="img2" >}}  
 
 
 Bereits kurz nach unserem Eintreffen und der intensiven Erkundung vor Ort stand fest, dass sich der weitere Einsatzablauf neben umfassenden Sicherungsmaßnahmen schwerpunktmäßig auf die Bergung der Leichen konzentrieren würde.
@@ -30,7 +19,6 @@ Im Außenbereich wurde ein Abschnitt Logistik und Holzzuschnittplatz eingerichte
 oder Baukran in obere Geschosse gebracht.
 Nachdem alle Sicherungsmaßnahmen umgesetzt waren, konnten 3 Leichname sukzessive durch die anwesenden Einsatzkräfte geborgen werden.  
 
-{{< image src="img3" >}}  
 
 Wir waren über mehrere Stunden mit insgesamt 17 Einsatzkräften und 3 Fahrzeugen an der Einsatzstelle.
 Am späten Nachmittag wurden wir durch die FF Warwisch abgelöst, da noch eine weitere Leichenbergung und Abstützung über längere Zeit durchgeführt werden musste. 
@@ -41,5 +29,10 @@ Die gesamte Einheit war gegen 21:15 Uhr wieder einsatzbereit.
 
 Offizieller Bericht der FW Hamburg unter: https://www.presseportal.de/blaulicht/pm/82522/5637948
 
-{{< image src="img4" >}}  
+{{< carousel id="carousel-3" class="col-12 mx-auto" >}}
+  {{< img src="img/2023-0009-1.jpg" >}}
+  {{< img src="img/2023-0009-2.jpg" >}}
+  {{< img src="img/2023-0009-3.jpg" >}}
+  {{< img src="img/2023-0009-4.jpg" >}}
+{{< /carousel >}}
 

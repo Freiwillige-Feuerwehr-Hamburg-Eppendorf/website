@@ -3,13 +3,6 @@ title: Dachhautöffnung in der Innenstadt
 date: 2019-10-10 00:00:00
 description: " "
 thumbnail: img/einsaetze/2019/0013.jpg
-resources:
-- name: img-00
-  src: img/2019-0013-00.jpg
-- name: img-01
-  src: img/2019-0013-01.jpg
-- name: img-02
-  src: img/2019-0013-02.jpg
 ---
 
 Hamburg Altstadt, Feuer ,07.10.2019
@@ -27,6 +20,8 @@ Mehr Infos dazu demnächst.
 
 Bilder mit freundlicher Genehmigung von Michael Arning, VB und Pressestelle Feuerwehr Hamburg.
 
-{{< image src="img-00" >}}  
-{{< image src="img-01" >}}  
-{{< image src="img-02" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2019-0013-00.jpg" >}}
+  {{< img src="img/2019-0013-01.jpg" >}}
+  {{< img src="img/2019-0013-02.jpg" >}}
+{{< /carousel >}}

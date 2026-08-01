@@ -4,17 +4,6 @@ date: 2025-01-05 19:54:00
 description: " "
 thumbnail: img/einsaetze/2025/0001.jpg
 tag: FEU2MANV5
-resources:
-- name: img01
-  src: img/2025-0001-01.jpg
-- name: img02
-  src: img/2025-0001-02.jpg
-- name: img03
-  src: img/2025-0001-03.jpg
-- name: img04
-  src: img/2025-0001-04.jpg
-- name: img05
-  src: img/2025-0001-05.jpg
 ---
 Massiver Gebäudebrand in Hummelsbüttel
 
@@ -41,8 +30,10 @@ Bilder: FPH.
 
 [Offizieller Pressebericht](https://www.presseportal.de/blaulicht/pm/82522/5943028)
 
-{{< image src="img01" >}}  
-{{< image src="img02" >}}  
-{{< image src="img03" >}}  
-{{< image src="img04" >}}  
-{{< image src="img05" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2025-0001-01.jpg" >}}
+  {{< img src="img/2025-0001-02.jpg" >}}
+  {{< img src="img/2025-0001-03.jpg" >}}
+  {{< img src="img/2025-0001-04.jpg" >}}
+  {{< img src="img/2025-0001-05.jpg" >}}
+{{< /carousel >}}

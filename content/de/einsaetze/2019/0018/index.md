@@ -3,19 +3,6 @@ title: Rissbildung im Mauerwerk
 date: 2019-11-10 18:14:51
 description: " "
 thumbnail: img/einsaetze/2019/0018.jpg
-resources:
-- name: img-00
-  src: img/2019-0018-00.jpg
-- name: img-01
-  src: img/2019-0018-01.jpg
-- name: img-02
-  src: img/2019-0018-02.jpg
-- name: img-03
-  src: img/2019-0018-03.jpg
-- name: img-04
-  src: img/2019-0018-04.jpg
-- name: img-05
-  src: img/2019-0018-05.jpg
 ---
 
 Hamburg-Eilbek, Verpuffung, 30.10.2019
@@ -35,9 +22,11 @@ Inklusive Nachrüstzeit und Reinigungsmassnahmen betrug die Einsatzdauer knapp 6
 
 Bilder mit freundlicher Genehmigung von FFH.
 
-{{< image src="img-00" >}}  
-{{< image src="img-01" >}}  
-{{< image src="img-02" >}}  
-{{< image src="img-03" >}}  
-{{< image src="img-04" >}}  
-{{< image src="img-05" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2019-0018-00.jpg" >}}
+  {{< img src="img/2019-0018-01.jpg" >}}
+  {{< img src="img/2019-0018-02.jpg" >}}
+  {{< img src="img/2019-0018-03.jpg" >}}
+  {{< img src="img/2019-0018-04.jpg" >}}
+  {{< img src="img/2019-0018-05.jpg" >}}
+{{< /carousel >}}

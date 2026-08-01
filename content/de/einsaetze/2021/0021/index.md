@@ -3,15 +3,6 @@ title: Großbrand in Clubheim
 date: 2021-12-26 17:50:25
 description: " "
 thumbnail: img/einsaetze/2021/0021.jpg
-resources:
-- name: img-00
-  src: img/2021-0021-00.jpg
-- name: img-01
-  src: img/2021-0021-01.jpg
-- name: img-02
-  src: img/2021-0021-02.jpg
-- name: img-03
-  src: img/2021-0021-03.jpg
 ---
 
 Am Mittwoch, den 22.12.2021 kam es gegen 09:00 Uhr morgens zu einem Großbrand eines zweigeschossigen Clubheimes mit angeschlossenem Restaurant und Bootshalle, im Stadtteil Fuhlsbüttel.
@@ -31,7 +22,9 @@ Gegen kurz nach 19:00 Uhr nach knapp 10 Std. Einsatzdauer, waren sämtliche Eins
 Pressebericht: www.presseportal.de/blaulicht/pm/82522/5106389  
 Bilder mit freundlicher Genehmigung von T. Knoop, Bild Hamburg S. Peters, www.blaulicht-news.de C. Leimig
 
-{{< image src="img-00" >}}  
-{{< image src="img-01" >}}  
-{{< image src="img-02" >}}  
-{{< image src="img-03" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2021-0021-00.jpg" >}}
+  {{< img src="img/2021-0021-01.jpg" >}}
+  {{< img src="img/2021-0021-02.jpg" >}}
+  {{< img src="img/2021-0021-03.jpg" >}}
+{{< /carousel >}}

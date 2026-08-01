@@ -4,15 +4,6 @@ date: 2025-08-16 13:23:00
 description: " "
 thumbnail: img/einsaetze/2025/0017.jpg
 tag: DRZF
-resources:
-- name: img01
-  src: img/2025-0017-01.jpg
-- name: img02
-  src: img/2025-0017-02.jpg
-- name: img03
-  src: img/2025-0017-03.jpg
-- name: img04
-  src: img/2025-0017-04.jpg
 ---
 
 Am Samstagmittag, den 16.08.25 wurde der gesamte Technische Zug der FF Eppendorf gegen 13:23 Uhr auf Nachforderung der FF Osdorf gemeinsam mit 14 DLK (Osdorf) in den Stadtteil Osdorf angefordert.
@@ -31,7 +22,9 @@ Reinigungs- und Instandsetzungsmaßnahmen der Sägen und eingesetzten Geräte ko
 Insgesamt waren wir inkl. interner Ablösung und Personalaustausch ca. 8 Std. im Einsatz.
 Die Einsatzstelle wurde an die POL übergeben.
 
-{{< image src="img01" >}}  
-{{< image src="img02" >}}  
-{{< image src="img03" >}}  
-{{< image src="img04" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2025-0017-01.jpg" >}}
+  {{< img src="img/2025-0017-02.jpg" >}}
+  {{< img src="img/2025-0017-03.jpg" >}}
+  {{< img src="img/2025-0017-04.jpg" >}}
+{{< /carousel >}}

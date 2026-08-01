@@ -4,17 +4,6 @@ date: 2026-03-26 13:24:00
 description: " "
 thumbnail: img/einsaetze/2026/0005.jpg
 tag: THMANV25
-resources:
-- name: img01
-  src: img/2026-0005-01.jpg
-- name: img02
-  src: img/2026-0005-02.jpg
-- name: img03
-  src: img/2026-0005-03.jpg
-- name: img04
-  src: img/2026-0005-04.jpg
-- name: img05
-  src: img/2026-0005-05.jpg
 ---
 In Barmbek-Nord ereignete sich am 26.03.2026 gegen 13:00 Uhr ein schwerer Unfall mit einem Bus.
 Ein Linienbus prallte frontal mittig gegen einen Baum.
@@ -37,8 +26,10 @@ Der GWR3 war technische a.D. konnte leider aufgrund der terminierten HU nicht ei
 
 
 
-{{< image src="img01" >}}  
-{{< image src="img02" >}}  
-{{< image src="img03" >}}  
-{{< image src="img04" >}}  
-{{< image src="img05" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2026-0005-01.jpg" >}}
+  {{< img src="img/2026-0005-02.jpg" >}}
+  {{< img src="img/2026-0005-03.jpg" >}}
+  {{< img src="img/2026-0005-04.jpg" >}}
+  {{< img src="img/2026-0005-05.jpg" >}}
+{{< /carousel >}}

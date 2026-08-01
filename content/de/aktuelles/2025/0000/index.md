@@ -3,19 +3,6 @@ title: Einweisung TMF70 an der Technik & Umweltwache
 date: 2025-09-13 00:00:00
 description: " "
 thumbnail: img/aktuelles/2025/0000.jpg
-resources:
-- name: img01
-  src: img/2025-0000-01.jpg
-- name: img02
-  src: img/2025-0000-02.jpg
-- name: img03
-  src: img/2025-0000-03.jpg
-- name: img04
-  src: img/2025-0000-04.jpg
-- name: img05
-  src: img/2025-0000-05.jpg
-- name: img06
-  src: img/2025-0000-06.jpg
 ---
 Am Samstagvormittag, den 13.09.2025, war eine Abordnung mit 14 Einsatzkräften zur Aus- und Fortbildung an der Technik- & Umweltwache (TuUW 32), um sich sowohl an dem Hochdruckschneidlöschgerät "Cobra Cold-Cut-System" praktisch aufzufrischen, aber hauptsächlich um in das neue 70m-Teleskopmastfahrzeug (TMF 70) eingewiesen zu werden.
 
@@ -28,9 +15,11 @@ Abschließend möchten wir uns bei den Kolleginnen und Kollegen der diensthabend
 Zum Abschluss rundete ein sehr leckeres und deftiges Mittagessen unseren Besuch ab.
 Wir freuen uns auf den nächsten Austausch!
 
-{{< image src="img01" >}}  
-{{< image src="img02" >}}  
-{{< image src="img03" >}}  
-{{< image src="img04" >}}  
-{{< image src="img05" >}}  
-{{< image src="img06" >}}  
+{{< carousel id="carousel-2" class="col-12 mx-auto" >}}
+  {{< img src="img/2025-0000-01.jpg" >}}  
+  {{< img src="img/2025-0000-02.jpg" >}}  
+  {{< img src="img/2025-0000-03.jpg" >}}  
+  {{< img src="img/2025-0000-04.jpg" >}}  
+  {{< img src="img/2025-0000-05.jpg" >}}  
+  {{< img src="img/2025-0000-06.jpg" >}}  
+{{< /carousel >}}

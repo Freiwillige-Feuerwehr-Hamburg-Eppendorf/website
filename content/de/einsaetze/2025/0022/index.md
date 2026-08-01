@@ -4,19 +4,6 @@ date: 2025-10-03 13:50:00
 description: " "
 thumbnail: img/einsaetze/2025/0022.jpg
 tag: FEU2MANV5
-resources:
-- name: img01
-  src: img/2025-0022-01.jpg
-- name: img02
-  src: img/2025-0022-02.jpg
-- name: img03
-  src: img/2025-0022-03.jpg
-- name: img04
-  src: img/2025-0022-04.jpg
-- name: img05
-  src: img/2025-0022-05.jpg
-- name: img06
-  src: img/2025-0022-06.jpg
 ---
 Am Freitag, den 03.10.2025, gegen 13:50 Uhr wurde der gesamte Technische Zug zu einem FEU2MANV2 in den Stadtteil Rotherbaum nachgefordert.  
 Vor Ort waren der Einsatzführungsdienst West, der BERF Altona sowie diverse Einsatzkräfte.
@@ -40,9 +27,11 @@ Aufgrund der komplexen Lage waren wir mit 14 Einsatzkräften und allen Fahrzeuge
 
 Bilder: FPH
 
-{{< image src="img01" >}}  
-{{< image src="img02" >}}  
-{{< image src="img03" >}}  
-{{< image src="img04" >}}  
-{{< image src="img05" >}}  
-{{< image src="img06" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2025-0022-01.jpg" >}}
+  {{< img src="img/2025-0022-02.jpg" >}}
+  {{< img src="img/2025-0022-03.jpg" >}}
+  {{< img src="img/2025-0022-04.jpg" >}}
+  {{< img src="img/2025-0022-05.jpg" >}}
+  {{< img src="img/2025-0022-06.jpg" >}}
+{{< /carousel >}}

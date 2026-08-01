@@ -3,13 +3,6 @@ title: Unterstützung bei LKW-Brand auf BAB
 date: 2021-05-30 16:08:28
 description: " "
 thumbnail: img/einsaetze/2021/0005.jpg
-resources:
-- name: img-00
-  src: img/2021-0005-00.jpg
-- name: img-01
-  src: img/2021-0005-01.jpg
-- name: img-02
-  src: img/2021-0005-02.jpg
 ---
 
 Mittwoch, 19.05.2021: Die FF Eppendorf war über mehrere Stunden beim Brand (Feuer auf BAB) zweier LKW-Zugmaschinen auf einem Tiefladeanhänger auf der BAB A24 in Höhe der AS-Jenfeld in Fahrtrichtung Hamburg im Einsatz.
@@ -29,6 +22,8 @@ Gegen 11:00 Uhr, nach knapp 4 Std. Einsatzdauer, waren sämtliche Einsatzgeräte
 
 Bildquellen: sat1regional.de & FF Hamburg (T.D.)
 
-{{< image src="img-00" >}}  
-{{< image src="img-01" >}}  
-{{< image src="img-02" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2021-0005-00.jpg" >}}
+  {{< img src="img/2021-0005-01.jpg" >}}
+  {{< img src="img/2021-0005-02.jpg" >}}
+{{< /carousel >}}

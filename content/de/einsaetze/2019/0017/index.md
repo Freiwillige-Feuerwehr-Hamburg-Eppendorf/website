@@ -3,13 +3,6 @@ title: Großer Baum beschädigt mehrere Autos
 date: 2019-11-01 17:26:01
 description: " "
 thumbnail: img/einsaetze/2019/0017.jpg
-resources:
-- name: img-00
-  src: img/2019-0017-00.jpg
-- name: img-01
-  src: img/2019-0017-01.jpg
-- name: img-02
-  src: img/2019-0017-02.jpg
 ---
 
 Hamburg-Eimsbüttel, Baum umgestürzt, 17.10.2019
@@ -22,6 +15,8 @@ Wir wurden dabei durch ein nachgefordertes Wechselladerfahrzeug der Technik- und
 
 Bilder mit freundlicher Genehmigung von FFH.
 
-{{< image src="img-00" >}}  
-{{< image src="img-01" >}}  
-{{< image src="img-02" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2019-0017-00.jpg" >}}
+  {{< img src="img/2019-0017-01.jpg" >}}
+  {{< img src="img/2019-0017-02.jpg" >}}
+{{< /carousel >}}

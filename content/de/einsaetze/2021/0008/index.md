@@ -3,13 +3,6 @@ title: Massive Explosion mit partiellem Gebäudeeinsturz
 date: 2021-06-13 16:29:08
 description: " "
 thumbnail: img/einsaetze/2021/0008.jpg
-resources:
-- name: img-00
-  src: img/2021-0008-00.jpg
-- name: img-01
-  src: img/2021-0008-01.jpg
-- name: img-02
-  src: img/2021-0008-02.jpg
 ---
 
 Am Montag, den 31.05.2021 wurden mehrere Löschzüge und Sonderfahrzeuge mit über 100 Einsatzkräfte der Feuerwehr Hamburg in den Stadtteil Barmbek-Süd alarmiert.
@@ -35,6 +28,8 @@ Am späten Nachmittag war die gesamte Einheit wieder einsatzbereit.
 
 Bilder: S. Peters www.blaulicht-news.de, Feuerwehr
 
-{{< image src="img-00" >}}  
-{{< image src="img-01" >}}  
-{{< image src="img-02" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2021-0008-00.jpg" >}}
+  {{< img src="img/2021-0008-01.jpg" >}}
+  {{< img src="img/2021-0008-02.jpg" >}}
+{{< /carousel >}}

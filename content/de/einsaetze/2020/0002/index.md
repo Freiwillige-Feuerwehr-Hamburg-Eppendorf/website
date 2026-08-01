@@ -3,19 +3,6 @@ title: Ausnahmezustand durch Orkantief Sabine
 date: 2020-02-16 00:00:00
 description: " "
 thumbnail: img/einsaetze/2020/0002.jpg
-resources:
-- name: img-00
-  src: img/2020-0002-00.jpg
-- name: img-01
-  src: img/2020-0002-01.jpg
-- name: img-02
-  src: img/2020-0002-02.jpg
-- name: img-03
-  src: img/2020-0002-03.jpg
-- name: img-04
-  src: img/2020-0002-04.jpg
-- name: img-05
-  src: img/2020-0002-05.jpg
 ---
 
 Hamburg, Sturmtief Sabine, 09.-11.02.2020
@@ -81,9 +68,11 @@ an Werktagen) zur Hilfeleistung für die Bürgerinnen und Bürger unserer Stadt 
 
 Bilder mit freundlicher Genehmigung von FFH.
 
-{{< image src="img-00" >}}  
-{{< image src="img-01" >}}  
-{{< image src="img-02" >}}  
-{{< image src="img-03" >}}  
-{{< image src="img-04" >}}  
-{{< image src="img-05" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2020-0002-00.jpg" >}}
+  {{< img src="img/2020-0002-01.jpg" >}}
+  {{< img src="img/2020-0002-02.jpg" >}}
+  {{< img src="img/2020-0002-03.jpg" >}}
+  {{< img src="img/2020-0002-04.jpg" >}}
+  {{< img src="img/2020-0002-05.jpg" >}}
+{{< /carousel >}}

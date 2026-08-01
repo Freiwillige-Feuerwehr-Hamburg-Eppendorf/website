@@ -4,15 +4,6 @@ date: 2025-06-30 21:13:00
 description: " "
 thumbnail: img/einsaetze/2025/0011.jpg
 tag: FEU2NOTF
-resources:
-- name: img01
-  src: img/2025-0011-01.jpg
-- name: img02
-  src: img/2025-0011-02.jpg
-- name: img03
-  src: img/2025-0011-03.jpg
-- name: img04
-  src: img/2025-0011-04.jpg
 ---
 Am Montagabend, den 30.06.2025 gegen 21:15 Uhr wurde das „Einsatzmodul Cobra“ zu einem Dachstuhlbrand eines Mehrfamilienhauses in den Stadtteil Bahrenfeld alarmiert.
 Wir wurden mit GKW und LF-TH zugeordnet.
@@ -38,7 +29,9 @@ Die Wehr war gegen 01:50 Uhr wieder einsatzbereit.
 
 
 
-{{< image src="img01" >}}  
-{{< image src="img02" >}}  
-{{< image src="img03" >}}  
-{{< image src="img04" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2025-0011-01.jpg" >}}
+  {{< img src="img/2025-0011-02.jpg" >}}
+  {{< img src="img/2025-0011-03.jpg" >}}
+  {{< img src="img/2025-0011-04.jpg" >}}
+{{< /carousel >}}

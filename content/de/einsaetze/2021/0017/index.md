@@ -3,15 +3,6 @@ title: Feuer im Dachbereich eines Hochhauses
 date: 2021-10-24 16:04:06
 description: " "
 thumbnail: img/einsaetze/2021/0017.jpg
-resources:
-- name: img-00
-  src: img/2021-0017-00.jpg
-- name: img-01
-  src: img/2021-0017-01.jpg
-- name: img-02
-  src: img/2021-0017-02.jpg
-- name: img-03
-  src: img/2021-0017-03.jpg
 ---
 
 Am Samstag, den 16.10.2021 war der gesamte Technische Zug der FF Eppendorf bei einem komplizierten Feuer im Dachbereich (2. Alarm) im Stadtteil Farmsen-Berne gebunden.
@@ -34,7 +25,9 @@ Am Abend waren die Einsatzgeräte wieder gereinigt und instandgesetzt, und die W
 Pressebericht der Feuerwehr Hamburg: https://www.presseportal.de/blaulicht/pm/82522/5048092  
 Bilder mit freundlicher Genehmigung von FPH.
 
-{{< image src="img-00" >}}  
-{{< image src="img-01" >}}  
-{{< image src="img-02" >}}  
-{{< image src="img-03" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2021-0017-00.jpg" >}}
+  {{< img src="img/2021-0017-01.jpg" >}}
+  {{< img src="img/2021-0017-02.jpg" >}}
+  {{< img src="img/2021-0017-03.jpg" >}}
+{{< /carousel >}}

@@ -3,11 +3,6 @@ title: Villenbrand in Neugraben
 date: 2023-09-10
 description: " "
 thumbnail: img/einsaetze/2023/0008.jpg
-resources:
-- name: img1
-  src: img/2023-0008-1.jpg
-- name: img2
-  src: img/2023-0008-2.jpg
 ---
 
 Am 08.09.2023 war der gesamte Technische Zug der FF Eppendorf über den Tag bei einem ausgedehnten Villabrand (Feuer 3. Alarm) im Stadtteil Neugraben gebunden.
@@ -18,5 +13,7 @@ Wir waren mehrere Std. mit 16 EK, darunter 10 AGT und 3 Fzg. an der Einsatzstell
 Bereits an der Einsatzstelle begannen erste Hygienemaßnahmen für unsere Einsatzkräfte an Gerät und PSA. Eingesetzte Einsatzgeräte wurden am FWH bis 19:30 gereinigt und instandgesetzt.
 Gegen 20:00 Uhr wurden wir zu einem gemeldeten Feuer auf einem Schiff an den Landungsbrücken zur Bedienung für das Schneidlöschsystem Cobra alarmiert, konnten jedoch nach kurzer Zeit abbrechen.
 
-{{< image src="img1" >}}  
-{{< image src="img2" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2023-0008-1.jpg" >}}
+  {{< img src="img/2023-0008-2.jpg" >}}
+{{< /carousel >}}

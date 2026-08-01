@@ -21,15 +21,13 @@ date: {date}
 description: " "
 thumbnail: {thumbnail}
 tag: {tag}
-resources:{resources}
 ---
 {markdown_content}
 
 {shortcodes}\
 '''
 
-_INDEX_TEMPLATE_RESOURCES_SNIPPET = '\n- name: img01\n  src: img/{img_src}'
-_INDEX_TEMPLATE_SHORTCODE_SNIPPET = '\n{{< image src="img01" >}}'
+_INDEX_TEMPLATE_SHORTCODE_SNIPPET = '\n{{{{< carousel id="carousel" class="col-12 mx-auto" >}}}}\n  {{{{< img src="img/{img_src}" >}}}}\n{{{{< /carousel >}}}}'
 
 
 def get_latest_year() -> str:
@@ -255,30 +253,30 @@ def copy_images(year: str, content_id: str, input_path: Path):
         raise FileNotFoundError(f'No JPG images found in {input_path}')
 
 
-def get_images_snippet(year: str, content_id: str) -> (str, str):
+def get_images_snippet(year: str, content_id: str) -> str:
     """
-    Generate resources and shortcodes snippets for all images in the content directory.
+    Generate a carousel shortcode snippet for all images in the content directory.
     
-    Creates Hugo resource declarations and image shortcodes for each image file.
+    Creates a Hugo carousel shortcode wrapping an `img` shortcode for each image
+    file, referencing the image path directly (no `resources:` front matter
+    entry is needed).
     
     Args:
         year (str): The year of the content
         content_id (str): The ID of the content
         
     Returns:
-        tuple: A tuple containing (resources_string, shortcodes_string)
+        str: The carousel shortcode snippet
     """
     content_path = _TARGET_BASE_PATH.joinpath(year).joinpath(content_id)
     image_path = content_path.joinpath('img')
-    index_file = content_path.joinpath('index.md')
 
-    shortcodes = ''
-    resources = ''
-    for (idx, image_path) in enumerate(sorted(image_path.iterdir())):
-        resources = resources + f'\n- name: img{idx+1:02}\n  src: img/{image_path.name}'
-        shortcodes = shortcodes + f'\n{{{{< image src="img{idx+1:02}" >}}}}  '
+    images = '\n'.join(
+        f'  {{{{< img src="img/{image_file.name}" >}}}}'
+        for image_file in sorted(image_path.iterdir())
+    )
 
-    return (resources, shortcodes)
+    return f'\n{{{{< carousel id="carousel" class="col-12 mx-auto" >}}}}\n{images}\n{{{{< /carousel >}}}}'
 
 
 def find_markdown_content(input_path: Path) -> str:
@@ -312,7 +310,6 @@ def create_index_file(year: str,
                       date: datetime,
                       thumbnail: str,
                       tag: str,
-                      resources: str,
                       shortcodes: str,
                       markdown_content: str = ''):
     """
@@ -326,8 +323,7 @@ def create_index_file(year: str,
         date (datetime): The date for the content
         thumbnail (str): Path to the thumbnail image
         tag (str): The tag for the content
-        resources (str): The resources section for Hugo
-        shortcodes (str): The image shortcodes
+        shortcodes (str): The carousel/image shortcodes
         markdown_content (str, optional): Additional markdown content. Defaults to ''.
     """
     content_path = _TARGET_BASE_PATH.joinpath(year).joinpath(content_id)
@@ -340,7 +336,6 @@ def create_index_file(year: str,
     index = _INDEX_TEMPLATE.format(date=date,
                                    tag=tag,
                                    thumbnail=thumbnail,
-                                   resources=resources,
                                    shortcodes=shortcodes,
                                    markdown_content=markdown_content)
 
@@ -356,20 +351,20 @@ if __name__ == "__main__":
     if args.command == 'create':
         create_base_paths(args.year, args.id)
         if args.template:
-            resources = _INDEX_TEMPLATE_RESOURCES_SNIPPET.format(img_src=f'{args.year}-{args.id}-01.jpg')
-            create_index_file(args.year, args.id, '', '', '', resources, _INDEX_TEMPLATE_SHORTCODE_SNIPPET)
+            shortcodes = _INDEX_TEMPLATE_SHORTCODE_SNIPPET.format(img_src=f'{args.year}-{args.id}-01.jpg')
+            create_index_file(args.year, args.id, '', '', '', shortcodes)
         elif args.input:
             input_path = Path(args.input)
             tag = parse_tag_from_path(input_path)
             date = parse_date_from_path(input_path)
             copy_images(args.year, args.id, input_path)
-            (resources, shortcodes) = get_images_snippet(args.year, args.id)
+            shortcodes = get_images_snippet(args.year, args.id)
 
             # Find and read markdown content
             markdown_content = find_markdown_content(input_path)
 
             thumbnail_path = _THUMBNAIL_BASE_PATH.joinpath(args.year).joinpath(f'{args.id}.jpg')
-            create_index_file(args.year, args.id, date, str(thumbnail_path), tag, resources, shortcodes,
+            create_index_file(args.year, args.id, date, str(thumbnail_path), tag, shortcodes,
                               markdown_content)
 
     elif args.command == 'print':

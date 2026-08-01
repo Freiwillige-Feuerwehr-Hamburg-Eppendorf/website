@@ -3,11 +3,6 @@ title: Zwei Einsätze in der KW 11
 date: 2020-03-15 16:21:06
 description: " "
 thumbnail: img/einsaetze/2020/0007.jpg
-resources:
-- name: img-00
-  src: img/2020-0007-00.jpg
-- name: img-01
-  src: img/2020-0007-01.jpg
 ---
 
 Hamburg-Dulsberg, LKW-Unfall, 09.03.2020
@@ -29,5 +24,7 @@ Gegen kurz nach 19:00 Uhr war die Wehr wieder vollständig einsatzbereit.
 
 Bilder mit freundlicher Genehmigung von T. Knoop und FFH.
 
-{{< image src="img-00" >}}  
-{{< image src="img-01" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2020-0007-00.jpg" >}}
+  {{< img src="img/2020-0007-01.jpg" >}}
+{{< /carousel >}}

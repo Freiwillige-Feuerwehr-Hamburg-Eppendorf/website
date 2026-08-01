@@ -3,9 +3,6 @@ title: Person unter LKW eingeklemmt
 date: 2021-07-11 17:08:00
 description: " "
 thumbnail: img/einsaetze/2021/0011.jpg
-resources:
-- name: img-00
-  src: img/2021-0011-00.jpg
 ---
 
 In den Mittagstunden am Freitag, den 02.07.2021 wurde der Technische Zug der FF Eppendorf zusammen mit diversen weiteren Einsatzkräften der FuRW 16 aus Alsterdorf und der FF Lokstedt als Ergänzungskomponente, dem Feuerwehrkran und weiteren Einheiten der TuUW32, sowie dem Einsatzführungsdienst Ost in den Stadtteil Groß Borstel alarmiert.
@@ -18,4 +15,6 @@ Kurze Zeit später konnten nahezu alle Einsatzkräfte die Einsatzstelle verlasse
 
 Bildquelle: Facebook HamburgAktuell
 
-{{< image src="img-00" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2021-0011-00.jpg" >}}
+{{< /carousel >}}

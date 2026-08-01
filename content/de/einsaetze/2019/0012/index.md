@@ -3,13 +3,6 @@ title: Unwetter über Hamburger Nordwesten
 date: 2019-09-01 18:00:00
 description: " "
 thumbnail: img/einsaetze/2019/0012.jpg
-resources:
-- name: img-00
-  src: img/2019-0012-00.jpg
-- name: img-01
-  src: img/2019-0012-01.jpg
-- name: img-02
-  src: img/2019-0012-02.jpg
 ---
 
 Hamburg Niendorf, Schnelsen, Alsterdorf, Wasser, 27.08.2019
@@ -24,6 +17,8 @@ Insgesamt war der Technische Zug gemeinsam oder mit Einzelfahrzeugen an sechs Ei
 
 Bildmaterialmit freundlicher Genehmigung von Benjamin Ritter.
 
-{{< image src="img-00" >}}  
-{{< image src="img-01" >}}  
-{{< image src="img-02" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2019-0012-00.jpg" >}}
+  {{< img src="img/2019-0012-01.jpg" >}}
+  {{< img src="img/2019-0012-02.jpg" >}}
+{{< /carousel >}}

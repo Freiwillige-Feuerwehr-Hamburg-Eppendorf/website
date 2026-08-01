@@ -3,11 +3,6 @@ title: Dachhautöffnung bei Feuer in Langenhorn
 date: 2020-01-18 00:00:00
 description: " "
 thumbnail: img/einsaetze/2020/0000.jpg
-resources:
-- name: img-00
-  src: img/2020-0000-00.jpg
-- name: img-01
-  src: img/2020-0000-01.jpg
 ---
 
 Hamburg-Langenhorn, Feuer, 15.01.2020
@@ -21,5 +16,7 @@ Schlussendlich waren wir samt nachfolgender Instandsetzungs- und Reinigungsarbei
  
 Bilder mit freundlicher Genehmigung von Michael Arning.
 
-{{< image src="img-00" >}}  
-{{< image src="img-01" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2020-0000-00.jpg" >}}
+  {{< img src="img/2020-0000-01.jpg" >}}
+{{< /carousel >}}

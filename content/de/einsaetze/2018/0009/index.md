@@ -3,11 +3,6 @@ title: Frontalzusammenstoß zwischen LKW und PKW
 date: 2018-12-06 00:00:00
 description: " "
 thumbnail: img/einsaetze/2018/0009.jpg
-resources:
-- name: img-00
-  src: img/2018-0009-00.jpg
-- name: img-01
-  src: img/2018-0009-01.jpg
 ---
 
 Hamburg Fuhlsbüttel, LKW-Unfall mit Menschenleben in Gefahr, 03.12.2018, 06:32 Uhr
@@ -24,5 +19,7 @@ Die Unfallursache wird jetzt von der Polizei ermittelt.
 Bilder mit freundlicher Genehmigung von Michael Arning  
 Quelle: https://www.presseportal.de/blaulicht/pm/82522/4132431
 
-{{< image src="img-00" >}}  
-{{< image src="img-01" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2018-0009-00.jpg" >}}
+  {{< img src="img/2018-0009-01.jpg" >}}
+{{< /carousel >}}

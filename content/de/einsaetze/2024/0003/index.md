@@ -4,17 +4,6 @@ date: 2024-04-19 00:00:00
 description: " "
 thumbnail: img/einsaetze/2024/0003.jpg
 tag: FEUTU3MANV5
-resources:
-- name: img1
-  src: img/2024-0003-01.jpg
-- name: img2
-  src: img/2024-0003-02.jpg
-- name: img3
-  src: img/2024-0003-03.jpg
-- name: img4
-  src: img/2024-0003-04.jpg
-- name: img5
-  src: img/2024-0003-05.jpg
 ---
 
 Am Donnerstagabend, den 04.04.2024 wurde der gesamte TZ der FF Eppendorf gegen 22:18 Uhr mit diversen weiteren Einsatzkräften der TuUW32 und dem THW in den Stadtteil Poppenbüttel alarmiert.
@@ -38,8 +27,10 @@ Nach Rückkehr am FWH mussten wir umfangreiche Einsatzhygienemaßnahmen durchfü
 [Pressebericht der Feuerwehr Hamburg](https://www.facebook.com/TuUW.F32)
 
 
-{{< image src="img1" >}}  
-{{< image src="img2" >}}  
-{{< image src="img3" >}}  
-{{< image src="img4" >}}  
-{{< image src="img5" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2024-0003-01.jpg" >}}
+  {{< img src="img/2024-0003-02.jpg" >}}
+  {{< img src="img/2024-0003-03.jpg" >}}
+  {{< img src="img/2024-0003-04.jpg" >}}
+  {{< img src="img/2024-0003-05.jpg" >}}
+{{< /carousel >}}

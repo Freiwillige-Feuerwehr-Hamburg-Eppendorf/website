@@ -4,17 +4,6 @@ date: 2025-07-01 20:33:00
 description: " "
 thumbnail: img/einsaetze/2025/0012.jpg
 tag: FEU3MANV5
-resources:
-- name: img01
-  src: img/2025-0012-01.jpg
-- name: img02
-  src: img/2025-0012-02.jpg
-- name: img03
-  src: img/2025-0012-03.jpg
-- name: img04
-  src: img/2025-0012-04.jpg
-- name: img05
-  src: img/2025-0012-05.jpg
 ---
 Am frühen Dienstagabend, den 01.07.2025 wurde der GKW samt LIMA und das LF-TH der FF Eppendorf gemeinsam mit einem WLF mit AB-Hafen samt Umweltdienst der TuUW32 mit dem „Einsatzmodul Cobra“ (Hochdruckschneidlöschgerät) und diversen weiteren Einsatzkräften zu einem Feuer 3. Alarm in den Stadtteil Billbrook alarmiert.
 In der Werner-Siemens-Straße brannte es in der Lagerhalle eines Abfallverwertungsbetriebes.
@@ -34,8 +23,10 @@ Nach Abschluss dieser Maßnahmen waren wir gegen 00:30 Uhr mit der Einheit wiede
 
 Bilder mit freundlicher Genehmigung von: FPH
 
-{{< image src="img01" >}}  
-{{< image src="img02" >}}  
-{{< image src="img03" >}}  
-{{< image src="img04" >}}  
-{{< image src="img05" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2025-0012-01.jpg" >}}
+  {{< img src="img/2025-0012-02.jpg" >}}
+  {{< img src="img/2025-0012-03.jpg" >}}
+  {{< img src="img/2025-0012-04.jpg" >}}
+  {{< img src="img/2025-0012-05.jpg" >}}
+{{< /carousel >}}

@@ -4,11 +4,6 @@ date: 2026-03-31 12:11:00
 description: " "
 thumbnail: img/einsaetze/2026/0006.jpg
 tag: FEU2
-resources:
-- name: img01
-  src: img/2026-0006-01.jpg
-- name: img02
-  src: img/2026-0006-02.jpg
 ---
 Nachdem wir bereits am Morgen des 31.03.2026 gemeinsam mit dem Einsatzmodul Cobra zu einem gemeldeten Dachstuhlbrand in den Stadtteil Rotherbaum alarmiert worden waren und dieser glücklicherweise noch in der Ausbreitungsphase gelöscht werden konnte, wurden wir mit etwas Unterbrechung gegen Mittag um 12:10 Uhr erneut mit dem Technischen Zug der FF Eppendorf samt Cobramodul nach Hamburg-Harburg zu einem weiteren Dachstuhlbrand angefordert.
 Von der TUW32 wurde parallel der AB-Hafen und das TMF70 alarmiert.
@@ -28,5 +23,7 @@ Bilder: TV Newskontor
 
 
 
-{{< image src="img01" >}}  
-{{< image src="img02" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2026-0006-01.jpg" >}}
+  {{< img src="img/2026-0006-02.jpg" >}}
+{{< /carousel >}}

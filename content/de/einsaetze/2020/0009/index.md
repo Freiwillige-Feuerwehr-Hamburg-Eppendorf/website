@@ -3,17 +3,6 @@ title: Tiefbauunfall mit intensiven Sicherungsmaßnahmen
 date: 2020-03-22 17:38:37
 description: " "
 thumbnail: img/einsaetze/2020/0009.jpg
-resources:
-- name: img-00
-  src: img/2020-0009-00.jpg
-- name: img-01
-  src: img/2020-0009-01.jpg
-- name: img-02
-  src: img/2020-0009-02.jpg
-- name: img-03
-  src: img/2020-0009-03.jpg
-- name: img-04
-  src: img/2020-0009-04.jpg
 ---
 
 Hamburg-Eimsbüttel, Personen verschüttet, 18.03.2020
@@ -35,8 +24,10 @@ Insgesamt waren wir inkl. Wiederherstellung der Einsatzbereitschaft rund 4 Std. 
 Mit freundlicher Genehmigung von Marco Zitzow, Michael Arning, Sebastian Peters  
 Pressebericht der Feuerwehr Hamburg: https://www.presseportal.de/blaulicht/pm/82522/4550468
 
-{{< image src="img-00" >}}  
-{{< image src="img-01" >}}  
-{{< image src="img-02" >}}  
-{{< image src="img-03" >}}  
-{{< image src="img-04" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2020-0009-00.jpg" >}}
+  {{< img src="img/2020-0009-01.jpg" >}}
+  {{< img src="img/2020-0009-02.jpg" >}}
+  {{< img src="img/2020-0009-03.jpg" >}}
+  {{< img src="img/2020-0009-04.jpg" >}}
+{{< /carousel >}}

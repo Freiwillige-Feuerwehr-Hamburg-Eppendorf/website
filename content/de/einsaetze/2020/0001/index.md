@@ -3,13 +3,6 @@ title: Entrauchungsmaßnahmen nach starker Rauchentwicklung
 date: 2020-01-26 13:00:01
 description: " "
 thumbnail: img/einsaetze/2020/0001.jpg
-resources:
-- name: img-00
-  src: img/2020-0001-00.jpg
-- name: img-01
-  src: img/2020-0001-01.jpg
-- name: img-02
-  src: img/2020-0001-02.jpg
 ---
 
 Hamburg-Altona, Feuer im Keller, 20.01.2020
@@ -28,6 +21,8 @@ Schlussendlich waren wir samt nachfolgender Instandsetzungs- und Reinigungsarbei
   
 Bilder mit freundlicher Genehmigung von Sebastian Peters, Blaulicht News.
 
-{{< image src="img-00" >}}  
-{{< image src="img-01" >}}  
-{{< image src="img-02" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2020-0001-00.jpg" >}}
+  {{< img src="img/2020-0001-01.jpg" >}}
+  {{< img src="img/2020-0001-02.jpg" >}}
+{{< /carousel >}}

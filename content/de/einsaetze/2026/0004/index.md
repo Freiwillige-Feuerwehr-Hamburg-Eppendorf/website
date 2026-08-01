@@ -4,15 +4,6 @@ date: 2026-03-25 10:07:00
 description: " "
 thumbnail: img/einsaetze/2026/0004.jpg
 tag: DRZF
-resources:
-- name: img01
-  src: img/2026-0004-01.jpg
-- name: img02
-  src: img/2026-0004-02.jpg
-- name: img03
-  src: img/2026-0004-03.jpg
-- name: img04
-  src: img/2026-0004-04.jpg
 ---
 Am 25.03.2026 zum frühen Vormittag um kurz nach 10:00 Uhr wurde die FF Eppendorf aufgrund stürmischer Böen zu einem umgestürzten Baum nach Alsterdorf alarmiert.
 Vor Ort war bereits das 16-HLF1 und hatte nachgefordert. Die Birke war im Innenhof eines Wohnkomplexes ohne Zufahrtsmöglichkeit oder Aufstellfläche für ein Hubrettungsfahrzeug auf das Dach eines 3-geschossigen Mehrfamilienhauses gestürzt.
@@ -28,7 +19,9 @@ Danach konnte die Einsatzstelle an die Mieter übergeben und alle Maßnahmen zur
 
 
 
-{{< image src="img01" >}}  
-{{< image src="img02" >}}  
-{{< image src="img03" >}}  
-{{< image src="img04" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2026-0004-01.jpg" >}}
+  {{< img src="img/2026-0004-02.jpg" >}}
+  {{< img src="img/2026-0004-03.jpg" >}}
+  {{< img src="img/2026-0004-04.jpg" >}}
+{{< /carousel >}}

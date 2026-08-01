@@ -3,19 +3,6 @@ title: Einsätze im Monat August / Lenzen nach Wasserrohrbruch
 date: 2023-09-03
 description: " "
 thumbnail: img/einsaetze/2023/0007.jpg
-resources:
-- name: img1
-  src: img/2023-0007-1.jpg
-- name: img2
-  src: img/2023-0007-2.jpg
-- name: img3
-  src: img/2023-0007-3.jpg
-- name: img4
-  src: img/2023-0007-4.jpg
-- name: img5
-  src: img/2023-0007-5.jpg
-- name: img6
-  src: img/2023-0007-6.jpg
 ---
 
 Am Vormittag Dienstag, den 15.08.23 wurde der gesamte Technische Zug der FF Eppendorf in den Stadtteil Ohlsdorf nachgefordert.
@@ -34,9 +21,11 @@ https://www.presseportal.de/blaulicht/pm/82522/5576011
 https://www.radiohamburg.de/aktuelles/hamburg/Wasserrohrbruch-in-der-Nordheimstra%C3%9Fe-in-Steilshoop-sorgt-f%C3%BCr-Chaos-id947211.html  
 20.08.23​ THFLUG3MANV10 Sicherheitslandung HAM  
 
-{{< image src="img1" >}}  
-{{< image src="img2" >}}  
-{{< image src="img3" >}}  
-{{< image src="img4" >}}  
-{{< image src="img5" >}}  
-{{< image src="img6" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2023-0007-1.jpg" >}}
+  {{< img src="img/2023-0007-2.jpg" >}}
+  {{< img src="img/2023-0007-3.jpg" >}}
+  {{< img src="img/2023-0007-4.jpg" >}}
+  {{< img src="img/2023-0007-5.jpg" >}}
+  {{< img src="img/2023-0007-6.jpg" >}}
+{{< /carousel >}}

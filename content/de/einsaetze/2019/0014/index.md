@@ -3,13 +3,6 @@ title: Druckerei im Vollbrand
 date: 2019-10-13 00:00:00
 description: " "
 thumbnail: img/einsaetze/2019/0014.jpg
-resources:
-- name: img-00
-  src: img/2019-0014-00.jpg
-- name: img-01
-  src: img/2019-0014-01.jpg
-- name: img-02
-  src: img/2019-0014-02.jpg
 ---
 
 Hamburg Hohenfelde, Feuer mit 3. Alarm, 07.10.2019
@@ -22,6 +15,8 @@ Der Technische Zug der FF Eppendorf war bei diesem und vorherigen personal- und 
 
 Fotomaterial mit freundlicher Genehmigung von Michael Arning und Waldeck Fotografie.
 
-{{< image src="img-00" >}}  
-{{< image src="img-01" >}}  
-{{< image src="img-02" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2019-0014-00.jpg" >}}
+  {{< img src="img/2019-0014-01.jpg" >}}
+  {{< img src="img/2019-0014-02.jpg" >}}
+{{< /carousel >}}

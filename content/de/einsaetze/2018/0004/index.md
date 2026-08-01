@@ -3,13 +3,6 @@ title: Eingeklemmter Aufzugmonteur
 date: 2018-08-05 00:00:00
 description: " "
 thumbnail: img/einsaetze/2018/0004.jpg
-resources:
-- name: img-00
-  src: img/2018-0004-00.jpg
-- name: img-01
-  src: img/2018-0004-01.jpg
-- name: img-02
-  src: img/2018-0004-02.jpg
 ---
 
 Hamburg Eppendorf, 02.08.2018, 11.52 Uhr, Abgestürzter Aufzug, Kellinghusenstraße
@@ -28,6 +21,8 @@ Eingesetzt waren 34 Einsatzkräfte von Berufs- und freiwilliger Feuerwehr.
 Bilder mit freundlicher Genehmigung von Sebastian Peters: www.blaulicht-news.de  
 Quelle: https://www.presseportal.de/pm/82522/4024843
 
-{{< image src="img-00" >}}  
-{{< image src="img-01" >}}  
-{{< image src="img-02" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2018-0004-00.jpg" >}}
+  {{< img src="img/2018-0004-01.jpg" >}}
+  {{< img src="img/2018-0004-02.jpg" >}}
+{{< /carousel >}}

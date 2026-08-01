@@ -4,17 +4,6 @@ date: 2025-06-06 09:53:00
 description: " "
 thumbnail: img/einsaetze/2025/0010.jpg
 tag: DRZF
-resources:
-- name: img01
-  src: img/2025-0010-01.jpg
-- name: img02
-  src: img/2025-0010-02.jpg
-- name: img03
-  src: img/2025-0010-03.jpg
-- name: img04
-  src: img/2025-0010-04.jpg
-- name: img05
-  src: img/2025-0010-05.jpg
 ---
 
 Am Freitagvormittag des 06.06.25 wurde der gesamte Technische Zug der FF Eppendorf gegen kurz vor 10:00 Uhr auf Nachforderung des 24 HLF (Sasel) zusammen mit dem 32 Kran der TuUW32 in den Stadtteil Lemsahl-Mellingstedt alarmiert.
@@ -33,8 +22,10 @@ Reinigungs- und Instandsetzungsmaßnahmen der Sägen und eingesetzten Geräte ko
 
 
 
-{{< image src="img01" >}}  
-{{< image src="img02" >}}  
-{{< image src="img03" >}}  
-{{< image src="img04" >}}  
-{{< image src="img05" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2025-0010-01.jpg" >}}
+  {{< img src="img/2025-0010-02.jpg" >}}
+  {{< img src="img/2025-0010-03.jpg" >}}
+  {{< img src="img/2025-0010-04.jpg" >}}
+  {{< img src="img/2025-0010-05.jpg" >}}
+{{< /carousel >}}

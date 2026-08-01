@@ -4,19 +4,6 @@ date: 2026-04-05 14:12:00
 description: " "
 thumbnail: img/einsaetze/2026/0007.jpg
 tag: DRZF
-resources:
-- name: img01
-  src: img/2026-0007-01.jpg
-- name: img02
-  src: img/2026-0007-02.jpg
-- name: img03
-  src: img/2026-0007-03.jpg
-- name: img04
-  src: img/2026-0007-04.jpg
-- name: img05
-  src: img/2026-0007-05.jpg
-- name: img06
-  src: img/2026-0007-06.jpg
 ---
 Am frühen Nachmittag des 05.04.2026 wurde die FF Eppendorf gegen kurz nach 14:00 Uhr in den Stadtteil Wellingsbüttel von dem anwesenden 24-CDI, der FF Wellingsbüttel und der 23-SEGH alarmiert.
 Hier war eine ca. 22m hohe Tanne in weitere Bäume gefallen und drohte auf eine öffentliche Straße zu stürzen.
@@ -34,9 +21,11 @@ Wir waren mit dem gesamten TZ vor Ort und nach knapp 5 Stunden wieder einsatzber
 
 
 
-{{< image src="img01" >}}  
-{{< image src="img02" >}}  
-{{< image src="img03" >}}  
-{{< image src="img04" >}}  
-{{< image src="img05" >}}  
-{{< image src="img06" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2026-0007-01.jpg" >}}
+  {{< img src="img/2026-0007-02.jpg" >}}
+  {{< img src="img/2026-0007-03.jpg" >}}
+  {{< img src="img/2026-0007-04.jpg" >}}
+  {{< img src="img/2026-0007-05.jpg" >}}
+  {{< img src="img/2026-0007-06.jpg" >}}
+{{< /carousel >}}

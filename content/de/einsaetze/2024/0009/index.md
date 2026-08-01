@@ -4,13 +4,6 @@ date: 2024-10-12 18:36:00
 description: " "
 thumbnail: img/einsaetze/2024/0009.jpg
 tag: KMFE
-resources:
-- name: img01
-  src: img/2024-0009-01.jpg
-- name: img02
-  src: img/2024-0009-02.jpg
-- name: img03
-  src: img/2024-0009-03.jpg
 ---
 
 Am frühen Samstagabend, den 12.10.2024 gegen kurz nach 18:30 Uhr wurde der TZ der FF EPPD zu einem Kampfmittelfund mit Entschärfung in den Stadtteil Sternschanze nachgefordert.
@@ -23,6 +16,8 @@ Der Blindgänger konnte erfolgreich gegen 00:15 Uhr durch den KRD entschärft we
 
 Offizieler [Pressebericht](https://www.presseportal.de/blaulicht/pm/82522/5885224) der FW Hamburg.
 
-{{< image src="img01" >}}  
-{{< image src="img02" >}}  
-{{< image src="img03" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2024-0009-01.jpg" >}}
+  {{< img src="img/2024-0009-02.jpg" >}}
+  {{< img src="img/2024-0009-03.jpg" >}}
+{{< /carousel >}}

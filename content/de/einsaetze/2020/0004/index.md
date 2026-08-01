@@ -3,13 +3,6 @@ title: FF Eppendorf unterstützt bei Feuer in Fuhlsbüttel
 date: 2020-03-01 16:00:00
 description: " "
 thumbnail: img/einsaetze/2020/0004.jpg
-resources:
-- name: img-00
-  src: img/2020-0004-00.jpg
-- name: img-01
-  src: img/2020-0004-01.jpg
-- name: img-02
-  src: img/2020-0004-02.jpg
 ---
 
 Hamburg-Fuhlsbüttel, Feuer, 26.02.2020
@@ -33,6 +26,8 @@ Am frühen Abend war es dann endlich geschafft, sämtliche weiteren Einsatzgerä
 
 Bilder mit freundlicher Genehmigung von FFH.
 
-{{< image src="img-00" >}}  
-{{< image src="img-01" >}}  
-{{< image src="img-02" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2020-0004-00.jpg" >}}
+  {{< img src="img/2020-0004-01.jpg" >}}
+  {{< img src="img/2020-0004-02.jpg" >}}
+{{< /carousel >}}

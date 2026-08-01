@@ -3,9 +3,6 @@ title: Großer, gespaltener Ahorn drohte umzustürzen
 date: 2021-08-15 16:09:08
 description: " "
 thumbnail: img/einsaetze/2021/0013.jpg
-resources:
-- name: img-00
-  src: img/2021-0013-00.jpg
 ---
 
 Am Samstagnachmittag den 31.07.21 wurde der gesamte Technische Zug der FF Eppendorf nach einzelnen Sturmböen in den Hamburger Stadtpark alarmiert.
@@ -29,4 +26,6 @@ Insgesamt waren wir ehrenamtlich über 5 Std. im Einsatz.
 
 Bild mit freundlicher Genehmigung von Thomas Knoop.
 
-{{< image src="img-00" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2021-0013-00.jpg" >}}
+{{< /carousel >}}

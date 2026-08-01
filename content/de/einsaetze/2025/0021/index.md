@@ -4,17 +4,6 @@ date: 2025-09-21 14:59:00
 description: " "
 thumbnail: img/einsaetze/2025/0021.jpg
 tag: DRZF
-resources:
-- name: img01
-  src: img/2025-0021-01.jpg
-- name: img02
-  src: img/2025-0021-02.jpg
-- name: img03
-  src: img/2025-0021-03.jpg
-- name: img04
-  src: img/2025-0021-04.jpg
-- name: img05
-  src: img/2025-0021-05.jpg
 ---
 Am Sonntagnachmittag, den 21.09.25 um ca. 15:00 Uhr wurde der gesamte Technische Zug der FF Eppendorf in den Stadtteil Stellingen alarmiert.
 Das 15 HLG (FuRW Stellingen) war bereits vor Ort und hatte aufgrund eines großen gespaltenen Baumes die FF Eppendorf mit speziell ausgebildeten Sägeführern sowie den Feuerkran der TuUW32 und die Spezialeinsatzgruppe Höhenrettung (SEGH) nachgefordert.
@@ -34,8 +23,10 @@ Die FF Eppendorf war mit 12 Einsatzkräften und allen Fahrzeugen im Einsatz.
 Umfangreiche Reinigungs- und Instandsetzungsmaßnahmen der eingesetzten Geräte konnten noch vor Ort eingeleitet werden.
 Insgesamt waren wir knapp 3,5 Std. im Einsatz. Die Einsatzstelle wurde an den Verantwortlichen von Hagenbeck übergeben.
 
-{{< image src="img01" >}}  
-{{< image src="img02" >}}  
-{{< image src="img03" >}}  
-{{< image src="img04" >}}  
-{{< image src="img05" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2025-0021-01.jpg" >}}
+  {{< img src="img/2025-0021-02.jpg" >}}
+  {{< img src="img/2025-0021-03.jpg" >}}
+  {{< img src="img/2025-0021-04.jpg" >}}
+  {{< img src="img/2025-0021-05.jpg" >}}
+{{< /carousel >}}

@@ -3,9 +3,6 @@ title: Energieversorgung bei Kampfmittelfund
 date: 2021-07-25 16:04:31
 description: " "
 thumbnail: img/einsaetze/2021/0012.jpg
-resources:
-- name: img-00
-  src: img/2021-0012-00.jpg
 ---
 
 Am 14.07.2021 um kurz vor 13:00 Uhr wurde der Technische Zug der FF Eppendorf samt LIMA/GA zur Energieversorgung und Unterstützung bei einem Kampfmittelfund eines Blindgängers in den Stadtteil Ottensen alarmiert.
@@ -21,4 +18,6 @@ Gegen kurz vor 22:00 Uhr am Abend waren alle Fahrzeuge unseres TZ wieder einsatz
 
 Symbolbild: https://www.stern.de/panorama/weltgeschehen/hamburg--bombe-aus-dem-zweiten-weltkrieg-mitten-in-wohngebiet-gefunden-30615560.html
 
-{{< image src="img-00" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2021-0012-00.jpg" >}}
+{{< /carousel >}}

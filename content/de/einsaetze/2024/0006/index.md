@@ -4,13 +4,6 @@ date: 2024-09-14 11:17:00
 description: " "
 thumbnail: img/einsaetze/2024/0006.jpg
 tag: FEU2
-resources:
-- name: img01
-  src: img/2024-0006-01.jpg
-- name: img02
-  src: img/2024-0006-02.jpg
-- name: img03
-  src: img/2024-0006-03.jpg
 ---
 
 Am Samstag, den 14.09.2024 gegen 11:15 Uhr wurde der gesamte Technische Zug in den Stadtteil Neustadt mit dem Stichwort: „Feuer 2. Alarm, brennt Fassade eines Hotels“ vom Einsatzführungsdienst West mit dem Einsatzmodul Cobra nachalarmiert.
@@ -27,6 +20,8 @@ Bereits an der Einsatzstelle begannen erste Hygienemaßnahmen für unsere Einsat
 
 Der offizielle [Pressebericht](https://www.presseportal.de/blaulicht/pm/82522/5864487) der FW Hamburg.
 
-{{< image src="img01" >}}  
-{{< image src="img02" >}}  
-{{< image src="img03" >}}  
+{{< carousel id="carousel" class="col-12 mx-auto" >}}
+  {{< img src="img/2024-0006-01.jpg" >}}
+  {{< img src="img/2024-0006-02.jpg" >}}
+  {{< img src="img/2024-0006-03.jpg" >}}
+{{< /carousel >}}
