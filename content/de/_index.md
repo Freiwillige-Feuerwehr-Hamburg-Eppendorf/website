@@ -13,7 +13,7 @@ content_blocks:
     image: /assets/img/logo_ff.png
     width: 12
   orientation: horizontal
-  cover: false
+  cover: true
 
 - _bookshop_name: articles
   heading:

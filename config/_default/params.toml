@@ -3,6 +3,8 @@
     description = "Freiwillige Feuerwehr Hamburg-Eppendorf - Technischer Zug"
     canonifyAssetsURLs = true
     endorse = false
+    sectionHeight = "100vh"
+    maxSectionHeight = "100vh"
     [main.build]
         transpiler = "dartsass"
         silenceDeprecations = true

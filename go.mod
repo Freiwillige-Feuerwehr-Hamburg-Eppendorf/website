@@ -7,11 +7,11 @@ require (
 	github.com/airbnb/lottie-web v5.13.0+incompatible // indirect
 	github.com/cloudcannon/bookshop/hugo/v3 v3.19.0 // indirect
 	github.com/gethinode/hinode/v2 v2.8.6 // indirect
-	github.com/gethinode/hinode/v3 v3.14.1 // indirect
+	github.com/gethinode/hinode/v3 v3.19.1 // indirect
 	github.com/gethinode/mod-blocks v1.22.1 // indirect
-	github.com/gethinode/mod-blocks/v2 v2.3.4 // indirect
+	github.com/gethinode/mod-blocks/v2 v2.3.6 // indirect
 	github.com/gethinode/mod-bootstrap v1.5.0 // indirect
-	github.com/gethinode/mod-csp v1.0.13 // indirect
+	github.com/gethinode/mod-csp v1.0.14 // indirect
 	github.com/gethinode/mod-flexsearch/v4 v4.1.0 // indirect
 	github.com/gethinode/mod-flexsearch/v5 v5.3.2 // indirect
 	github.com/gethinode/mod-fontawesome/v5 v5.1.1 // indirect
@@ -27,7 +27,7 @@ require (
 	github.com/gethinode/mod-simple-datatables/v3 v3.1.0 // indirect
 	github.com/gethinode/mod-simple-datatables/v4 v4.1.1 // indirect
 	github.com/gethinode/mod-utils/v5 v5.23.1 // indirect
-	github.com/gethinode/mod-utils/v6 v6.8.4 // indirect
+	github.com/gethinode/mod-utils/v6 v6.8.5 // indirect
 	github.com/nextapps-de/flexsearch v0.0.0-20260529083235-f7ed963096a0 // indirect
 	github.com/twbs/bootstrap v5.3.8+incompatible // indirect
 )
