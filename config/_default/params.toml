@@ -107,7 +107,6 @@
 
 [opengraph]
     images = ["logo.png"]
-    locale = "en_US"
 
 [comments]
     enabled = false

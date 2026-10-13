@@ -1,5 +1,5 @@
 [de]
-    languageName = "Deutsch"
+    label = "Deutsch"
     contentDir = "content/de"
     weight = 1
     [de.params.head]

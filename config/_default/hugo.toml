@@ -2,7 +2,7 @@ title = "Freiwillige Feuerwehr Hamburg-Eppendorf"
 copyright = "Copyright © 2022 - 2025 Mark Dumay."
 enableGitInfo = false
 
-# baseURL = "https:/ff-eppendorf.de"
+baseURL = "https://ff-eppendorf.de/"
 canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true
@@ -15,7 +15,7 @@ ignoreErrors = ["error-remote-getjson"]
 
 timeout = "1200s"
 
-languageCode = "de-DE"
+locale = "de-DE"
 defaultContentLanguage = "de"
 defaultContentLanguageInSubdir = false
 

@@ -12,6 +12,8 @@ github.com/cloudcannon/bookshop/hugo/v3 v3.18.2 h1:j3XUvvuCv/7SfGKzd7gzb3WEgs1Du
 github.com/cloudcannon/bookshop/hugo/v3 v3.18.2/go.mod h1:s7mIonDhtsLcn10ZKuVXyqd6BDHI8vT1WQhZw8rPfY8=
 github.com/cloudcannon/bookshop/hugo/v3 v3.19.0 h1:khb65FKbLXMWvm34OULEpKReCwNzE5rY1/bnC+rpMwI=
 github.com/cloudcannon/bookshop/hugo/v3 v3.19.0/go.mod h1:s7mIonDhtsLcn10ZKuVXyqd6BDHI8vT1WQhZw8rPfY8=
+github.com/cloudcannon/bookshop/hugo/v3 v3.20.0 h1:cplbvPKQhmRv+1gyaP61+mu5MEVoOGUEVvdoi4hmuYA=
+github.com/cloudcannon/bookshop/hugo/v3 v3.20.0/go.mod h1:s7mIonDhtsLcn10ZKuVXyqd6BDHI8vT1WQhZw8rPfY8=
 github.com/gethinode/hinode v0.16.1 h1:UJ4tn1FyaFvHRwUFhi1SMKmNIvI2DAdgdHdej2iDhSs=
 github.com/gethinode/hinode v0.16.1/go.mod h1:xqMr5rSBg/DFNyh67VdUNT1oHdqSMvUa+uewH2KA5Zo=
 github.com/gethinode/hinode v0.16.2 h1:OMiK3ww0IzCv66Of0ROr/0oyUFWm1Efg/zY8UdpGNOw=
@@ -78,6 +80,8 @@ github.com/gethinode/hinode/v3 v3.14.1 h1:vKUoWllgnYqhhjAAOIXI4ZkGGY5TV7XEfOKkvi
 github.com/gethinode/hinode/v3 v3.14.1/go.mod h1:Lvx12WUDSt0vvG4PjxeDz3pm6McKjnSdZVhEviSBrjs=
 github.com/gethinode/hinode/v3 v3.19.1 h1:NJO3sVyo5k3qlui6EuYMV7KCG0MT+8sLx03yWYJ1Yk8=
 github.com/gethinode/hinode/v3 v3.19.1/go.mod h1:AAIoKEtwZGLcUQA0l+G/RKs9XPLX1TU61GfTYxZ+Yrs=
+github.com/gethinode/hinode/v3 v3.36.1 h1:edmuq7Qu4WVSMs9CLPPvU/L1sFBBymc0IoHHq480XiY=
+github.com/gethinode/hinode/v3 v3.36.1/go.mod h1:oZoRg6VhcCcfTYqxr0R39/kT7aIjPAPa5VFYPYr8ba8=
 github.com/gethinode/mod-blocks v1.15.2 h1:Sx1HdveBvJuQlTw1rfKwW4nkVZfJuien+6CykLGvo90=
 github.com/gethinode/mod-blocks v1.15.2/go.mod h1:iG/4tXktwqgUyzHyRbuAHmGsdQwmEhUG/YkufNcUe+k=
 github.com/gethinode/mod-blocks v1.22.1 h1:akTuUmBbC81SvgfVIRXCu/g4UuelEYnlhjYNVmyE2UM=
@@ -86,6 +90,8 @@ github.com/gethinode/mod-blocks/v2 v2.3.4 h1:ZLcKEV/PDsadGGiYz6ahszUv1TDRfH1nLDY
 github.com/gethinode/mod-blocks/v2 v2.3.4/go.mod h1:jasWmqif6QIEWQXckSIOPxB5fGZcJZENfh728ZUkIng=
 github.com/gethinode/mod-blocks/v2 v2.3.6 h1:xWvoWBfMXKTjsFuVh3sGZK80uQF1gl6gGt8w4GsZHiE=
 github.com/gethinode/mod-blocks/v2 v2.3.6/go.mod h1:/IfHiD5PCitH3IrpeMF/Pse/N+AbxkP8AYyIja8oJzk=
+github.com/gethinode/mod-blocks/v2 v2.9.0 h1:nLE+4zpclEVMOhpaf9dzTCr6qy8bK7cUXUrr/z63/fI=
+github.com/gethinode/mod-blocks/v2 v2.9.0/go.mod h1:HXqiWXYHuY1TiUQdCvWeMst9YQN7nwM/tcHObOvPDOg=
 github.com/gethinode/mod-bootstrap v1.2.2 h1:Q8E04OKWr9owk7nhQ/NBukUgSFhsECxZsOLEaf5oeiQ=
 github.com/gethinode/mod-bootstrap v1.2.2/go.mod h1:DcpPc2cNaXUPGEvhD7npuEEPA7573NvakTlrwFbyjr8=
 github.com/gethinode/mod-bootstrap v1.2.5 h1:h6yAlkMZA34wJU3pLFpLxp1ynEBte/YTY4kGEQtMGPE=
@@ -148,6 +154,8 @@ github.com/gethinode/mod-flexsearch/v4 v4.1.0 h1:Xbrf0ybwO91r2gN2hp5RTffycD0qJh+
 github.com/gethinode/mod-flexsearch/v4 v4.1.0/go.mod h1:WO5lHVeYkv6ief/TSAxOYfzk0KYaqEUJU8B2/imJWTA=
 github.com/gethinode/mod-flexsearch/v5 v5.3.2 h1:GiWAgVEFHzaLwlmeVIx6oXr8JyVqg54NT0b3AnA4WF8=
 github.com/gethinode/mod-flexsearch/v5 v5.3.2/go.mod h1:LDnuQhxaX9DzGFCHhAI4N7SjbdtVQWUwXAx2KZPxfhM=
+github.com/gethinode/mod-flexsearch/v5 v5.4.1 h1:yjzQEfGpERZDWWeaIy5NfAJMKbeiBtjawmxnJGi4imA=
+github.com/gethinode/mod-flexsearch/v5 v5.4.1/go.mod h1:xxMXBGn9AnWfNbT1CImyQqAQSVSuC3rSnW8Ba5tUswU=
 github.com/gethinode/mod-fontawesome v1.5.1 h1:C7goQY4HrEua/lpjC++laydNKBuYo1+307ngn5tyXeM=
 github.com/gethinode/mod-fontawesome v1.5.1/go.mod h1:Ki1qkWEOiF0hQpCgWeZRw+HkpL6nd1DxKFptU0O2feI=
 github.com/gethinode/mod-fontawesome v1.8.1 h1:iyvULrpaGizQoI5Vl9WjFYcMGWefdyG90NGK2UKax+k=
@@ -246,6 +254,8 @@ github.com/gethinode/mod-mermaid/v4 v4.4.1 h1:1lG8bHEnYAjV36U+lruGrq5Tm8iBp1b9C9
 github.com/gethinode/mod-mermaid/v4 v4.4.1/go.mod h1:9PPC7V2FUh4lEe1gWfD0OUMkNpfWPYXyXwinNot1+uM=
 github.com/gethinode/mod-mermaid/v5 v5.0.4 h1:cw8FE+IDvbMmY0/+pcYfBbg/9gVF/sLvtDt4OyMxHfs=
 github.com/gethinode/mod-mermaid/v5 v5.0.4/go.mod h1:/9uNj5hKghuBKRd3qi18J7XwMRxrLKJymn9MCO6vP3I=
+github.com/gethinode/mod-mermaid/v5 v5.1.0 h1:5/M2Rxl+5VXiM63KJQxh+qNkMK3CmJfeEf2/xbh3N7U=
+github.com/gethinode/mod-mermaid/v5 v5.1.0/go.mod h1:xwz4Gyq7/R6YfScHIpzncdeV7SW43jmXO55dbx71twk=
 github.com/gethinode/mod-simple-datatables v1.0.14 h1:332WtbaQtTm7VP0b7zYfpogTBcOEetkJrNd01K4d/JE=
 github.com/gethinode/mod-simple-datatables v1.0.14/go.mod h1:mP3yjAdVE1G6JHfv8VVsRmvaPlPwddXknI675AuVs2I=
 github.com/gethinode/mod-simple-datatables v1.1.6 h1:7nPeRwHlYbmlNEg7fBV6FyXqpxWW6ZAemaZyYxpIF8U=
@@ -260,6 +270,8 @@ github.com/gethinode/mod-simple-datatables/v3 v3.1.0 h1:Or6tEL6X4uzFrc6QaoJtH8ox
 github.com/gethinode/mod-simple-datatables/v3 v3.1.0/go.mod h1:+qFQEqTkD1VT9OeL7SlPp/HG5lNHl8detSf+kzuW5IM=
 github.com/gethinode/mod-simple-datatables/v4 v4.1.1 h1:Bidf8FA9SxBBb163D0yteTyad/sNiVK31IdqbcF/tZs=
 github.com/gethinode/mod-simple-datatables/v4 v4.1.1/go.mod h1:irmXKx2jeppfpGRsCC91vN8dA4U2nQfy2eW8bajUeJo=
+github.com/gethinode/mod-simple-datatables/v4 v4.3.3 h1:KfYlYz10LY2D9Le7m+rIwr2BpsLGNT0EMQvfEAl2pZU=
+github.com/gethinode/mod-simple-datatables/v4 v4.3.3/go.mod h1:xH4IjmJSTACase/LdxqSiRSWyp0oLMbssdbKT8cBnOQ=
 github.com/gethinode/mod-utils/v2 v2.1.1 h1:aLBcS9Zbx+dqnu5oBsTM01AkkN5nwwifgbV4D0qiHnM=
 github.com/gethinode/mod-utils/v2 v2.1.1/go.mod h1:GTYeknoLujNjfDxI+V9Dcug26CYJSTJ0B/U2dagw9oY=
 github.com/gethinode/mod-utils/v2 v2.2.2 h1:ZRxWIJKmZIDYsoMS3WhxxC+BWJrkd1dcZ8rz/cLZExc=
@@ -284,6 +296,8 @@ github.com/gethinode/mod-utils/v6 v6.8.4 h1:L8x3IcWEn2kms7WWuYwtbi/x7lIR18z+eJhU
 github.com/gethinode/mod-utils/v6 v6.8.4/go.mod h1:E5tO9w3VKaidJpu1nI8zAKmh0bddFHOIIQnudAaXQTs=
 github.com/gethinode/mod-utils/v6 v6.8.5 h1:hzJgNjw6NIORMvxeJ3Q6+qPaPzLc4CQtNTWRXFVjFPM=
 github.com/gethinode/mod-utils/v6 v6.8.5/go.mod h1:E5tO9w3VKaidJpu1nI8zAKmh0bddFHOIIQnudAaXQTs=
+github.com/gethinode/mod-utils/v6 v6.16.0 h1:62BKOlrAlyXsICd1e2xX/N3p8p54MXnlshWaUzvG2/U=
+github.com/gethinode/mod-utils/v6 v6.16.0/go.mod h1:E5tO9w3VKaidJpu1nI8zAKmh0bddFHOIIQnudAaXQTs=
 github.com/nextapps-de/flexsearch v0.0.0-20230711092928-1243fd883ec3 h1:H/qVR5O4BXjRjD+5PZB+r4ug2BSJ2Of4RtwOntd+OKo=
 github.com/nextapps-de/flexsearch v0.0.0-20230711092928-1243fd883ec3/go.mod h1:5GdMfPAXzbA2gXBqTjC6l27kioSYzHlqDMh0+wyx7sU=
 github.com/nextapps-de/flexsearch v0.0.0-20240110101704-4c3966709f85 h1:H6xa5YyCHr78M+qqCApM4Kvz/eMA7pfGskYmfkEBRCA=
