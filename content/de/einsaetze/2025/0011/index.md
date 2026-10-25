@@ -29,7 +29,7 @@ Die Wehr war gegen 01:50 Uhr wieder einsatzbereit.
 
 
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2025-0011-01.jpg" >}}
   {{< img src="img/2025-0011-02.jpg" >}}
   {{< img src="img/2025-0011-03.jpg" >}}

@@ -18,7 +18,7 @@ Der Einsatz dauerte rund fünf Stunden.
 Bilder mit freundlicher Genehmigung von BodoMarks  
 Quelle: https://www.presseportal.de/blaulicht/pm/82522/4051395
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2018-0006-00.jpg" >}}
   {{< img src="img/2018-0006-01.jpg" >}}
   {{< img src="img/2018-0006-02.jpg" >}}

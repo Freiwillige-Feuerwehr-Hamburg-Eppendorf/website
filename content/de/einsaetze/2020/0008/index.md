@@ -21,7 +21,7 @@ Insgesamt waren wir rund 5 Std. im Einsatz.
 Bilder mit freundlicher Genehmigung von Marco Zitzow, Michael Arning.  
 Pressebericht der Feuerwehr Hamburg: https://www.presseportal.de/blaulicht/pm/82522/4550468
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2020-0008-00.jpg" >}}
   {{< img src="img/2020-0008-01.jpg" >}}
   {{< img src="img/2020-0008-02.jpg" >}}

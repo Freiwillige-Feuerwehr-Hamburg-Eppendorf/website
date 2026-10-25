@@ -27,7 +27,7 @@ Die Wehr war gegen 10:30 Uhr wieder komplett einsatzbereit.
 
 Bilder mit freundlicher Genehmigung: C. Leimig
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2025-0006-01.jpg" >}}
   {{< img src="img/2025-0006-02.jpg" >}}
   {{< img src="img/2025-0006-03.jpg" >}}

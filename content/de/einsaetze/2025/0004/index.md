@@ -24,7 +24,7 @@ Danach wurde dieser durch eine Fachfirma abtransportiert. Wir waren mit GKW, GWR
 
 Bilder mit freundlicher Genehmigung: Michael Arning
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2025-0004-01.jpg" >}}
   {{< img src="img/2025-0004-02.jpg" >}}
   {{< img src="img/2025-0004-03.jpg" >}}

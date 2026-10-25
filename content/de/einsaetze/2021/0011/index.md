@@ -15,6 +15,6 @@ Kurze Zeit später konnten nahezu alle Einsatzkräfte die Einsatzstelle verlasse
 
 Bildquelle: Facebook HamburgAktuell
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2021-0011-00.jpg" >}}
 {{< /gallery >}}

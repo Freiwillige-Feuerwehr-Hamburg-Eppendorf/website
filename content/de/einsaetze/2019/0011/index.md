@@ -21,7 +21,7 @@ Der Technische Zug war bei diesem personal- und materialintensiven Einsatz inklu
 
 Fotos mit freundlicher Genehmigung von Thomas Knoop und FFH.
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2019-0011-00.jpg" >}}
   {{< img src="img/2019-0011-01.jpg" >}}
   {{< img src="img/2019-0011-02.jpg" >}}

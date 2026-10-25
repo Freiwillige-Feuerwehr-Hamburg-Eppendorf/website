@@ -16,7 +16,7 @@ In den frühen Morgenstunden waren wir schließlich wieder zurück.
 Bilder mit freundlicher Genehmigung von Sebastian Peters: blaulicht-news.de  
 Quelle: http://www.blaulicht-news.de/stundenlanger-sturmeinsatz-fuer-die-feuerwehr/2019/07/21/
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2019-0008-00.jpg" >}}
   {{< img src="img/2019-0008-01.jpg" >}}
   {{< img src="img/2019-0008-02.jpg" >}}

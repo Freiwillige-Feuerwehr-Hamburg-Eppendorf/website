@@ -16,7 +16,7 @@ Schlussendlich waren wir samt nachfolgender Instandsetzungs- und Reinigungsarbei
  
 Bilder mit freundlicher Genehmigung von Michael Arning.
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2020-0000-00.jpg" >}}
   {{< img src="img/2020-0000-01.jpg" >}}
 {{< /gallery >}}

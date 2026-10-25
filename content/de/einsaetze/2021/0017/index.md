@@ -25,7 +25,7 @@ Am Abend waren die Einsatzgeräte wieder gereinigt und instandgesetzt, und die W
 Pressebericht der Feuerwehr Hamburg: https://www.presseportal.de/blaulicht/pm/82522/5048092  
 Bilder mit freundlicher Genehmigung von FPH.
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2021-0017-00.jpg" >}}
   {{< img src="img/2021-0017-01.jpg" >}}
   {{< img src="img/2021-0017-02.jpg" >}}

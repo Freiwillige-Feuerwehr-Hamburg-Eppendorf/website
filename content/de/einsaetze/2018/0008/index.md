@@ -16,6 +16,6 @@ Wir waren 2,5 Stunden im Einsatz.
 Bild mit freundlicher Genehmigung von TV News Kontor  
 Quelle: https://www.presseportal.de/blaulicht/pm/82522/4089661
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2018-0008-00.jpg" >}}
 {{< /gallery >}}

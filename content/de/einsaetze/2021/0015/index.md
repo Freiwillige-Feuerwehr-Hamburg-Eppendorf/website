@@ -24,7 +24,7 @@ Insgesamt waren wir inkl. Wiederherstellung der Einsatzbereitschaft erneut mehr 
 
 Bilder: Michael Arning, FPH.
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2021-0015-00.jpg" >}}
   {{< img src="img/2021-0015-01.jpg" >}}
   {{< img src="img/2021-0015-02.jpg" >}}

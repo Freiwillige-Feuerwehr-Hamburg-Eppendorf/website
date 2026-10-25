@@ -10,7 +10,7 @@ U-Bahnhof Wandsbek-Gartenstadt nachgefordert. Vor Ort wurde ein Bauarbeiter von 
 Unser Einsatzauftrag bestand darin einen noch an der Decke befindlichen Stahlträger mit einer Masse von ebenfalls 750 kg zu sichern. Dieser war durch den Arbeitsunfall verrutscht und musste gegen ein Herabfallen umfangreich gesichert werden, damit ein sicheres Bergen des Leichnams ermöglicht werden konnte. Die ersteintreffenden Kräfte des Löschzugs der Feuer- und Rettungswache Berliner Tor (FuRW 22) und die FF Wandsbek-Marienthal hatten bereits mit Pallhölzern erste provisorische Sicherungsmaßnahmen getroffen. Mit Hilfe von Baustützen und Europaletten haben wir eine Absprießung hergestellt und konnten den Stahlträger in seiner Position sichern. Im Anschluss konnte der Leichnam durch die anwesenden Einsatzkräfte geborgen werden. Die Einsatzstelle wurde an die Hochbahn übergeben.
 Wir waren über mehrere Stunden mit insgesamt 14 Einsatzkräften und 3 Fahrzeugen samt LIMA an der Einsatzstelle. Nach Rückkehr am Feuerwehrhaus haben wir im Rahmen der Einsatznachsorge mit den eingesetzten Kräften eine gemeinsame Nachbesprechung durchgeführt. Die Einheit war gegen kurz nach 06:00 Uhr morgens wieder uneingeschränkt einsatzbereit.
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2023-0005-1.jpg" >}}
   {{< img src="img/2023-0005-2.jpg" >}}
   {{< img src="img/2023-0005-3.jpg" >}}

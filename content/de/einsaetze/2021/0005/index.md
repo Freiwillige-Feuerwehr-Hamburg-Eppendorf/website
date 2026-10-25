@@ -22,7 +22,7 @@ Gegen 11:00 Uhr, nach knapp 4 Std. Einsatzdauer, waren sämtliche Einsatzgeräte
 
 Bildquellen: sat1regional.de & FF Hamburg (T.D.)
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2021-0005-00.jpg" >}}
   {{< img src="img/2021-0005-01.jpg" >}}
   {{< img src="img/2021-0005-02.jpg" >}}

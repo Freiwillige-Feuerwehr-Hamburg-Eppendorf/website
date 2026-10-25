@@ -39,7 +39,7 @@ und allen 3 Einsatzfahrzeugen zur Hilfeleistung für die Bürgerinnen und Bürge
 
 Bilder mit freundlicher Genehmigung von FPH.
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2021-0003-00.jpg" >}}
   {{< img src="img/2021-0003-01.jpg" >}}
   {{< img src="img/2021-0003-02.jpg" >}}

@@ -27,7 +27,7 @@ Umfangreiche Reinigungs- & Instandsetzungsmaßnahmen konnten vor Ort eingeleitet
 Insgesamt waren wir inkl. interner Ablösung & Personalaustausch ca. 8 Std. im Einsatz.
 Die Einsatzstelle wurde an die HHA übergeben.
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2025-0015-01.jpg" >}}
   {{< img src="img/2025-0015-02.jpg" >}}
   {{< img src="img/2025-0015-03.jpg" >}}

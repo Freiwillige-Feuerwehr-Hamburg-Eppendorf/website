@@ -21,7 +21,7 @@ Dabei waren wir im Schwerpunkt mit anderen FF im Einsatz. Danke allen Einheiten 
 
 Insgesamt war das Team der FF Eppendorf mit allen Fahrzeugen und insgesamt 16 Einsatzkräften ehrenamtlich für Hamburg im Einsatz!
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2024-0005-01.jpg" >}}
   {{< img src="img/2024-0005-02.jpg" >}}
 {{< /gallery >}}

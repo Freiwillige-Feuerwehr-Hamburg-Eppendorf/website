@@ -19,7 +19,7 @@ Danach konnte die Einsatzstelle an die Mieter übergeben und alle Maßnahmen zur
 
 
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2026-0004-01.jpg" >}}
   {{< img src="img/2026-0004-02.jpg" >}}
   {{< img src="img/2026-0004-03.jpg" >}}

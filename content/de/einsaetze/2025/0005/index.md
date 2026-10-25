@@ -27,7 +27,7 @@ Die Wehr war nach 5 Std. wieder einsatzbereit.
 
 Bilder mit freundlicher Genehmigung von TV News Kontor
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2025-0005-01.jpg" >}}
   {{< img src="img/2025-0005-02.jpg" >}}
   {{< img src="img/2025-0005-03.jpg" >}}

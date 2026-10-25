@@ -26,7 +26,7 @@ Am frühen Freitagmorgen waren wir zurück am FWH.
 Pressebericht: www.presseportal.de/blaulicht/pm/82522/5089709  
 Bilder mit freundlicher Genehmigung von FPH.
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2021-0019-00.jpg" >}}
   {{< img src="img/2021-0019-01.jpg" >}}
   {{< img src="img/2021-0019-02.jpg" >}}

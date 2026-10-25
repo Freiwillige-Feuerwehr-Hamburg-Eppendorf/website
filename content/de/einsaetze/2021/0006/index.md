@@ -17,7 +17,7 @@ Seitens der FF Eppendorf waren wir mit dem GKW samt LIMA und dem GWR3 alarmiert 
 Die spätere Bergung wurde durch eine Privatfirma durchgeführt.
 Gegen 03:00Uhr nach über 2 Std. Einsatzdauer waren sämtliche Einsatzgeräte wieder gereinigt und instandgesetzt, und die Einsatzbereitschaft des TZ Eppendorf wieder hergestellt.Bilder mit freundlicher Genehmigung von Sebastian Peters
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2021-0006-00.jpg" >}}
   {{< img src="img/2021-0006-01.jpg" >}}
   {{< img src="img/2021-0006-02.jpg" >}}

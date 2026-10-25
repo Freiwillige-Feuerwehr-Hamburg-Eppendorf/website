@@ -22,7 +22,7 @@ Insgesamt waren wir rund 6,5 Std. im Einsatz.
 Pressebericht der Feuerwehr Hamburg: https://www.presseportal.de/blaulicht/pm/82522/5045641  
 Bilder mit freundlicher Genehmigung von www.blaulicht-news.de, FPH.
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2021-0016-00.jpg" >}}
   {{< img src="img/2021-0016-01.jpg" >}}
   {{< img src="img/2021-0016-02.jpg" >}}

@@ -39,7 +39,7 @@ Bilder mit freundlicher Genehmigung: FPH
 
 
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2026-0010-01.jpg" >}}
   {{< img src="img/2026-0010-02.jpg" >}}
   {{< img src="img/2026-0010-03.jpg" >}}

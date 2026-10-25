@@ -22,7 +22,7 @@ Die Gefahr wurde beseitigt.
 Die Einsatzstelle wurde abschließend an die Baufirma übergeben.
 Um kurz nach Mitternacht waren wir zurück am FWH uneingeschränkt einsatzbereit.  
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2025-0016-01.jpg" >}}
   {{< img src="img/2025-0016-02.jpg" >}}
   {{< img src="img/2025-0016-03.jpg" >}}

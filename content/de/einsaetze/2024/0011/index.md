@@ -26,7 +26,7 @@ Eine interne Ablösung wurde durchgeführt.
 Bilder: FPH
 [Offizieller Pressebericht](https://www.presseportal.de/blaulicht/pm/82522/5936251)
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2024-11-01.jpg" >}}
   {{< img src="img/2024-11-02.jpg" >}}
   {{< img src="img/2024-11-03.jpg" >}}

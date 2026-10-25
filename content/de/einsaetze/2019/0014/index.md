@@ -15,7 +15,7 @@ Der Technische Zug der FF Eppendorf war bei diesem und vorherigen personal- und 
 
 Fotomaterial mit freundlicher Genehmigung von Michael Arning und Waldeck Fotografie.
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2019-0014-00.jpg" >}}
   {{< img src="img/2019-0014-01.jpg" >}}
   {{< img src="img/2019-0014-02.jpg" >}}

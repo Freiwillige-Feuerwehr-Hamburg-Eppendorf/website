@@ -23,7 +23,7 @@ Bilder: TV Newskontor
 
 
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2026-0006-01.jpg" >}}
   {{< img src="img/2026-0006-02.jpg" >}}
 {{< /gallery >}}

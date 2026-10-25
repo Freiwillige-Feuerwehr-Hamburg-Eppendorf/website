@@ -30,7 +30,7 @@ Bereits an der Einsatzstelle wurden erste Hygienemaßnahmen an Gerät & PSA am G
 Bilder: Sebastian Peters NEWS5
 
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2025-0014-01.jpg" >}}
   {{< img src="img/2025-0014-02.jpg" >}}
   {{< img src="img/2025-0014-03.jpg" >}}

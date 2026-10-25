@@ -22,7 +22,7 @@ Gegen kurz nach 13:00 Uhr nach über 6,5 Std. Einsatzdauer waren wir zurück am 
 
 Bilder mit freundlicher Genehmigung von FPH.
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2021-0020-00.jpg" >}}
   {{< img src="img/2021-0020-01.jpg" >}}
   {{< img src="img/2021-0020-02.jpg" >}}
