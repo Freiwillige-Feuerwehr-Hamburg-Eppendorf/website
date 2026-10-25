@@ -13,7 +13,7 @@ Unser Einsatz war vor Ort jedoch nicht mehr erforderlich.
 Bilder mit freundlicher Genehmigung von André Zand-Vakili: harburg-aktuell.de  
 Quelle: https://www.harburg-aktuell.de/news/polizei-und-feuerwehr/17955-finkenwerder-strasse-lastwagen-hinterlaesst-schneise-der-verwuestung.html
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2019-0007-00.jpg" >}}
   {{< img src="img/2019-0007-01.jpg" >}}
 {{< /gallery >}}

@@ -23,6 +23,6 @@ Insgesamt waren wir ehrenamtlich über 4 Std. im Einsatz.
 
 Bild mit freundlicher Genehmigung von FFH.
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2020-0003-00.jpg" >}}
 {{< /gallery >}}

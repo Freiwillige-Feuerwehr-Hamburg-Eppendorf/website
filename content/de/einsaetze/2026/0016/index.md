@@ -24,7 +24,7 @@ Bilder mit freundlicher Genehmigung von Deutschland 112 und FPH
 
 
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2026-0016-01.jpg" >}}
   {{< img src="img/2026-0016-02.jpg" >}}
   {{< img src="img/2026-0016-03.jpg" >}}

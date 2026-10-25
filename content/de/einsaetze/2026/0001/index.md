@@ -13,7 +13,7 @@ Wir waren unter anderem mehrfach mit der SEGH, und div. weiteren BF & FF angefor
 
 
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2026-0001-01.jpg" >}}
   {{< img src="img/2026-0001-02.jpg" >}}
   {{< img src="img/2026-0001-03.jpg" >}}

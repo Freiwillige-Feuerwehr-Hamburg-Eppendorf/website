@@ -23,7 +23,7 @@ Intensive Nachlösch- und Aufräumarbeiten dauerten bis in die frühen Abendstun
 
 [Offizieller Pressebericht](https://www.presseportal.de/blaulicht/pm/82522/5833229) & [Auszug Spiegel TV](https://youtu.be/2r6JdNMxk18?si=HXNqIxn-CUMJjm2L&t=677) 
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2024-0004-01.jpg" >}}
   {{< img src="img/2024-0004-02.jpg" >}}
   {{< img src="img/2024-0004-03.jpg" >}}

@@ -21,7 +21,7 @@ Hierbei wurden mehrere AGT eingesetzt.
 Mit der Wärmebildkamera konnten zudem im weiteren Verlauf Hot Spots erfolgreich lokalisiert, geöffnet und abgelöscht werden.
 Die vollständige Brandausbreitung ins Dach konnte gestoppt werden.
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2024-0010-01.jpg" >}}
   {{< img src="img/2024-0010-02.jpg" >}}
 {{< /gallery >}}

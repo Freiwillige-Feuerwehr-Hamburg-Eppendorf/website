@@ -19,6 +19,6 @@ Nach Abschluss der entsprechenden Reinigungsarbeiten unserer Gerätschaften ware
 
 Foto: FPH
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2026-0008-01.jpg" >}}
 {{< /gallery >}}

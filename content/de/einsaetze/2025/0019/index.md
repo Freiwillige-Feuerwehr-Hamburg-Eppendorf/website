@@ -17,7 +17,7 @@ Des Weiteren wurde der LIMA/GA zur großflächigen Ausleuchtung eingesetzt.
 Unser ex-geschütztes Be- und Entlüftungsgerät vom GWR3 mit antistatischen Saug- und Drucklutten geeignet zur gezielten Entrauchung speziell für gefangene Räume war an der Einsatzstelle lagebedingt nicht mehr erforderlich und konnte aus dem Einsatz entlassen werden.  
 Nach kurzer Einsatzzeit war der betroffene Bereich rauchfrei und die Einheit gegen 02:00 Uhr nachts waren die Einsatzhygiene wieder hergestellt und die FF Eppendorf uneingeschränkt einsatzbereit.  
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2025-0019-01.jpg" >}}
   {{< img src="img/2025-0019-02.jpg" >}}
 {{< /gallery >}}

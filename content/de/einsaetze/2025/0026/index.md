@@ -20,7 +20,7 @@ Wir waren mit 13 Einsatzkräften vor Ort und nach allen erforderlichen Nacharbei
 
 
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2025-0026-01.jpg" >}}
   {{< img src="img/2025-0026-02.jpg" >}}
   {{< img src="img/2025-0026-03.jpg" >}}

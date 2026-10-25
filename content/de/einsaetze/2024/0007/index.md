@@ -22,7 +22,7 @@ Die gesamte Einheit war gegen kurz nach 18:30 Uhr wieder einsatzbereit.
 
 [Offizieller Pressebericht](https://www.presseportal.de/blaulicht/pm/82522/5877457)
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2024-0007-01.jpg" >}}
   {{< img src="img/2024-0007-02.jpg" >}}
   {{< img src="img/2024-0007-03.jpg" >}}

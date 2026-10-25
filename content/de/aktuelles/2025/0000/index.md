@@ -15,7 +15,7 @@ Abschließend möchten wir uns bei den Kolleginnen und Kollegen der diensthabend
 Zum Abschluss rundete ein sehr leckeres und deftiges Mittagessen unseren Besuch ab.
 Wir freuen uns auf den nächsten Austausch!
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2025-0000-01.jpg" >}}  
   {{< img src="img/2025-0000-02.jpg" >}}  
   {{< img src="img/2025-0000-03.jpg" >}}  

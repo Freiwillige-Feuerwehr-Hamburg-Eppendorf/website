@@ -29,7 +29,7 @@ www.presseportal.de/blaulicht/pm/82522/6103999
 www.presseportal.de/blaulicht/pm/82522/6106550
 
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2025-0018-01.jpg" >}}
   {{< img src="img/2025-0018-02.jpg" >}}
   {{< img src="img/2025-0018-03.jpg" >}}

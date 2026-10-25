@@ -21,7 +21,7 @@ Wir waren mit dem gesamten TZ vor Ort und nach knapp 5 Stunden wieder einsatzber
 
 
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2026-0007-01.jpg" >}}
   {{< img src="img/2026-0007-02.jpg" >}}
   {{< img src="img/2026-0007-03.jpg" >}}

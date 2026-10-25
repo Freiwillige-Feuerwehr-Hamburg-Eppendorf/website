@@ -24,7 +24,7 @@ Die FF Eppendorf war mit dem Technischen Zug zeitnah wieder einsatzbereit.
 
 Bildquelle: Elias Bartel, Blaulicht-News
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2021-0010-00.jpg" >}}
   {{< img src="img/2021-0010-01.jpg" >}}
 {{< /gallery >}}

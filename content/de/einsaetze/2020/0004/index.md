@@ -26,7 +26,7 @@ Am frühen Abend war es dann endlich geschafft, sämtliche weiteren Einsatzgerä
 
 Bilder mit freundlicher Genehmigung von FFH.
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2020-0004-00.jpg" >}}
   {{< img src="img/2020-0004-01.jpg" >}}
   {{< img src="img/2020-0004-02.jpg" >}}

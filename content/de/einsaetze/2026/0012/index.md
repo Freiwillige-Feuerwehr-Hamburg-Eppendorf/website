@@ -30,7 +30,7 @@ Bilder mit freundlicher Genehmigung: Deutschland-112, FPH
 
 
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2026-0012-01.jpg" >}}
   {{< img src="img/2026-0012-02.jpg" >}}
   {{< img src="img/2026-0012-03.jpg" >}}

@@ -24,7 +24,7 @@ Dieser wurde jedoch lagebedingt entgegen der ersten Meldung zügig durch die Ein
 
 Bilder mit freundlicher Genehmigung von T. Knoop.
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2021-0002-00.jpg" >}}
   {{< img src="img/2021-0002-01.jpg" >}}
   {{< img src="img/2021-0002-02.jpg" >}}

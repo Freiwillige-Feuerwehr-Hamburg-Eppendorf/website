@@ -24,7 +24,7 @@ Gegen kurz nach 19:00 Uhr war die Wehr wieder vollständig einsatzbereit.
 
 Bilder mit freundlicher Genehmigung von T. Knoop und FFH.
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2020-0007-00.jpg" >}}
   {{< img src="img/2020-0007-01.jpg" >}}
 {{< /gallery >}}

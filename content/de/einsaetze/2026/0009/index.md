@@ -23,7 +23,7 @@ Wir waren mit 13 Einsatzkräften vor Ort und nach knapp 4 Stunden wieder einsatz
 
 
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2026-0009-01.jpg" >}}
   {{< img src="img/2026-0009-02.jpg" >}}
   {{< img src="img/2026-0009-03.jpg" >}}

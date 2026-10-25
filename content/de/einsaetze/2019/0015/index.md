@@ -18,7 +18,7 @@ Der Einsatz dauerte für den Technischen Zug inklusive der Nachrüstzeiten knapp
 
 Bildmaterial mit freundlicher Genehmigung von C. Leimig.
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2019-0015-00.jpg" >}}
   {{< img src="img/2019-0015-01.jpg" >}}
   {{< img src="img/2019-0015-02.jpg" >}}

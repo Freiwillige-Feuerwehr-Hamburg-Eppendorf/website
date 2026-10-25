@@ -25,7 +25,7 @@ Es hat sich gezeigt, dass insbesondere bei größeren Batteriebränden wie bei d
 Die FF Eppendorf war mit 12 Einsatzkräften vor Ort.
 Reinigungs- und Hygienemaßnahmen konnten noch an der Einsatzstelle durchgeführt und am Feuerwehrhaus abgeschlossen werden. ␍
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2025-0009-01.jpg" >}}
   {{< img src="img/2025-0009-02.jpg" >}}
   {{< img src="img/2025-0009-03.jpg" >}}

@@ -17,7 +17,7 @@ Insgesamt war der Technische Zug gemeinsam oder mit Einzelfahrzeugen an sechs Ei
 
 Bildmaterialmit freundlicher Genehmigung von Benjamin Ritter.
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2019-0012-00.jpg" >}}
   {{< img src="img/2019-0012-01.jpg" >}}
   {{< img src="img/2019-0012-02.jpg" >}}

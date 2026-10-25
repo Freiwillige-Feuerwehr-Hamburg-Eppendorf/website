@@ -28,7 +28,7 @@ Das 13 GW1 wurde aus dem Einsatz herausausgelöst.
 Die EST wurde an die Haustechnik übergeben.
 
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2024-0001-01.jpg" >}}
   {{< img src="img/2024-0001-02.jpg" >}}
   {{< img src="img/2024-0001-03.jpg" >}}

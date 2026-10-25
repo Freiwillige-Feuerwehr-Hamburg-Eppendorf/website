@@ -20,7 +20,7 @@ Bilder mit freundlicher Genehmigung von:
 - Marius Röer (Hamburger Morgenpost)
 - FPH
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2021-0001-00.jpg" >}}
   {{< img src="img/2021-0001-01.jpg" >}}
   {{< img src="img/2021-0001-02.jpg" >}}

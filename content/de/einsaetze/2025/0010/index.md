@@ -22,7 +22,7 @@ Reinigungs- und Instandsetzungsmaßnahmen der Sägen und eingesetzten Geräte ko
 
 
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2025-0010-01.jpg" >}}
   {{< img src="img/2025-0010-02.jpg" >}}
   {{< img src="img/2025-0010-03.jpg" >}}

@@ -22,6 +22,6 @@ Insgesamt waren wir ehrenamtlich über 5,5 Std. im Einsatz.
 
 Bild mit freundlicher Genehmigung von FPH.
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2021-0018-00.jpg" >}}
 {{< /gallery >}}

@@ -86,7 +86,8 @@ home = ["HTML", "RSS", "REDIR"]
   [[module.mounts]]
     source = "content/de"
     target = "content"
-    lang = "de"
+    [module.mounts.sites.matrix]
+      languages = ["de"]
   [[module.mounts]]
     source = "data"
     target = "data"

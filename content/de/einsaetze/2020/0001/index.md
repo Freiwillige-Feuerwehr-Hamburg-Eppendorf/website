@@ -21,7 +21,7 @@ Schlussendlich waren wir samt nachfolgender Instandsetzungs- und Reinigungsarbei
   
 Bilder mit freundlicher Genehmigung von Sebastian Peters, Blaulicht News.
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2020-0001-00.jpg" >}}
   {{< img src="img/2020-0001-01.jpg" >}}
   {{< img src="img/2020-0001-02.jpg" >}}

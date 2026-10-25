@@ -18,6 +18,6 @@ Gegen kurz vor 22:00 Uhr am Abend waren alle Fahrzeuge unseres TZ wieder einsatz
 
 Symbolbild: https://www.stern.de/panorama/weltgeschehen/hamburg--bombe-aus-dem-zweiten-weltkrieg-mitten-in-wohngebiet-gefunden-30615560.html
 
-{{< gallery >}}
+{{< gallery overlay=false >}}
   {{< img src="img/2021-0012-00.jpg" >}}
 {{< /gallery >}}
