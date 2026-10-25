@@ -16,7 +16,7 @@ Schlussendlich waren wir samt nachfolgender Instandsetzungs- und Reinigungsarbei
  
 Bilder mit freundlicher Genehmigung von Michael Arning.
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2020-0000-00.jpg" >}}
   {{< img src="img/2020-0000-01.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

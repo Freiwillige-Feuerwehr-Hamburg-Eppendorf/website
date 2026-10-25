@@ -21,8 +21,8 @@ Der Einsatz der Hilfskräfte im Einsatzgebiet wird sich über die gesamte Nacht 
 Fotos: Feuerwehr  
 Quelle: https://www.presseportal.de/pm/82522/3940316
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2018-0003-00.jpg" >}}
   {{< img src="img/2018-0003-01.jpg" >}}
   {{< img src="img/2018-0003-02.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

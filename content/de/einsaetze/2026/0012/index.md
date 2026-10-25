@@ -30,7 +30,7 @@ Bilder mit freundlicher Genehmigung: Deutschland-112, FPH
 
 
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2026-0012-01.jpg" >}}
   {{< img src="img/2026-0012-02.jpg" >}}
   {{< img src="img/2026-0012-03.jpg" >}}
@@ -39,4 +39,4 @@ Bilder mit freundlicher Genehmigung: Deutschland-112, FPH
   {{< img src="img/2026-0012-06.jpg" >}}
   {{< img src="img/2026-0012-07.jpg" >}}
   {{< img src="img/2026-0012-08.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

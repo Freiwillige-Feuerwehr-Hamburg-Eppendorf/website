@@ -14,8 +14,8 @@ Der gesamte Einsatz dauerte aufgrund unserer Maßnahmen knapp sechs Stunden.
 Bilder mit freundlicher Genehmigung von Michael Arning: Hamburger Abendblatt  
 Quelle: https://www.abendblatt.de/hamburg/polizeimeldungen/article226301441/Feuer-in-UKE-Psychiatrie-Patienten-und-Personal-gerettet.html
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2019-0006-00.jpg" >}}
   {{< img src="img/2019-0006-01.jpg" >}}
   {{< img src="img/2019-0006-02.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

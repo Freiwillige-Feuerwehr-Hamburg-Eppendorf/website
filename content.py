@@ -27,7 +27,7 @@ tag: {tag}
 {shortcodes}\
 '''
 
-_INDEX_TEMPLATE_SHORTCODE_SNIPPET = '\n{{{{< carousel id="carousel" class="col-12 mx-auto" >}}}}\n  {{{{< img src="img/{img_src}" >}}}}\n{{{{< /carousel >}}}}'
+_INDEX_TEMPLATE_SHORTCODE_SNIPPET = '\n{{{{< gallery overlay=false >}}}}\n  {{{{< img src="img/{img_src}" >}}}}\n{{{{< /gallery >}}}}'
 
 
 def get_latest_year() -> str:
@@ -255,9 +255,9 @@ def copy_images(year: str, content_id: str, input_path: Path):
 
 def get_images_snippet(year: str, content_id: str) -> str:
     """
-    Generate a carousel shortcode snippet for all images in the content directory.
+    Generate a gallery shortcode snippet for all images in the content directory.
     
-    Creates a Hugo carousel shortcode wrapping an `img` shortcode for each image
+    Creates a Hugo gallery shortcode wrapping an `img` shortcode for each image
     file, referencing the image path directly (no `resources:` front matter
     entry is needed).
     
@@ -266,7 +266,7 @@ def get_images_snippet(year: str, content_id: str) -> str:
         content_id (str): The ID of the content
         
     Returns:
-        str: The carousel shortcode snippet
+        str: The gallery shortcode snippet
     """
     content_path = _TARGET_BASE_PATH.joinpath(year).joinpath(content_id)
     image_path = content_path.joinpath('img')
@@ -276,7 +276,7 @@ def get_images_snippet(year: str, content_id: str) -> str:
         for image_file in sorted(image_path.iterdir())
     )
 
-    return f'\n{{{{< carousel id="carousel" class="col-12 mx-auto" >}}}}\n{images}\n{{{{< /carousel >}}}}'
+    return f'\n{{{{< gallery overlay=false >}}}}\n{images}\n{{{{< /gallery >}}}}'
 
 
 def find_markdown_content(input_path: Path) -> str:
@@ -323,7 +323,7 @@ def create_index_file(year: str,
         date (datetime): The date for the content
         thumbnail (str): Path to the thumbnail image
         tag (str): The tag for the content
-        shortcodes (str): The carousel/image shortcodes
+        shortcodes (str): The gallery/image shortcodes
         markdown_content (str, optional): Additional markdown content. Defaults to ''.
     """
     content_path = _TARGET_BASE_PATH.joinpath(year).joinpath(content_id)

@@ -21,11 +21,11 @@ https://www.presseportal.de/blaulicht/pm/82522/5576011
 https://www.radiohamburg.de/aktuelles/hamburg/Wasserrohrbruch-in-der-Nordheimstra%C3%9Fe-in-Steilshoop-sorgt-f%C3%BCr-Chaos-id947211.html  
 20.08.23​ THFLUG3MANV10 Sicherheitslandung HAM  
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2023-0007-1.jpg" >}}
   {{< img src="img/2023-0007-2.jpg" >}}
   {{< img src="img/2023-0007-3.jpg" >}}
   {{< img src="img/2023-0007-4.jpg" >}}
   {{< img src="img/2023-0007-5.jpg" >}}
   {{< img src="img/2023-0007-6.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

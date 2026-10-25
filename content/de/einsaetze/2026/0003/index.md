@@ -15,9 +15,9 @@ Diese Arbeiten erforderten mit An- und Abfahrt, sowie anschließenden Reinigungs
 
 
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2026-0003-01.jpg" >}}
   {{< img src="img/2026-0003-02.jpg" >}}
   {{< img src="img/2026-0003-03.jpg" >}}
   {{< img src="img/2026-0003-04.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

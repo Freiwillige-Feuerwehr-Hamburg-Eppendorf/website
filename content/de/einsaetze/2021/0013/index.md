@@ -26,6 +26,6 @@ Insgesamt waren wir ehrenamtlich über 5 Std. im Einsatz.
 
 Bild mit freundlicher Genehmigung von Thomas Knoop.
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2021-0013-00.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

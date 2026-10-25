@@ -22,11 +22,11 @@ Inklusive Nachrüstzeit und Reinigungsmassnahmen betrug die Einsatzdauer knapp 6
 
 Bilder mit freundlicher Genehmigung von FFH.
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2019-0018-00.jpg" >}}
   {{< img src="img/2019-0018-01.jpg" >}}
   {{< img src="img/2019-0018-02.jpg" >}}
   {{< img src="img/2019-0018-03.jpg" >}}
   {{< img src="img/2019-0018-04.jpg" >}}
   {{< img src="img/2019-0018-05.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

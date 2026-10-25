@@ -29,10 +29,10 @@ Die gesamte Einheit war gegen 21:15 Uhr wieder einsatzbereit.
 
 Offizieller Bericht der FW Hamburg unter: https://www.presseportal.de/blaulicht/pm/82522/5637948
 
-{{< carousel id="carousel-3" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2023-0009-1.jpg" >}}
   {{< img src="img/2023-0009-2.jpg" >}}
   {{< img src="img/2023-0009-3.jpg" >}}
   {{< img src="img/2023-0009-4.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}
 

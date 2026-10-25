@@ -20,9 +20,9 @@ Nach knapp fünf Stunden war der Einsatz beendet und alle Fahrzeuge sowie Gerät
 
 
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2025-0027-01.jpg" >}}
   {{< img src="img/2025-0027-02.jpg" >}}
   {{< img src="img/2025-0027-03.jpg" >}}
   {{< img src="img/2025-0027-04.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

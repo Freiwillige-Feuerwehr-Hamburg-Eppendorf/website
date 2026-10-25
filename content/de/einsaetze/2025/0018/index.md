@@ -29,7 +29,7 @@ www.presseportal.de/blaulicht/pm/82522/6103999
 www.presseportal.de/blaulicht/pm/82522/6106550
 
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2025-0018-01.jpg" >}}
   {{< img src="img/2025-0018-02.jpg" >}}
   {{< img src="img/2025-0018-03.jpg" >}}
@@ -42,4 +42,4 @@ www.presseportal.de/blaulicht/pm/82522/6106550
   {{< img src="img/2025-0018-10.jpg" >}}
   {{< img src="img/2025-0018-11.jpg" >}}
   {{< img src="img/2025-0018-12.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

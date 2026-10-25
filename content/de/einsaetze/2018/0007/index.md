@@ -16,6 +16,6 @@ Diese Maßnahmen dauerten längere Zeit an.
 Bild mit freundlicher Genehmigung von JOTO  
 Quelle: https://www.presseportal.de/blaulicht/d/feuerwehr/l/hamburg/108
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2018-0007-00.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

@@ -21,8 +21,8 @@ Eingesetzt waren 34 Einsatzkräfte von Berufs- und freiwilliger Feuerwehr.
 Bilder mit freundlicher Genehmigung von Sebastian Peters: www.blaulicht-news.de  
 Quelle: https://www.presseportal.de/pm/82522/4024843
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2018-0004-00.jpg" >}}
   {{< img src="img/2018-0004-01.jpg" >}}
   {{< img src="img/2018-0004-02.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

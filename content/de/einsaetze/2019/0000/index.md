@@ -17,6 +17,6 @@ Im Anschluss der erfolgten Sicherungsmaßnahmen wurde die Bauplane über sämtli
 Bild mit freundlicher Genehmigung von www.tag24.de  
 Quelle: https://www.ndr.de/nachrichten/hamburg/Mehr-als-30-Sturmeinsaetze-fuer-Feuerwehr-Hamburg,wetter4226.html
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2019-0000-00.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

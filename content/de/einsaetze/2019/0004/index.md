@@ -15,6 +15,6 @@ Der Einsatz dauerte an die vier Stunden.
 Bild mit freundlicher Genehmigung von FFH  
 Quelle: https://www.presseportal.de/blaulicht/pm/82522/4221647
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2019-0004-00.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

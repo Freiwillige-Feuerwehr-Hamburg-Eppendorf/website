@@ -19,10 +19,10 @@ Wir waren mit 16 Einsatzkräften, davon 13 möglichen AGT-Trägern, vor Ort und 
 
 
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2026-0002-01.jpg" >}}
   {{< img src="img/2026-0002-02.jpg" >}}
   {{< img src="img/2026-0002-03.jpg" >}}
   {{< img src="img/2026-0002-04.jpg" >}}
   {{< img src="img/2026-0002-05.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

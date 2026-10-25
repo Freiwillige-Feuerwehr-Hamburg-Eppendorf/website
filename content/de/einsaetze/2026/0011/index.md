@@ -22,9 +22,9 @@ Nach Beginn der Maßnahmen stellte sich heraus, das, das Wurzelwerk so morsch wa
 Der Baum konnte ohne Probleme herausgehoben werden.
 Abschließend wurde der Baum mittels Kran auf dem Parkplatz abgelegt und durch uns mittels Kettensägen zersägt und die Einsatzstelle beräumt.
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2026-0011-01.jpg" >}}
   {{< img src="img/2026-0011-02.jpg" >}}
   {{< img src="img/2026-0011-03.jpg" >}}
   {{< img src="img/2026-0011-04.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

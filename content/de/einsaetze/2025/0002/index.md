@@ -24,6 +24,6 @@ Bilder: FPH
 
 [Offizieller Pressebericht](https://www.presseportal.de/blaulicht/pm/82522/5943761)
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2025-0002-01.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

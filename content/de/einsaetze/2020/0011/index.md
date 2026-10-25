@@ -22,8 +22,8 @@ Gegen Mittag waren sämtliche Einsatzgeräte wieder gereinigt und Instand gesetz
 
 Bilder mit freundlicher Genehmigung von Sebastian Peters.
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2020-0011-00.jpg" >}}
   {{< img src="img/2020-0011-01.jpg" >}}
   {{< img src="img/2020-0011-02.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

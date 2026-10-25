@@ -23,8 +23,8 @@ Um kurz nach 16:00 Uhr war dann auch der GKW zurück am FWH uneingeschränkt ein
 
 [Bildquelle NEWS5](https://youtu.be/vfKSO_cl6FM?si=bmzNgB0ULrDLQ65Q)
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2025-0020-01.jpg" >}}
   {{< img src="img/2025-0020-02.jpg" >}}
   {{< img src="img/2025-0020-03.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

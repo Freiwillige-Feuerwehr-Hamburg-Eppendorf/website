@@ -19,9 +19,9 @@ Insgesamt waren wir inklusive Reinigungsmaßnahmen ehrenamtlich über 3,5 Std. i
 
 Bilder mit freundlicher Genehmigung von FPH.
  
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2020-0010-00.jpg" >}}
   {{< img src="img/2020-0010-01.jpg" >}}
   {{< img src="img/2020-0010-02.jpg" >}}
   {{< img src="img/2020-0010-03.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

@@ -93,3 +93,10 @@
         }
     }
 }
+// gallery shortcode: keep any image (portrait or landscape) inside the viewport
+.gallery-modal .carousel-item img {
+    width: auto if($enable-important-utilities, !important, null);
+    max-width: 100%;
+    max-height: calc(100vh - 5rem);
+    margin-inline: auto;
+}

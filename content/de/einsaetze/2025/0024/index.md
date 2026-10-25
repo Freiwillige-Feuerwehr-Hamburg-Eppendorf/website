@@ -27,9 +27,9 @@ Die Wehr konnte kurz nach Mitternacht die Einsatzstelle verlassen und war nach w
 
 Bilder: LHPhoto
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2025-0024-01.jpg" >}}
   {{< img src="img/2025-0024-02.jpg" >}}
   {{< img src="img/2025-0024-03.jpg" >}}
   {{< img src="img/2025-0024-04.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

@@ -26,10 +26,10 @@ Der GWR3 war technische a.D. konnte leider aufgrund der terminierten HU nicht ei
 
 
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2026-0005-01.jpg" >}}
   {{< img src="img/2026-0005-02.jpg" >}}
   {{< img src="img/2026-0005-03.jpg" >}}
   {{< img src="img/2026-0005-04.jpg" >}}
   {{< img src="img/2026-0005-05.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

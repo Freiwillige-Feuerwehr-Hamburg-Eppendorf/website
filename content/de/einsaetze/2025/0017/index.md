@@ -22,9 +22,9 @@ Reinigungs- und Instandsetzungsmaßnahmen der Sägen und eingesetzten Geräte ko
 Insgesamt waren wir inkl. interner Ablösung und Personalaustausch ca. 8 Std. im Einsatz.
 Die Einsatzstelle wurde an die POL übergeben.
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2025-0017-01.jpg" >}}
   {{< img src="img/2025-0017-02.jpg" >}}
   {{< img src="img/2025-0017-03.jpg" >}}
   {{< img src="img/2025-0017-04.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

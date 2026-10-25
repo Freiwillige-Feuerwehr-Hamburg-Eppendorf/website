@@ -28,9 +28,9 @@ Die Einsatzstelle war nach ca. 4 Std. abgearbeitet und die Einheit wieder einsat
 
 Bilder mit freundlicher Genehmigung: FPH
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2026-0014-01.jpg" >}}
   {{< img src="img/2026-0014-02.jpg" >}}
   {{< img src="img/2026-0014-03.jpg" >}}
   {{< img src="img/2026-0014-04.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

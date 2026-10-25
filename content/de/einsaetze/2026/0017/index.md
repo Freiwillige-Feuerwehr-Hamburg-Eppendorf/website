@@ -29,10 +29,10 @@ Bilder mit freundlicher Genehmigung von FPH
 
 
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2026-0017-01.jpg" >}}
   {{< img src="img/2026-0017-02.jpg" >}}
   {{< img src="img/2026-0017-03.jpg" >}}
   {{< img src="img/2026-0017-04.jpg" >}}
   {{< img src="img/2026-0017-05.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

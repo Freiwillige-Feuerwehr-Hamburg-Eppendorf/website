@@ -17,8 +17,8 @@ Unsere Einsatzdauer betrug ca. sechs Stunden.
 Bilder mit freundlicher Genehmigung der Pressestelle der Feuerwehr Hamburg  
 Quelle: https://www.abendblatt.de/hamburg/polizeimeldungen/article216477953/Fliegerbombe-auf-Baustelle-neben-Otto-Zentrale-entdeckt.html
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2019-0002-00.jpg" >}}
   {{< img src="img/2019-0002-01.jpg" >}}
   {{< img src="img/2019-0002-02.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

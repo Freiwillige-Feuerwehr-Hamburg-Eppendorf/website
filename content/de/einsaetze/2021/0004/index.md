@@ -26,9 +26,9 @@ Kurz vor zehn abends waren sämtliche Einsatzgeräte wieder uneingeschränkt ein
 
 Bilder mit freundlicher Genehmigung von Waldeck Fotografie
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2021-0004-00.jpg" >}}
   {{< img src="img/2021-0004-01.jpg" >}}
   {{< img src="img/2021-0004-02.jpg" >}}
   {{< img src="img/2021-0004-03.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

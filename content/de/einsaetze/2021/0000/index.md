@@ -19,8 +19,8 @@ Gegen 07:30 Uhr morgens nach über 6 Std. Einsatzdauer waren sämtliche Einsatzg
 
 Bilder mit freundlicher Genehmigung von Hendrik Lang, D. Waldeck.
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2021-0000-00.jpg" >}}
   {{< img src="img/2021-0000-01.jpg" >}}
   {{< img src="img/2021-0000-02.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

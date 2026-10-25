@@ -19,7 +19,7 @@ Die Unfallursache wird jetzt von der Polizei ermittelt.
 Bilder mit freundlicher Genehmigung von Michael Arning  
 Quelle: https://www.presseportal.de/blaulicht/pm/82522/4132431
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2018-0009-00.jpg" >}}
   {{< img src="img/2018-0009-01.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}
