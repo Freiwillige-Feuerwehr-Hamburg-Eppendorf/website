@@ -68,11 +68,11 @@ an Werktagen) zur Hilfeleistung für die Bürgerinnen und Bürger unserer Stadt 
 
 Bilder mit freundlicher Genehmigung von FFH.
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2020-0002-00.jpg" >}}
   {{< img src="img/2020-0002-01.jpg" >}}
   {{< img src="img/2020-0002-02.jpg" >}}
   {{< img src="img/2020-0002-03.jpg" >}}
   {{< img src="img/2020-0002-04.jpg" >}}
   {{< img src="img/2020-0002-05.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

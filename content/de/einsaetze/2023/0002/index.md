@@ -9,8 +9,8 @@ Ab Freitagnachmittag des 17.02.2023 erreichte Sturmtief „Ulf“ die Hansestadt
 Der erste Einsatz führte um 17:50 Uhr in den Stadtteil Eppendorf. Dort musste zeitintensiv ein morscher ca. 15m hoher Baum mit massivem Efeubewuchs, in Teilen mittels Akkukettensäge abgesägt werden. Dieser drohte unmittelbar auf den Gehweg und die Straße zu fallen. Vor Ort waren die DLK und ELW Einsatzkräfte der FuRW 15 aus Stellingen, welche uns nachgefordert hatten. Die Gefahr wurde beseitigt.  
 Gegen kurz nach 20:00 Uhr wurden wir mit LF-TH, GKW & LIMA zu einem Folgeeinsatz nach Moorburg alarmiert. Vor Ort befand sich eine vierstämmige ca. 25m hohe Weide mit einem Stammdurchmesser von ca. 1,60m. Die 1. Stammhälfte war auf ganzer Länge bereits über die Straße und den Wassergraben gefallen, die 2. Stammhälfte stand noch, war jedoch akut umsturzgefährdet. Unser Einsatzauftrag lag darin, die Einsatzstelle großflächig mittels LIMA mit 7000W blendfrei auszuleuchten. Die noch stehende Reststammhälfte wurde angeschlagen, zur Fällung mittels Kettensäge vorbereitet und im direkten Zug über die Seilwinde des GKW umgezogen. Danach wurden die bereits gefallenen Stammteile mittels bis zu 5 Motorkettensägen u.a. mit langer Sägeschiene über längere Zeit zersägt. Die Gefahr wurde beseitigt. Wir waren mit 21 Einsatzkräften im Einsatz und um ca. 00:30 Uhr wieder zurück am FWH und nach umfangreichen Instandsetzungsmaßnahmen wieder einsatzbreit. 
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2023-0002-1.jpg" >}}
   {{< img src="img/2023-0002-2.jpg" >}}
   {{< img src="img/2023-0002-3.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

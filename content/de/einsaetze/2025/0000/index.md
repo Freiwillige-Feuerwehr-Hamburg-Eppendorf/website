@@ -19,7 +19,7 @@ Nach intensiver Erkundung wurde die 23 SEGH (Höhenrettung) mit der tragbaren Ak
 
 Nach Eintreffen der SEGH konnte das Baugerüst mittels diverser Anschlagmittel und -punkte u.a. mit Hilfe der Akkuwinde und über Bandschlingen auf ganzer Länge herangezogen und provisorisch gegen weiteren Umsturz gesichert werden. Im Anschluss der erfolgten Sicherungsmaßnahmen wurde die Gerüstplane großflächig entfernt, um die Windanfälligkeit zu verringern. Der Einsatz war bereits nach 2,5 Stunden abgearbeitet und die Einheit wieder einsatzbereit.
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2025-0000-01.jpg" >}}
   {{< img src="img/2025-0000-02.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

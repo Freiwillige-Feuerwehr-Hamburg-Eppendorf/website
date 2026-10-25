@@ -16,8 +16,8 @@ Der Blindgänger konnte erfolgreich gegen 00:15 Uhr durch den KRD entschärft we
 
 Offizieler [Pressebericht](https://www.presseportal.de/blaulicht/pm/82522/5885224) der FW Hamburg.
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2024-0009-01.jpg" >}}
   {{< img src="img/2024-0009-02.jpg" >}}
   {{< img src="img/2024-0009-03.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

@@ -22,9 +22,9 @@ Gegen kurz nach 19:00 Uhr nach knapp 10 Std. Einsatzdauer, waren sämtliche Eins
 Pressebericht: www.presseportal.de/blaulicht/pm/82522/5106389  
 Bilder mit freundlicher Genehmigung von T. Knoop, Bild Hamburg S. Peters, www.blaulicht-news.de C. Leimig
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2021-0021-00.jpg" >}}
   {{< img src="img/2021-0021-01.jpg" >}}
   {{< img src="img/2021-0021-02.jpg" >}}
   {{< img src="img/2021-0021-03.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

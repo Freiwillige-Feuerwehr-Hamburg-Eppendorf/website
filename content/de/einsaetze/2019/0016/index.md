@@ -15,8 +15,8 @@ Einsatzdauer ca. sieben Stunden.
 
 Bildmaterial mit freundlicher Genehmigung von Bodo Marks und Werner Pfeifer.
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2019-0016-00.jpg" >}}
   {{< img src="img/2019-0016-01.jpg" >}}
   {{< img src="img/2019-0016-02.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

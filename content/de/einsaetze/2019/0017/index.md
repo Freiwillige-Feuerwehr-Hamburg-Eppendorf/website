@@ -15,8 +15,8 @@ Wir wurden dabei durch ein nachgefordertes Wechselladerfahrzeug der Technik- und
 
 Bilder mit freundlicher Genehmigung von FFH.
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2019-0017-00.jpg" >}}
   {{< img src="img/2019-0017-01.jpg" >}}
   {{< img src="img/2019-0017-02.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

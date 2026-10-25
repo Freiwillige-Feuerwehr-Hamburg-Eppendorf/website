@@ -20,10 +20,10 @@ Wir waren mit 13 Einsatzkräften vor Ort und nach allen erforderlichen Nacharbei
 
 
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2025-0026-01.jpg" >}}
   {{< img src="img/2025-0026-02.jpg" >}}
   {{< img src="img/2025-0026-03.jpg" >}}
   {{< img src="img/2025-0026-04.jpg" >}}
   {{< img src="img/2025-0026-05.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

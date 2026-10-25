@@ -22,9 +22,9 @@ Die Einheit war gegen kurz vor 07:00 Uhr morgens wieder uneingeschränkt einsatz
 
 Hier der offizielle [Presseberich](https://www.presseportal.de/blaulicht/pm/82522/5683015) der FW Hamburg.
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2024-0000-1.jpg" >}}
   {{< img src="img/2024-0000-2.jpg" >}}
   {{< img src="img/2024-0000-3.jpg" >}}
   {{< img src="img/2024-0000-4.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

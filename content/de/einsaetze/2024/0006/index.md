@@ -20,8 +20,8 @@ Bereits an der Einsatzstelle begannen erste Hygienemaßnahmen für unsere Einsat
 
 Der offizielle [Pressebericht](https://www.presseportal.de/blaulicht/pm/82522/5864487) der FW Hamburg.
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2024-0006-01.jpg" >}}
   {{< img src="img/2024-0006-02.jpg" >}}
   {{< img src="img/2024-0006-03.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

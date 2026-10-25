@@ -16,7 +16,7 @@ Hier waren zwei je ca. 80cm starke Äste eines im Stammdurchmesser ca. 1,60m gro
 Vier Stunden später, gegen ca. 18:15h gab es erneut Alarm für die gesamte Einheit. Erneut im Stadtteil Stellingen. Vor Ort war die DLK der FuRW 15. Ein Baum hing in voller Länge kompliziert in einer Stromleitung und musste in der Folge am Stamm zeitintensiv abgetragen werden.
 Gegen 21:15h waren alle Fahrzeuge und 15 Einsatzkräfte zurück und wieder einsatzbereit. Insgesamt waren wir diesen Werktag knapp 11 Stunden im Einsatz.
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2023-0006-1.jpg" >}}
   {{< img src="img/2023-0006-2.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

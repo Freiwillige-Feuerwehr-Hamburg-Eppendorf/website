@@ -24,9 +24,9 @@ Bilder mit freundlicher Genehmigung von Deutschland 112 und FPH
 
 
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2026-0016-01.jpg" >}}
   {{< img src="img/2026-0016-02.jpg" >}}
   {{< img src="img/2026-0016-03.jpg" >}}
   {{< img src="img/2026-0016-04.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

@@ -27,11 +27,11 @@ Aufgrund der komplexen Lage waren wir mit 14 Einsatzkräften und allen Fahrzeuge
 
 Bilder: FPH
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2025-0022-01.jpg" >}}
   {{< img src="img/2025-0022-02.jpg" >}}
   {{< img src="img/2025-0022-03.jpg" >}}
   {{< img src="img/2025-0022-04.jpg" >}}
   {{< img src="img/2025-0022-05.jpg" >}}
   {{< img src="img/2025-0022-06.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

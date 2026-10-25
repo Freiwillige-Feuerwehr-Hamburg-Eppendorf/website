@@ -19,6 +19,6 @@ Eine detaillierte Berichterstattung zur Dachhautöffnung beim Dachstuhlbrand fol
 
 Fotos: Pressestelle der Feuerwehr Hamburg  
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2019-0010-00.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

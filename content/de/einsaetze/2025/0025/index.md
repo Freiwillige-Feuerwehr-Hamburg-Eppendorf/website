@@ -26,8 +26,8 @@ Nach Rückkehr am FWH mussten wir umfangreiche Einsatzhygienemaßnahmen durchfü
 
 Fotos: NDR Hamburg Journal, FPH
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2025-0025-01.jpg" >}}
   {{< img src="img/2025-0025-02.jpg" >}}
   {{< img src="img/2025-0025-03.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

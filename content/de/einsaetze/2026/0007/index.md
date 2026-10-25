@@ -21,11 +21,11 @@ Wir waren mit dem gesamten TZ vor Ort und nach knapp 5 Stunden wieder einsatzber
 
 
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2026-0007-01.jpg" >}}
   {{< img src="img/2026-0007-02.jpg" >}}
   {{< img src="img/2026-0007-03.jpg" >}}
   {{< img src="img/2026-0007-04.jpg" >}}
   {{< img src="img/2026-0007-05.jpg" >}}
   {{< img src="img/2026-0007-06.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

@@ -28,8 +28,8 @@ Am späten Nachmittag war die gesamte Einheit wieder einsatzbereit.
 
 Bilder: S. Peters www.blaulicht-news.de, Feuerwehr
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2021-0008-00.jpg" >}}
   {{< img src="img/2021-0008-01.jpg" >}}
   {{< img src="img/2021-0008-02.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

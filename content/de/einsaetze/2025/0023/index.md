@@ -24,11 +24,11 @@ Die FF Eppendorf war mit 12 Einsatzkräften vor Ort.
 Reinigungs- und Instandsetzungsarbeiten an Sägen und Geräten konnten bereits an der Einsatzstelle durchgeführt werden.
 Nach knapp fünf Stunden war der Einsatz beendet, alle Fahrzeuge und Geräte waren wieder einsatzbereit.
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2025-0023-01.jpg" >}}
   {{< img src="img/2025-0023-02.jpg" >}}
   {{< img src="img/2025-0023-03.jpg" >}}
   {{< img src="img/2025-0023-04.jpg" >}}
   {{< img src="img/2025-0023-05.jpg" >}}
   {{< img src="img/2025-0023-06.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

@@ -20,8 +20,8 @@ Mehr Infos dazu demnächst.
 
 Bilder mit freundlicher Genehmigung von Michael Arning, VB und Pressestelle Feuerwehr Hamburg.
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2019-0013-00.jpg" >}}
   {{< img src="img/2019-0013-01.jpg" >}}
   {{< img src="img/2019-0013-02.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

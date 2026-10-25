@@ -28,10 +28,10 @@ Eine umfangreiche Einsatzhygiene konnte bereits vor Ort durchgeführt werden.
 
 Bilder mit freundlicher Genehmigung: Michael Arning
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2025-0003-01.jpg" >}}
   {{< img src="img/2025-0003-02.jpg" >}}
   {{< img src="img/2025-0003-03.jpg" >}}
   {{< img src="img/2025-0003-04.jpg" >}}
   {{< img src="img/2025-0003-05.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

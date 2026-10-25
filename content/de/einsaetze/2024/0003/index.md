@@ -27,10 +27,10 @@ Nach Rückkehr am FWH mussten wir umfangreiche Einsatzhygienemaßnahmen durchfü
 [Pressebericht der Feuerwehr Hamburg](https://www.facebook.com/TuUW.F32)
 
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2024-0003-01.jpg" >}}
   {{< img src="img/2024-0003-02.jpg" >}}
   {{< img src="img/2024-0003-03.jpg" >}}
   {{< img src="img/2024-0003-04.jpg" >}}
   {{< img src="img/2024-0003-05.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

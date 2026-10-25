@@ -23,10 +23,10 @@ Die FF Eppendorf war mit 12 Einsatzkräften und allen Fahrzeugen im Einsatz.
 Umfangreiche Reinigungs- und Instandsetzungsmaßnahmen der eingesetzten Geräte konnten noch vor Ort eingeleitet werden.
 Insgesamt waren wir knapp 3,5 Std. im Einsatz. Die Einsatzstelle wurde an den Verantwortlichen von Hagenbeck übergeben.
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2025-0021-01.jpg" >}}
   {{< img src="img/2025-0021-02.jpg" >}}
   {{< img src="img/2025-0021-03.jpg" >}}
   {{< img src="img/2025-0021-04.jpg" >}}
   {{< img src="img/2025-0021-05.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

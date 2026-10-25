@@ -15,11 +15,11 @@ Abschließend möchten wir uns bei den Kolleginnen und Kollegen der diensthabend
 Zum Abschluss rundete ein sehr leckeres und deftiges Mittagessen unseren Besuch ab.
 Wir freuen uns auf den nächsten Austausch!
 
-{{< carousel id="carousel-2" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2025-0000-01.jpg" >}}  
   {{< img src="img/2025-0000-02.jpg" >}}  
   {{< img src="img/2025-0000-03.jpg" >}}  
   {{< img src="img/2025-0000-04.jpg" >}}  
   {{< img src="img/2025-0000-05.jpg" >}}  
   {{< img src="img/2025-0000-06.jpg" >}}  
-{{< /carousel >}}
+{{< /gallery >}}

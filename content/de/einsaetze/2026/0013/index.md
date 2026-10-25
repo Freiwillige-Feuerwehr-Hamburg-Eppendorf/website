@@ -21,7 +21,7 @@ Intensive Reinigungs- und Hygienemaßnahmen konnten bereits vor Ort eingeleitet 
 
 Bilder: FPH
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2026-0013-01.jpg" >}}
   {{< img src="img/2026-0013-02.jpg" >}}
   {{< img src="img/2026-0013-03.jpg" >}}
@@ -31,4 +31,4 @@ Bilder: FPH
   {{< img src="img/2026-0013-07.jpg" >}}
   {{< img src="img/2026-0013-08.jpg" >}}
   {{< img src="img/2026-0013-09.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

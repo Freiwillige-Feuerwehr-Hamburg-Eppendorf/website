@@ -30,8 +30,8 @@ Bereits an der Einsatzstelle wurden erste Hygienemaßnahmen für unsere Einsatzk
 Die Einheit war gegen kurz nach 04:30 Uhr morgens wieder einsatzbereit.
 Hier der offizielle [Pressebericht](https://www.presseportal.de/blaulicht/pm/82522/5694419) der FW Hamburg.
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2024-0002-01.jpg" >}}
   {{< img src="img/2024-0002-02.jpg" >}}
   {{< img src="img/2024-0002-03.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

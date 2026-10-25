@@ -30,10 +30,10 @@ Bilder: FPH.
 
 [Offizieller Pressebericht](https://www.presseportal.de/blaulicht/pm/82522/5943028)
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2025-0001-01.jpg" >}}
   {{< img src="img/2025-0001-02.jpg" >}}
   {{< img src="img/2025-0001-03.jpg" >}}
   {{< img src="img/2025-0001-04.jpg" >}}
   {{< img src="img/2025-0001-05.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

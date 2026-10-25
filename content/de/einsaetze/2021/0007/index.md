@@ -26,8 +26,8 @@ im Einsatz.
 
 Bilder mit freundlicher Genehmigung von Thomas Knoop.
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2021-0007-00.jpg" >}}
   {{< img src="img/2021-0007-01.jpg" >}}
   {{< img src="img/2021-0007-02.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

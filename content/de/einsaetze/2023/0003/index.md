@@ -17,12 +17,12 @@ https://www.presseportal.de/blaulicht/pm/82522/5482538
 https://www.presseportal.de/blaulicht/pm/82522/5483693  
 https://www.presseportal.de/blaulicht/pm/82522/5487545  
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2023-0003-1.jpg" >}}
   {{< img src="img/2023-0003-2.jpg" >}}
   {{< img src="img/2023-0003-3.jpg" >}}
   {{< img src="img/2023-0003-4.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}
 
 Foto 3: Jonas Walzberg/DPA  
 Foto 4: Blaulicht-News.de  

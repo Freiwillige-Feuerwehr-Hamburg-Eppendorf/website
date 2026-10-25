@@ -27,10 +27,10 @@ Reinigungs- und Instandsetzungsmaßnahmen der Sägen und eingesetzten Geräte ko
 
 Bilder mit freundlicher Genehmigung: FPH
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2025-0013-01.jpg" >}}
   {{< img src="img/2025-0013-02.jpg" >}}
   {{< img src="img/2025-0013-03.jpg" >}}
   {{< img src="img/2025-0013-04.jpg" >}}
   {{< img src="img/2025-0013-05.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

@@ -16,8 +16,8 @@ Wir waren zusammen mit weiteren Kräften sechs Stunden im Einsatz.
 Bilder mit freundlicher Genehmigung von Sebastian Peters: www.blaulicht-news.de  
 Quelle: https://www.presseportal.de/pm/82522/4038688
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2018-0005-00.jpg" >}}
   {{< img src="img/2018-0005-01.jpg" >}}
   {{< img src="img/2018-0005-02.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

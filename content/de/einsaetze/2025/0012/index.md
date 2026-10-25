@@ -23,10 +23,10 @@ Nach Abschluss dieser Maßnahmen waren wir gegen 00:30 Uhr mit der Einheit wiede
 
 Bilder mit freundlicher Genehmigung von: FPH
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2025-0012-01.jpg" >}}
   {{< img src="img/2025-0012-02.jpg" >}}
   {{< img src="img/2025-0012-03.jpg" >}}
   {{< img src="img/2025-0012-04.jpg" >}}
   {{< img src="img/2025-0012-05.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

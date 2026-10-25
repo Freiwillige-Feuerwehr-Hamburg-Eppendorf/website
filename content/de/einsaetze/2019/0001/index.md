@@ -14,6 +14,6 @@ Zusammen mit der Berufsfeuerwehr Hamburg wurde der Baum entastet und vor dem Abs
 Foto: Pressestelle Feuerwehr Hamburg  
 Quelle: https://twitter.com/FeuerwehrHH/status/1095037872825163776
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2019-0001-00.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

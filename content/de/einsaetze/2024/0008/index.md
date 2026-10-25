@@ -27,8 +27,8 @@ Die Wehr war kurz vor 22:00 Uhr wieder einsatzbereit.
 
 Bilder mit freundlicher Genehmigung: FPH
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2024-0008-01.jpg" >}}
   {{< img src="img/2024-0008-02.jpg" >}}
   {{< img src="img/2024-0008-03.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

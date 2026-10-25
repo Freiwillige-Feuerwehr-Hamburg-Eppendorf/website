@@ -1,0 +1,46 @@
+{{/*
+    Thumbnail grid; clicking a thumbnail opens a modal carousel at that image.
+    Reuses Hinode's `img` shortcode, which renders carousel items into the
+    parent's "inner" scratch. Thumbnails are the same <img> tags with a smaller
+    `sizes` hint. No extra JS: the outer button opens the modal, the inner span
+    tells the carousel which slide to show (both via Bootstrap's data API).
+
+    {{< gallery >}}
+      {{< img src="img/foo-01.jpg" >}}
+      {{< img src="img/foo-02.jpg" >}}
+    {{< /gallery >}}
+*/}}
+{{- $_ := .Inner -}}{{/* Hugo requires .Inner for a shortcode with a closing tag */}}
+{{- $id := .Get "id" | default (printf "gallery-%d" .Ordinal) -}}
+{{- $inner := .Scratch.Get "inner" -}}
+{{- $imgs := findRE `<img [^>]*>` $inner -}}
+<div class="row row-cols-2 row-cols-md-3 g-2 mb-3{{ with .Get "class" }} {{ . }}{{ end }}">
+    {{- range $i, $img := $imgs }}
+    <div class="col">
+        <button type="button" class="btn p-0 border-0 w-100" data-bs-toggle="modal" data-bs-target="#{{ $id }}-modal">
+            <span class="ratio ratio-4x3 d-block" data-bs-target="#{{ $id }}-carousel" data-bs-slide-to="{{ $i }}">
+                {{- $img | replaceRE `sizes="[^"]*"` `sizes="(min-width: 768px) 33vw, 50vw" loading="lazy"` | replaceRE `class="([^"]*)"` `class="$1 object-fit-cover rounded"` | safeHTML -}}
+            </span>
+        </button>
+    </div>
+    {{- end }}
+</div>
+
+<div class="modal fade gallery-modal" id="{{ $id }}-modal" tabindex="-1" aria-label="{{ T "image" }}" aria-hidden="true">
+    <div class="modal-dialog modal-xl modal-dialog-centered modal-fullscreen-md-down">
+        <div class="modal-content bg-transparent border-0 justify-content-center">
+            <button type="button" class="btn-close btn-close-white ms-auto mb-2" data-bs-dismiss="modal" aria-label="Close"></button>
+            <div id="{{ $id }}-carousel" class="carousel slide">
+                <div class="carousel-inner">{{ $inner | safeHTML }}</div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#{{ $id }}-carousel" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#{{ $id }}-carousel" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
+        </div>
+    </div>
+</div>

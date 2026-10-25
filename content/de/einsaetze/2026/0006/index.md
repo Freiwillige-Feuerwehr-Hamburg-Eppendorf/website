@@ -23,7 +23,7 @@ Bilder: TV Newskontor
 
 
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2026-0006-01.jpg" >}}
   {{< img src="img/2026-0006-02.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

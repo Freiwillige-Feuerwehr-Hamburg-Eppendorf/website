@@ -24,10 +24,10 @@ Insgesamt waren wir inkl. Wiederherstellung der Einsatzbereitschaft rund 4 Std. 
 Mit freundlicher Genehmigung von Marco Zitzow, Michael Arning, Sebastian Peters  
 Pressebericht der Feuerwehr Hamburg: https://www.presseportal.de/blaulicht/pm/82522/4550468
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2020-0009-00.jpg" >}}
   {{< img src="img/2020-0009-01.jpg" >}}
   {{< img src="img/2020-0009-02.jpg" >}}
   {{< img src="img/2020-0009-03.jpg" >}}
   {{< img src="img/2020-0009-04.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

@@ -16,6 +16,6 @@ Die Dauer des Einsatzes betrug mehr als drei Stunden.
 Bild mit freundlicher Genehmigung von HamburgNews  
 Quelle: https://www.mopo.de/hamburg/polizei/sturm--heinz--in-hamburg-fischmarkt-unter-wasser---bahnstrecke-nach-luebeck-gesperrt-32227620
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2019-0003-00.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}

@@ -19,6 +19,6 @@ Nach kurzer Einsatzzeit war der betroffene Bereich rauchfrei und gegen kurz nach
 
 Bild: Symbolbild
 
-{{< carousel id="carousel" class="col-12 mx-auto" >}}
+{{< gallery >}}
   {{< img src="img/2021-0009-00.jpg" >}}
-{{< /carousel >}}
+{{< /gallery >}}
