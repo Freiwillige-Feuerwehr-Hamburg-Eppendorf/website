@@ -93,10 +93,31 @@
         }
     }
 }
-// gallery shortcode: keep any image (portrait or landscape) inside the viewport
+// gallery shortcode: stacks on Bootstrap's 50% backdrop to hide the page while sliding
+.gallery-modal {
+    background-color: rgba($black, .7);
+
+    .carousel-control-prev,
+    .carousel-control-next {
+        opacity: .8;
+    }
+
+    // white arrow on a dark disc, readable over bright and dark photos;
+    // .carousel in the selector beats Bootstrap's dark-mode icon inversion
+    .carousel .carousel-control-prev-icon,
+    .carousel .carousel-control-next-icon {
+        width: 3rem;
+        height: 3rem;
+        background-color: rgba($black, .3);
+        background-size: 50%;
+        border-radius: 50%;
+        filter: none;
+    }
+}
+
+// gallery shortcode: same-size slides so the modal doesn't jump between
+// portrait and landscape; each image is letterboxed inside the viewport
 .gallery-modal .carousel-item img {
-    width: auto if($enable-important-utilities, !important, null);
-    max-width: 100%;
-    max-height: calc(100vh - 5rem);
-    margin-inline: auto;
+    height: calc(100vh - 5rem);
+    object-fit: contain;
 }
