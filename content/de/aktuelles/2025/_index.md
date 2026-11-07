@@ -1,4 +1,6 @@
 ---
+title: Aktuelles 2025
+description: Neuigkeiten der Freiwilligen Feuerwehr Hamburg-Eppendorf aus dem Jahr 2025.
 content_blocks:
 - _bookshop_name: articles
   heading:

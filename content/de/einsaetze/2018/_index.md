@@ -1,4 +1,6 @@
 ---
+title: Einsätze 2018
+description: Alle Einsätze der Freiwilligen Feuerwehr Hamburg-Eppendorf im Jahr 2018.
 content_blocks:
 - _bookshop_name: articles
   heading:

@@ -1,4 +1,6 @@
 ---
+title: Einsätze
+description: Einsätze der Freiwilligen Feuerwehr Hamburg-Eppendorf - Brände, technische Hilfeleistungen und Unwettereinsätze im Überblick.
 content_blocks:
 - _bookshop_name: articles
   heading:

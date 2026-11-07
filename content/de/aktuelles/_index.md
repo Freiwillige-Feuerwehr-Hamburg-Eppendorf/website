@@ -1,4 +1,6 @@
 ---
+title: Aktuelles
+description: Neuigkeiten, Übungen und Veranstaltungen der Freiwilligen Feuerwehr Hamburg-Eppendorf.
 content_blocks:
 - _bookshop_name: articles
   heading:

@@ -1,4 +1,6 @@
 ---
+title: Fahrzeuge
+description: Die Fahrzeuge der Freiwilligen Feuerwehr Hamburg-Eppendorf.
 content_blocks:
 - _bookshop_name: articles
   heading:
