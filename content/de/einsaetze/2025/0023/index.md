@@ -1,7 +1,6 @@
 ---
 title: Großer gespaltener Ahorn drohte umzustürzen
 date: 2025-10-26 14:53:00
-description: " "
 thumbnail: img/einsaetze/2025/0023.jpg
 tag: DRZF
 ---

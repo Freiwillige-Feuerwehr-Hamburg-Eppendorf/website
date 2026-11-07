@@ -1,7 +1,6 @@
 ---
 title: Massive Explosion mit partiellem Gebäudeeinsturz 
 date: 2021-06-13 16:29:08
-description: " "
 thumbnail: img/einsaetze/2021/0008.jpg
 ---
 

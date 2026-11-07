@@ -1,7 +1,6 @@
 ---
 title: Belüftungsmaßnahmen & Fahrzeugbergung nach Brand in Tiefgarage
 date: 2025-11-14 07:22:00
-description: " "
 thumbnail: img/einsaetze/2025/0025.jpg
 tag: FEUTU2
 ---

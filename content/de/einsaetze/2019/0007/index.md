@@ -1,7 +1,6 @@
 ---
 title: LKW gerät außer Kontrolle
 date: 2019-07-18 00:00:00
-description: " "
 thumbnail: img/einsaetze/2019/0007.jpg
 ---
 

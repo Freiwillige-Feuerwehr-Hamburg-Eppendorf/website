@@ -1,7 +1,6 @@
 ---
 title: Großfeuer in der Billstraße
 date: 2023-04-30
-description: " "
 thumbnail: img/einsaetze/2023/0003.jpg
 ---
 

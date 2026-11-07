@@ -1,7 +1,6 @@
 ---
 title: Großfeuer in Autowerkstatt
 date: 2026-01-13 15:18:00
-description: " "
 thumbnail: img/einsaetze/2026/0002.jpg
 tag: FEU3
 ---

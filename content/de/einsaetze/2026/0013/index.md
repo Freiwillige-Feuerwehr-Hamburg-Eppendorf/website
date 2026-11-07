@@ -1,7 +1,6 @@
 ---
 title: Dachstuhlbrand einer Villa und massive Weide umgestürzt
 date: 2026-07-28 23:55:00
-description: " "
 thumbnail: img/einsaetze/2026/0013.jpg
 tag: DRZF-NF
 ---

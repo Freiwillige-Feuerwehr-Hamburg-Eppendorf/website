@@ -1,7 +1,6 @@
 ---
 title: Einweisung TMF70 an der Technik & Umweltwache
 date: 2025-09-13 00:00:00
-description: " "
 thumbnail: img/aktuelles/2025/0000.jpg
 ---
 Am Samstagvormittag, den 13.09.2025, war eine Abordnung mit 14 Einsatzkräften zur Aus- und Fortbildung an der Technik- & Umweltwache (TuUW 32), um sich sowohl an dem Hochdruckschneidlöschgerät "Cobra Cold-Cut-System" praktisch aufzufrischen, aber hauptsächlich um in das neue 70m-Teleskopmastfahrzeug (TMF 70) eingewiesen zu werden.

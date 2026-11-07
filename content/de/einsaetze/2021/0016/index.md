@@ -1,7 +1,6 @@
 ---
 title: PKW in Haus gefahren – Einsatzstelle fordert den TZ
 date: 2021-10-17 16:30:44
-description: " "
 thumbnail: img/einsaetze/2021/0016.jpg
 ---
 

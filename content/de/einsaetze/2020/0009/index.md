@@ -1,7 +1,6 @@
 ---
 title: Tiefbauunfall mit intensiven Sicherungsmaßnahmen
 date: 2020-03-22 17:38:37
-description: " "
 thumbnail: img/einsaetze/2020/0009.jpg
 ---
 

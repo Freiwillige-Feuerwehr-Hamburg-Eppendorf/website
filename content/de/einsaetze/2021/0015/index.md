@@ -1,7 +1,6 @@
 ---
 title: Lenz- und Sicherungsmaßnahmen
 date: 2021-10-06 16:18:43
-description: " "
 thumbnail: img/einsaetze/2021/0015.jpg
 ---
 

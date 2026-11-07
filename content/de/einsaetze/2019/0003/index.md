@@ -1,7 +1,6 @@
 ---
 title: Hallenwand drohte umzustürzen
 date: 2019-03-18 00:00:00
-description: " "
 thumbnail: img/einsaetze/2019/0003.jpg
 ---
 

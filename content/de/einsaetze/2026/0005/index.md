@@ -1,7 +1,6 @@
 ---
 title: Schwerer Busunfall gegen Baum
 date: 2026-03-26 13:24:00
-description: " "
 thumbnail: img/einsaetze/2026/0005.jpg
 tag: THMANV25
 ---

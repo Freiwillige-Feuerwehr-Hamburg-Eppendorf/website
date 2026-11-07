@@ -1,7 +1,6 @@
 ---
 title: Ausnahmezustand nach Starkregen sorgt für über 900 Einsätze
 date: 2024-08-07 17:32:00
-description: " "
 thumbnail: img/einsaetze/2024/0005.jpg
 tag: AUSN
 ---

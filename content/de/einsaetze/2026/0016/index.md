@@ -1,7 +1,6 @@
 ---
 title: Fliegerbombe in Bahrenfeld gefunden - akute Explosionsgefahr
 date: 2026-09-09 17:39:00
-description: " "
 thumbnail: img/einsaetze/2026/0016.jpg
 tag: KMFE
 ---

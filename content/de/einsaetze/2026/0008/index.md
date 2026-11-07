@@ -1,7 +1,6 @@
 ---
 title: Keller vollständig unter Wasser - Premiere für den Spannungswarner
 date: 2026-06-07 13:28:00
-description: " "
 thumbnail: img/einsaetze/2026/0008.jpg
 tag: WASSER
 ---

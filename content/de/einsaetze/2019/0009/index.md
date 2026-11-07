@@ -1,7 +1,6 @@
 ---
 title: Gemeldetes Feuer im Cockpit
 date: 2019-08-07 18:00:00
-description: " "
 thumbnail: img/default.png
 ---
 

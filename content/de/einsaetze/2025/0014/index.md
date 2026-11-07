@@ -1,7 +1,6 @@
 ---
 title: Brennt Dach einer Tischlerei in Bahrenfeld
 date: 2025-07-28 22:54:00
-description: " "
 thumbnail: img/einsaetze/2025/0014.jpg
 tag: FEU2
 ---

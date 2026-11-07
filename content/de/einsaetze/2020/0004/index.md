@@ -1,7 +1,6 @@
 ---
 title: FF Eppendorf unterstützt bei Feuer in Fuhlsbüttel
 date: 2020-03-01 16:00:00
-description: " "
 thumbnail: img/einsaetze/2020/0004.jpg
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Umgestürzter Baum in Oberleitungen der Fernbahn
 date: 2026-10-08 15:42:00
-description: " "
 thumbnail: img/einsaetze/2026/0017.jpg
 tag: THZUG
 ---

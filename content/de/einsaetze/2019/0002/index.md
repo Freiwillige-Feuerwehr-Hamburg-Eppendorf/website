@@ -1,7 +1,6 @@
 ---
 title: Beleuchtung für Kampfmittelräumdienst
 date: 2019-02-22 00:00:00
-description: " "
 thumbnail: img/einsaetze/2019/0002.jpg
 ---
 

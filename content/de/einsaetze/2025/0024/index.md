@@ -1,7 +1,6 @@
 ---
 title: Brandausbreitung nach Feuer im Restaurant auf St. Pauli
 date: 2025-11-09 21:08:00
-description: " "
 thumbnail: img/einsaetze/2025/0024.jpg
 tag: FEU3MANV5
 ---

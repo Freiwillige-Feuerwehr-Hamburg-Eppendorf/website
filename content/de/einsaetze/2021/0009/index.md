@@ -1,7 +1,6 @@
 ---
 title: Entrauchung über lange Wegstrecke
 date: 2021-06-20 16:14:02
-description: " "
 thumbnail: img/einsaetze/2021/0009.jpg
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Massiver Baum auf Baugerüst gestürzt
 date: 2026-08-29 18:22:00
-description: " "
 thumbnail: img/einsaetze/2026/0014.jpg
 tag: THM
 ---

@@ -3,6 +3,7 @@ title: Einsätze 2026
 description: Alle Einsätze der Freiwilligen Feuerwehr Hamburg-Eppendorf im Jahr 2026.
 content_blocks:
 - _bookshop_name: articles
+  body_style: title
   heading:
     title: Einsätze 2026
     align: start

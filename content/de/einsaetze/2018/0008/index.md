@@ -1,7 +1,6 @@
 ---
 title: Entstehender Dachstuhlbrand
 date: 2018-10-19 00:00:00
-description: " "
 thumbnail: img/einsaetze/2018/0008.jpg
 ---
 

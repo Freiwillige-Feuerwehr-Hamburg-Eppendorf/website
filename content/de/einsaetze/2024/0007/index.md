@@ -1,7 +1,6 @@
 ---
 title: Ausgedehnter Dachgeschoßbrand in Zweifamilienhaus
 date: 2024-10-01 13:27:00
-description: " "
 thumbnail: img/einsaetze/2024/0007.jpg
 tag: FEU2
 ---

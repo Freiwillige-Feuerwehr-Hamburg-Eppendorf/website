@@ -1,7 +1,6 @@
 ---
 title: Erneute Einsätze aufgrund von Trockenheit in Kombination mit Sturm
 date: 2026-07-03 00:00:00
-description: " "
 thumbnail: img/einsaetze/2026/0011.jpg
 tag: DRZF-Lage
 ---

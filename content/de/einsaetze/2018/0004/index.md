@@ -1,7 +1,6 @@
 ---
 title: Eingeklemmter Aufzugmonteur
 date: 2018-08-05 00:00:00
-description: " "
 thumbnail: img/einsaetze/2018/0004.jpg
 ---
 

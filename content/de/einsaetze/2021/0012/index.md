@@ -1,7 +1,6 @@
 ---
 title: Energieversorgung bei Kampfmittelfund
 date: 2021-07-25 16:04:31
-description: " "
 thumbnail: img/einsaetze/2021/0012.jpg
 ---
 

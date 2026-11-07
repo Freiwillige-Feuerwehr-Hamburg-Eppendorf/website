@@ -1,7 +1,6 @@
 ---
 title: Einsätze durch Sturmtief Ulf
 date: 2023-02-19
-description: " "
 thumbnail: img/einsaetze/2023/0002.jpg
 ---
 

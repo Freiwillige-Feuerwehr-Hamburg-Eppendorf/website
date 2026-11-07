@@ -1,7 +1,6 @@
 ---
 title: 20 Meter hoher Ahorn mit Kronenbruch
 date: 2025-07-02 21:12:00
-description: " "
 thumbnail: img/einsaetze/2025/0013.jpg
 tag: DRZF
 ---

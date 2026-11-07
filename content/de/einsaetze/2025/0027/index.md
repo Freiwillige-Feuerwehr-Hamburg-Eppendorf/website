@@ -1,7 +1,6 @@
 ---
 title: Alte Eiche brennt – Nachforderung zur Fällung
 date: 2025-12-30 23:46:00
-description: " "
 thumbnail: img/einsaetze/2025/0027.jpg
 tag: FEUK
 ---

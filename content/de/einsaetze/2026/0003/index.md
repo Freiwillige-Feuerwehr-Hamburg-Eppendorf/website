@@ -1,7 +1,6 @@
 ---
 title: Mehrere Bäume verkeilt und teilweise abgetragen
 date: 2026-02-03 15:46:00
-description: " "
 thumbnail: img/einsaetze/2026/0003.jpg
 tag: DRZF
 ---

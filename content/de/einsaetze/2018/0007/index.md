@@ -1,7 +1,6 @@
 ---
 title: Starke Rauchausbreitung erschwert Löschmaßnahmen
 date: 2018-09-11 00:00:00
-description: " "
 thumbnail: img/einsaetze/2018/0007.jpg
 ---
 

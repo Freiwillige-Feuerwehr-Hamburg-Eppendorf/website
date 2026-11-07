@@ -1,7 +1,6 @@
 ---
 title: Dachstuhlbrand in Reihenhaus
 date: 2026-06-17 16:01:00
-description: " "
 thumbnail: img/einsaetze/2026/0009.jpg
 tag: FEU2
 ---

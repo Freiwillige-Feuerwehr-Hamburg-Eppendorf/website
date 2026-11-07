@@ -1,7 +1,6 @@
 ---
 title: Gemeldeter Dachstuhlbrand in Hummelsbüttel
 date: 2024-11-06 13:40:00
-description: " "
 thumbnail: img/einsaetze/2024/0010.jpg
 tag: FEU
 ---

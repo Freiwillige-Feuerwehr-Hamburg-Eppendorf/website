@@ -16,6 +16,7 @@ content_blocks:
   cover: true
 
 - _bookshop_name: articles
+  body_style: title
   heading:
     title: Einsätze
     align: start
@@ -31,6 +32,7 @@ content_blocks:
   class: shadow border-0 card-zoom card-body-margin
 
 - _bookshop_name: articles
+  body_style: title
   heading:
     title: Aktuelles
     align: start

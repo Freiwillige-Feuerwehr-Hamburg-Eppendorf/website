@@ -1,7 +1,6 @@
 ---
 title: Große gespaltene Kirsche drohte umzustürzen
 date: 2025-06-06 09:53:00
-description: " "
 thumbnail: img/einsaetze/2025/0010.jpg
 tag: DRZF
 ---

@@ -1,7 +1,6 @@
 ---
 title: Feuer im Dachbereich eines Universitätsgebäudes
 date: 2026-03-31 12:11:00
-description: " "
 thumbnail: img/einsaetze/2026/0006.jpg
 tag: FEU2
 ---

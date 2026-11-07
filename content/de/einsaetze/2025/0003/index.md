@@ -1,7 +1,6 @@
 ---
 title: Feuer 3. Alarm brennt Dach - Einsatz Cobra-System
 date: 2025-03-06 15:17:00
-description: " "
 thumbnail: img/einsaetze/2025/0003.jpg
 tag: FEU3NOTF
 ---

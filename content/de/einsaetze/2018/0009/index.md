@@ -1,7 +1,6 @@
 ---
 title: Frontalzusammenstoß zwischen LKW und PKW
 date: 2018-12-06 00:00:00
-description: " "
 thumbnail: img/einsaetze/2018/0009.jpg
 ---
 

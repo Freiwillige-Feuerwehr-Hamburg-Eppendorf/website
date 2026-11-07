@@ -1,7 +1,6 @@
 ---
 title: Dachstuhlbrand in leerstehendem Haus
 date: 2025-12-26 08:16:00
-description: " "
 thumbnail: img/einsaetze/2025/0026.jpg
 tag: FEU2
 ---

@@ -1,7 +1,6 @@
 ---
 title: 7,5t-LKW akut umsturzgefährdet / Baum musste abgetragen werden
 date: 2026-09-04 15:39:00
-description: " "
 thumbnail: img/einsaetze/2026/0015.jpg
 tag: THLKW
 ---

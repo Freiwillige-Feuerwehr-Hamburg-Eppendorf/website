@@ -1,7 +1,6 @@
 ---
 title: Sicherungsmaßnahmen nach Arbeitsunfall auf U-Bahn Baustelle
 date: 2023-06-25
-description: " "
 thumbnail: img/einsaetze/2023/0005.jpg
 ---
 

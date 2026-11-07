@@ -1,7 +1,6 @@
 ---
 title: Unwetter über Hamburger Nordwesten
 date: 2019-09-01 18:00:00
-description: " "
 thumbnail: img/einsaetze/2019/0012.jpg
 ---
 

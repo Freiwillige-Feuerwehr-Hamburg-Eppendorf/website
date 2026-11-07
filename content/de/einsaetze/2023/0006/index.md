@@ -1,7 +1,6 @@
 ---
 title: Drei Zugeinsätze in 12 Stunden am Werktag
 date: 2023-07-09
-description: " "
 thumbnail: img/einsaetze/2023/0006.jpg
 ---
 

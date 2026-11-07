@@ -1,7 +1,6 @@
 ---
 title: Krangestützte Fällungen mit F32 und 23-SEGH
 date: 2026-04-05 14:12:00
-description: " "
 thumbnail: img/einsaetze/2026/0007.jpg
 tag: DRZF
 ---

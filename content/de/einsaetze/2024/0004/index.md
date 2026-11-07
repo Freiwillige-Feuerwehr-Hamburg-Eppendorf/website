@@ -1,7 +1,6 @@
 ---
 title: Ausgedehnter Dachstuhlbrand auf Mehrfamilienhaus
 date: 2024-07-29 12:31:00
-description: " "
 thumbnail: img/einsaetze/2024/0004.jpg
 tag: FEU3MANV5
 ---

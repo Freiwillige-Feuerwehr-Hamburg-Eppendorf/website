@@ -1,7 +1,6 @@
 ---
 title: Große gespaltene Buche drohte umzustürzen
 date: 2025-05-15 21:57:00
-description: " "
 thumbnail: img/einsaetze/2025/0007.jpg
 tag: DRZF
 ---

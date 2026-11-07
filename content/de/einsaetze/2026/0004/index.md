@@ -1,7 +1,6 @@
 ---
 title: Baum auf Dach mit 23-SEGH entfernt
 date: 2026-03-25 10:07:00
-description: " "
 thumbnail: img/einsaetze/2026/0004.jpg
 tag: DRZF
 ---

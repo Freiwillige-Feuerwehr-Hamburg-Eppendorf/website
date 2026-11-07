@@ -1,7 +1,6 @@
 ---
 title: Lenzen einer überlaufenden Sickergrube
 date: 2024-01-28 00:00:00
-description: " "
 thumbnail: img/einsaetze/2024/0001.jpg
 ---
 

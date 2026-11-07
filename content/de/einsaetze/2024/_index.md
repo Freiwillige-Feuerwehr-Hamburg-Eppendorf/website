@@ -3,6 +3,7 @@ title: Einsätze 2024
 description: Alle Einsätze der Freiwilligen Feuerwehr Hamburg-Eppendorf im Jahr 2024.
 content_blocks:
 - _bookshop_name: articles
+  body_style: title
   heading:
     title: Einsätze 2024
     align: start

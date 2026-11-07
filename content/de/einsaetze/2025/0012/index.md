@@ -1,7 +1,6 @@
 ---
 title: Großfeuer in Billbrook
 date: 2025-07-01 20:33:00
-description: " "
 thumbnail: img/einsaetze/2025/0012.jpg
 tag: FEU3MANV5
 ---

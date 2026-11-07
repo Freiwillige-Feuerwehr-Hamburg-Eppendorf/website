@@ -1,7 +1,6 @@
 ---
 title: Große gespaltene Buche aus Zoogelände auf Straße gefallen
 date: 2025-09-21 14:59:00
-description: " "
 thumbnail: img/einsaetze/2025/0021.jpg
 tag: DRZF
 ---

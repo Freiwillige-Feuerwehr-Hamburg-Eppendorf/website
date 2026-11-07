@@ -1,7 +1,6 @@
 ---
 title: Großer Baum beschädigt mehrere Autos
 date: 2019-11-01 17:26:01
-description: " "
 thumbnail: img/einsaetze/2019/0017.jpg
 ---
 

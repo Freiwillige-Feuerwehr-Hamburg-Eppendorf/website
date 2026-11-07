@@ -1,7 +1,6 @@
 ---
 title: Cobra-Einsatz bei Fassadenbrand
 date: 2024-09-14 11:17:00
-description: " "
 thumbnail: img/einsaetze/2024/0006.jpg
 tag: FEU2
 ---

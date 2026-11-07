@@ -1,7 +1,6 @@
 ---
 title: Vermehrte Einsätze durch Trockenheit und Sturm
 date: 2026-06-27 00:00:00
-description: " "
 thumbnail: img/einsaetze/2026/0010.jpg
 tag: DRZF-Lage
 ---

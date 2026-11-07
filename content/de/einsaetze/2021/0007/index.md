@@ -1,7 +1,6 @@
 ---
 title: Tonnenschwerer Ast auf Gebäude gefallen
 date: 2021-06-10 15:52:15
-description: " "
 thumbnail: img/einsaetze/2021/0007.jpg
 ---
 

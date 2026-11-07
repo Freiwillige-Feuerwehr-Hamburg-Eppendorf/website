@@ -1,7 +1,6 @@
 ---
 title: Mehrere Verschüttete nach schwerem Arbeitsunfall
 date: 2023-10-30
-description: " "
 thumbnail: img/einsaetze/2023/0009.jpg
 ---
 

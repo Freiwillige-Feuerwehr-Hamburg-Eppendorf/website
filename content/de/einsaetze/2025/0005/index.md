@@ -1,7 +1,6 @@
 ---
 title: Ausgedehnter Gebäudebrand in Wohnunterkunft
 date: 2025-04-27 19:20:00
-description: " "
 thumbnail: img/einsaetze/2025/0005.jpg
 tag: FEU2MANV5
 ---

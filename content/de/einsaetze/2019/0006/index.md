@@ -1,7 +1,6 @@
 ---
 title: Feuer im UKE
 date: 2019-06-29 00:00:00
-description: " "
 thumbnail: img/einsaetze/2019/0006.jpg
 ---
 

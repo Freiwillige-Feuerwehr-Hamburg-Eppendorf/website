@@ -1,7 +1,6 @@
 ---
 title: Kampfmittelfund in der Sternschanze
 date: 2024-10-12 18:36:00
-description: " "
 thumbnail: img/einsaetze/2024/0009.jpg
 tag: KMFE
 ---

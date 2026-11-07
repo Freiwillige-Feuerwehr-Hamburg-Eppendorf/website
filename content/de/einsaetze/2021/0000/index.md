@@ -1,7 +1,6 @@
 ---
 title: Unterstützung bei Großbrand in Bootshaus
 date: 2021-01-31 20:17:25
-description: " "
 thumbnail: img/einsaetze/2021/0000.jpg
 ---
 

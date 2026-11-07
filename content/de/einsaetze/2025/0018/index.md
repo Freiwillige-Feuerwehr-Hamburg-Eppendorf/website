@@ -1,7 +1,6 @@
 ---
 title: Großfeuer auf der Veddel
 date: 2025-08-25 17:24:00
-description: " "
 thumbnail: img/einsaetze/2025/0018.jpg
 tag: FEU5MANV10
 ---

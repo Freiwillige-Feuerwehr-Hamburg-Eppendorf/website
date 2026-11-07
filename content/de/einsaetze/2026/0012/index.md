@@ -1,7 +1,6 @@
 ---
 title: Intensive Sicherungsmaßnahmen bei akuter Einsturzgefahr
 date: 2026-07-23 15:18:00
-description: " "
 thumbnail: img/einsaetze/2026/0012.jpg
 tag: THM
 ---

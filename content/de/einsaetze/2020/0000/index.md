@@ -1,7 +1,6 @@
 ---
 title: Dachhautöffnung bei Feuer in Langenhorn
 date: 2020-01-18 00:00:00
-description: " "
 thumbnail: img/einsaetze/2020/0000.jpg
 ---
 

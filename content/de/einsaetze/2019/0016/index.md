@@ -1,7 +1,6 @@
 ---
 title: Ausleuchtung für Kampfmittelräumdienst
 date: 2019-10-19 14:44:18
-description: " "
 thumbnail: img/einsaetze/2019/0016.jpg
 ---
 

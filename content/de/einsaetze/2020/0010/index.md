@@ -1,7 +1,6 @@
 ---
 title: Vierstämmiger Baum droht zu fallen
 date: 2020-05-24 16:06:05
-description: " "
 thumbnail: img/einsaetze/2020/0010.jpg
 ---
 

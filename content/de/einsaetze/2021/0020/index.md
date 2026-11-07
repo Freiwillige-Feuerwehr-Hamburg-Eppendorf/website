@@ -1,7 +1,6 @@
 ---
 title: 40t-Sattelzug auf Bundesautobahn umgestürzt
 date: 2021-12-19 17:21:33
-description: " "
 thumbnail: img/einsaetze/2021/0020.jpg
 ---
 

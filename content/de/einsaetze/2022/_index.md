@@ -3,6 +3,7 @@ title: Einsätze 2022
 description: Alle Einsätze der Freiwilligen Feuerwehr Hamburg-Eppendorf im Jahr 2022.
 content_blocks:
 - _bookshop_name: articles
+  body_style: title
   heading:
     title: Einsätze 2022
     align: start

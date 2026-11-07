@@ -1,7 +1,6 @@
 ---
 title: Wetterbedingte Einsätze durch Schnee
 date: 2026-01-09 00:00:00
-description: " "
 thumbnail: img/einsaetze/2026/0001.jpg
 tag: DRZF
 ---

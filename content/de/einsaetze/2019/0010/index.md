@@ -1,7 +1,6 @@
 ---
 title: 39 Kräfte über 13 Stunden im Einsatzmarathon
 date: 2019-08-09 16:46:51
-description: " "
 thumbnail: img/einsaetze/2019/0010.jpg
 ---
 

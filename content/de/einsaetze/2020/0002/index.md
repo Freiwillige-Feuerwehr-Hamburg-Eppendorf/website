@@ -1,7 +1,6 @@
 ---
 title: Ausnahmezustand durch Orkantief Sabine
 date: 2020-02-16 00:00:00
-description: " "
 thumbnail: img/einsaetze/2020/0002.jpg
 ---
 

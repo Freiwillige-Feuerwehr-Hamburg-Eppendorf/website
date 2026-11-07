@@ -1,7 +1,6 @@
 ---
 title: Dachstuhlbrand in Bahrenfeld 
 date: 2025-06-30 21:13:00
-description: " "
 thumbnail: img/einsaetze/2025/0011.jpg
 tag: FEU2NOTF
 ---
