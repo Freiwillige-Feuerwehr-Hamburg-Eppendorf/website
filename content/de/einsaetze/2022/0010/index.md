@@ -1,15 +1,17 @@
 ---
-title: Explosion in Schule
-date: 2022-11-21 00:00:46
+title: Einsatzreiches Wochenende
+date: 2022-11-21 00:11:56
 description: " "
 thumbnail: img/einsaetze/2022/0010.jpg
 ---
- Am Mittwoch, den 06.07.2022 gegen kurz nach 10 Uhr wurde die FF Eppendorf in den Stadtteil Finkenwerder alarmiert. Vor Ort hatte sich bereits um kurz vor 4 Uhr morgens eine kräftige Explosion in einer Schule ereignet. In der Folge wurde 2. Alarm ausgelöst.     Unsere Partnerkomponente Freiwillige Feuerwehr Warwisch war auch vor Ort. Die Druckwelle hatte Teile des Gebäudes einstürzen lassen. Nachbargebäude wurden beschädigt. Der Einsatzführungsdienst Süd hatte den gesamten Technischen Zug der FF Eppendorf für Abstützarbeiten im Objekt, nach Bewertung durch einen Statiker, nachgefordert.     Nach intensiver Erkundung wurden mehrere Einsatzabschnitte gebildet und wir haben den Abschnitt Abstützung übernommen. Zudem haben wir bei der Bewertung der Schadenselemente unterstützt und ein fortlaufendes, zyklisches Rissmanagement durchgeführt.     Im weiteren Verlauf wurde nach Aufmaß durch unsere Kräfte eine viergliedrige Abstützung mittels Rüstholzes in Form eines Schwelljochs für den betroffenen Bereich erstellt und ein Holzzuschnittplatz neben dem ebenfalls nachalarmierten AB-Holz-Rüstmaterial eingerichtet. Der Holzzuschnitt erfolgte mittels Ketten- und Handkreissäge. Durch das THW wurden im Außenbereich mit dem angeforderten Bagger in enger Abstimmung nach Abschluss unserer Maßnahmen einsturzgefährdete Gebäudeteile abgetragen.     Am späten Nachmittag waren wir zurück am Feuerwehrhaus und unsere Reinigungsmaßnahmen beendet. Wir waren mit insgesamt 16 Einsatzkräften und allen Fahrzeugen samt LIMA vor Ort.     Hier der Pressebereicht: https://www.presseportal.de/blaulicht/pm/82522/5267781     Bilder: Blaulicht-News.de, FPH.      
+ Am letzten Wochenende musste die FF Eppendorf im Zeitraum von Freitagabend bis Sonntagfrüh zu insgesamt 3 Einsätzen mit knapp 11 Std. Einsatzdauer ausrücken. Neben einem havarierten 85cm starken Baum in Langenhorn, der mittels Kettensägen gefällt und Seilwinde umgezogen werden musste, wurden wir zu einer Notlandung eines Motorseglers nach Steinwerder alarmiert, konnten hier aber abbrechen.     Sonntagnacht, den 31.07.2022 wurde der gesamte Technische Zug der FF Eppendorf zeitintensiv bei einem ausgedehnten Dachstuhlbrand (3. Alarm) im Stadtteil Sternschanze eingesetzt. Nach einem ausgedehnten Wohnungsbrand war das Feuer ins Dach gelaufen. Es brannten u.a. Teile eines Flachdaches eines fünfgeschossigen Wohngebäudes. Wir waren über mehrere Stunden ab dem frühen Morgen mit insgesamt 16 Einsatzkräften und 3 Fahrzeugen samt LIMA an der Einsatzstelle um mit mehreren Atemschutzgeräteträgern, gesichert durch die SEG-Höhenrettung über Top-Rope-Sicherungen vom Korb einer DLK, auf dem Dach diverse Dachhautöffnungen zur weiteren Erkundung und taktischen Ventilation mittels Rettungssägen und Trennschleifern durchzuführen. Das Flachdach wurde an mehreren Stellen aufgenommen.     Kurz nach 23 Uhr am Samstagabend wurde das Feuer gemeldet. An der Einsatzstelle gab es im Dachbereich des Brandobjektes eine starke Rauchentwicklung begleitet von einem teilweise starken Flammenschlag. Es wurde eine massive Brandbekämpfung im kombinierten Innen- und Außenangriff vorgetragen. Intensive Nachlösch- und Aufräumarbeiten dauerten über längere Zeit. Morgens um kurz nach 8 Uhr waren sämtliche Einsatzgeräte wieder gereinigt und die Einheit uneingeschränkt einsatzbereit.     Bilder mit freundlicher Genehmigung von Michael Arning.       
 
 {{< gallery overlay=false >}}
-  {{< img src="img/Explosion-Schule-1.jpg" >}}
-  {{< img src="img/Explosion-Schule-2.jpg" >}}
-  {{< img src="img/Explosion-Schule-3.jpg" >}}
-  {{< img src="img/Explosion-Schule-4.jpg" >}}
+  {{< img src="img/FEU_Sternschanze-1.jpg" >}}
+  {{< img src="img/FEU_Sternschanze-2.jpg" >}}
+  {{< img src="img/FEU_Sternschanze-3.jpg" >}}
+  {{< img src="img/FEU_Sternschanze-4.jpg" >}}
+  {{< img src="img/FEU_Sternschanze-5.jpg" >}}
+  {{< img src="img/FEU_Sternschanze-6.jpg" >}}
 {{< /gallery >}}
 

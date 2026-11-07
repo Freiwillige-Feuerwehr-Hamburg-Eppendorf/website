@@ -1,17 +1,15 @@
 ---
-title: Einsatzreiches Wochenende
-date: 2022-11-21 00:11:56
+title: Großfeuer in Müllverbrennungsanlage
+date: 2022-11-21 00:27:30
 description: " "
 thumbnail: img/einsaetze/2022/0011.jpg
 ---
- Am letzten Wochenende musste die FF Eppendorf im Zeitraum von Freitagabend bis Sonntagfrüh zu insgesamt 3 Einsätzen mit knapp 11 Std. Einsatzdauer ausrücken. Neben einem havarierten 85cm starken Baum in Langenhorn, der mittels Kettensägen gefällt und Seilwinde umgezogen werden musste, wurden wir zu einer Notlandung eines Motorseglers nach Steinwerder alarmiert, konnten hier aber abbrechen.     Sonntagnacht, den 31.07.2022 wurde der gesamte Technische Zug der FF Eppendorf zeitintensiv bei einem ausgedehnten Dachstuhlbrand (3. Alarm) im Stadtteil Sternschanze eingesetzt. Nach einem ausgedehnten Wohnungsbrand war das Feuer ins Dach gelaufen. Es brannten u.a. Teile eines Flachdaches eines fünfgeschossigen Wohngebäudes. Wir waren über mehrere Stunden ab dem frühen Morgen mit insgesamt 16 Einsatzkräften und 3 Fahrzeugen samt LIMA an der Einsatzstelle um mit mehreren Atemschutzgeräteträgern, gesichert durch die SEG-Höhenrettung über Top-Rope-Sicherungen vom Korb einer DLK, auf dem Dach diverse Dachhautöffnungen zur weiteren Erkundung und taktischen Ventilation mittels Rettungssägen und Trennschleifern durchzuführen. Das Flachdach wurde an mehreren Stellen aufgenommen.     Kurz nach 23 Uhr am Samstagabend wurde das Feuer gemeldet. An der Einsatzstelle gab es im Dachbereich des Brandobjektes eine starke Rauchentwicklung begleitet von einem teilweise starken Flammenschlag. Es wurde eine massive Brandbekämpfung im kombinierten Innen- und Außenangriff vorgetragen. Intensive Nachlösch- und Aufräumarbeiten dauerten über längere Zeit. Morgens um kurz nach 8 Uhr waren sämtliche Einsatzgeräte wieder gereinigt und die Einheit uneingeschränkt einsatzbereit.     Bilder mit freundlicher Genehmigung von Michael Arning.       
+ Am Freitagmittag, den 26.08.2022 wurde der gesamte Technische Zug der FF Eppendorf zu einem langwierigen Großfeuer (Feuer 3. Alarm) in einer Müllverbrennungsanlage im Stadtteil Billbrook alarmiert. Es brannte innerhalb eines ca. 80m hohen Schornsteins. Der Einsatz lief bereits seit knapp 14 Stunden. Wir waren speziell angefordert um das Hockdruckschneidlöschsystem Cobra Cold Cut dort einzusetzen und die seit Stunden im Einsatz befindliche FF Warwisch abzulösen.     Von außen wurde der Schornstein über längere Zeit über 3 Hubrettungsfahrzeuge und Wasserwerfer stetig gekühlt. Wir waren mit insgesamt 18 Einsatzkräften und 3 Fahrzeugen samt Lichtmastanhänger vor Ort, um diverse Öffnungen zum Kühlen und Löschen am Schornstein nach konstanter Wärmebildüberwachung in entsprechender Höhe über die DLK mittels CobraColdCut zu schaffen. Darunter waren speziell unterwiesene Einsatzkräfte und Cobra-Instructoren. Die Arbeiten gestalteten sich aufgrund der Stahlkonstruktion als zeitintensiv.   Ab ca. 21:30 Uhr konnte ein 3er Trupp der FF Eppendorf über den Arbeitskorb der TuUW32, angeschlagen an einen 700t-Kran, in ca. 50m Höhe trotz erheblicher Materialstärke erfolgreich ein Loch mittels Brennschneidgerät in den Schornstein brennen. Hierdurch konnte in der Folge Netzmittel zur Brandbekämpfung eingebracht werden. Die Ausleuchtung der Einsatzstelle wurde durch den LIMA/GA großflächig durchgeführt. Gegen halb eins in der Nacht wurden wir dann durch die FF Warwisch wieder abgelöst und kurz nach 2 Uhr nachts waren wir nach knapp 13,5 Std. Einsatzdauer wieder einsatzbereit am FWH. Es handelte sich um den ersten realen Cobra-Einsatz für uns.   Bilder FPH.      
 
 {{< gallery overlay=false >}}
-  {{< img src="img/FEU_Sternschanze-1.jpg" >}}
-  {{< img src="img/FEU_Sternschanze-2.jpg" >}}
-  {{< img src="img/FEU_Sternschanze-3.jpg" >}}
-  {{< img src="img/FEU_Sternschanze-4.jpg" >}}
-  {{< img src="img/FEU_Sternschanze-5.jpg" >}}
-  {{< img src="img/FEU_Sternschanze-6.jpg" >}}
+  {{< img src="img/FEU_Turm1.jpg" >}}
+  {{< img src="img/FEU_Turm2.jpg" >}}
+  {{< img src="img/FEU_Turm3.jpg" >}}
+  {{< img src="img/FEU_Turm4.jpg" >}}
 {{< /gallery >}}
 
