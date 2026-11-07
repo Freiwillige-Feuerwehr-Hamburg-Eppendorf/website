@@ -1,6 +1,6 @@
 ---
 title: Freiwillige Feuerwehr Hamburg-Eppendorf
-description: Technischer Zug - F1951
+description: Freiwillige Feuerwehr Hamburg-Eppendorf (F1951) - aktuelle Einsätze, unsere Fahrzeuge, das Feuerwehrhaus und Infos zum Mitmachen.
 content_blocks:
 - _bookshop_name: hero
   heading:
