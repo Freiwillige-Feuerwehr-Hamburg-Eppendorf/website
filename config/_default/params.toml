@@ -105,6 +105,15 @@
     themeFontPath = "/fonts" # local path
     purge = false
 
+[schema]
+    type = "Organization"
+    name = "Freiwillige Feuerwehr Hamburg-Eppendorf"
+    github = ""
+    [schema.author]
+        name = "Freiwillige Feuerwehr Hamburg-Eppendorf"
+        linkedin = ""
+        github = ""
+
 [opengraph]
     images = ["logo.png"]
 
